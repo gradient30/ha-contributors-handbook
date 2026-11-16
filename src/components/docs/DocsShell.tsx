@@ -241,7 +241,17 @@ export function DocsShell({ slug }: { slug: string }) {
   const toc = useMemo(() => {
     if (slug === "sitemap") return SITEMAP_TOC;
     if (slug === "updates") return UPDATES_TOC;
-    if (slug === "home") return [{ id: "areas", text: "分区", level: 2 }];
+    if (slug === "home") {
+      return [
+        { id: "intro", text: "这是什么系统", level: 2 },
+        { id: "scenarios", text: "应用场景", level: 2 },
+        { id: "levels", text: "按程度开始", level: 2 },
+        { id: "beginner", text: "入门", level: 3 },
+        { id: "advanced", text: "进阶", level: 3 },
+        { id: "geek", text: "极客", level: 3 },
+        { id: "areas", text: "分区", level: 2 },
+      ];
+    }
     return extractToc(md);
   }, [md, slug]);
   const { prev, next } = neighbors(slug);
