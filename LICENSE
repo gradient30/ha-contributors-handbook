@@ -1,0 +1,26 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+This unofficial Chinese translation of the Home Assistant contributors
+documentation is licensed under CC BY-NC-SA 4.0.
+
+You are free to share and adapt the translated documentation, provided you
+give appropriate credit, do not use it for commercial purposes, and distribute
+your adaptations under the same license.
+
+Full legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Deed: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Attribution:
+  - Original documentation: Home Assistant and the Open Home Foundation
+    https://contributors.home-assistant.io/
+    https://github.com/home-assistant/contributors.home-assistant.io
+  - The official contributors.home-assistant.io repository does not include a
+    LICENSE file at its root. The official licensing page states that
+    documentation on home-assistant.io is released under CC BY-NC-SA 4.0, and
+    project code under Apache License 2.0. This translation follows the
+    documentation license.
+    https://contributors.home-assistant.io/start/licensing/
+    https://github.com/home-assistant/home-assistant.io/blob/current/LICENSE.md
+
+This repository is not an official Home Assistant project and does not replace
+the official documentation.

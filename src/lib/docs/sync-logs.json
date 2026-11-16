@@ -1,0 +1,21 @@
+[
+  {
+    "id": "2026-11-16-initial",
+    "capturedAt": "2026-11-16T05:55:45Z",
+    "summary": "首次对照官网并发布 18 个分区的中文译本。官方博客未收入。",
+    "llmsHash": "",
+    "changes": [
+      {
+        "kind": "baseline",
+        "slug": "home",
+        "title": "手册上线",
+        "officialUrl": "https://contributors.home-assistant.io/",
+        "handbookHref": "/",
+        "location": "首页",
+        "prevHash": null,
+        "nextHash": null,
+        "note": "对照源仓库 main@2438d10 与官网 index.md 指纹。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,153 @@
+---
+title: 词汇表
+description: 一个词,一个意思。 由代码,UI文本和docs共享.
+sidebarGroups:
+- 捐款
+- 核心和一体化
+- 实体和装置
+- 自动化和组织
+- 前端
+- 声音
+- 数据
+- 安装和系统
+- 社区
+---
+
+# 词汇表 {#glossary}
+
+Home Assistant有它自己的单词,有些单词在代码中用另一个名字,而不是UI. 在这里,每个词都有一个含义,一个页里都写着它如何随处可见:在代码中,在UI中,以及它过去的名称.
+
+使用这些术语在这里的定义方式,在代码,UI文本和文档中. 在这个网站的docs中,术语与定义本身的链接,一个页面第一次使用它们:点到一个带有点行的单词,看它意味着什么.
+
+缺少一个词,还是找到一个可以更清晰的词? 每个名词都是`src/content/docs/glossary/`中的一页:编辑它,或者添加一个新的.
+
+- [行动](/glossary/action):有些事情Home Assistant可以做,比如打开灯或者发送通知. 自动化,脚本,和仪表板执行动作.
+- [应用](/glossary/app):在 Home Assistant OS 上运行于 Home Assistant 旁边的额外软件, 如 MQTT 经纪人或文件编辑器 。
+- [结构决定](/glossary/architecture-decision):关于 Home Assistant 如何建立、 讨论和记录在家里- 助手/ 建筑库的决定 。
+- 目 录 [区域](/glossary/area):  那我们家的房子或空间, 和厨房一样, 是设备和实体的。
+- [Assist](/glossary/assist): Home Assistant的语音助理. 它把你说的话或者打字变成行动
+- [输油管](/glossary/assist-pipeline):一个语音命令的步骤会经过:醒字,语音到文字,对话代理,以及文字到语音.
+- [卫星 Assist](/glossary/assist-satellite):一个听声音命令并发送到Home Assistant的设备,如Home Assistant Voice预览版.
+- [属性](/glossary/attribute): 附加信息随状态而来, 如光亮度或它支持的效果列表.
+- [自动化](/glossary/automation):当触发器发生并满足其条件时执行动作的规则,比如有人在家时在日落时打开灯光.
+- [向后兼容的更改](/glossary/backward-incompatible-change):一个需要用户或开发者改变自己侧面的东西的更改,比如他们的配置或他们的自定义集成.
+- [徽章](/glossary/badge):一粒小丸,在景点顶端,一看就看一个状态,像外面的温度.
+- [芭蕉](/glossary/bashio):用于应用的Bash函数库,有帮助者用于读取应用的选项,记录,和与Supervisor API交谈.
+- [贝塔](/glossary/beta):下一次发行的测试版,在发布前一周发布,这样人们就可以在每个人更新之前发现问题.
+- [蓝图](/glossary/blueprint):一个自动化,脚本,或模板实体,需要填充空白,所以其他人可以再利用它,就像一个只需要运动传感器和灯光的运动灯.
+- [处](/glossary/branch):一个寄存器中一个单独的一行变化,这样你就可以在不接触主版本的情况下进行一些工作.
+- [构建根](/glossary/buildroot): 工具Home Assistant OS是用它建的。 它从源头构建了一个完整的,小型的Linux系统,而不是从Ubuntu这样的发行开始.
+- [纸牌](/glossary/card):仪表盘上显示或控制某种事物的块,如实体,图表,或天气预报.
+- [卡片特性](/glossary/card-feature):卡片底部的额外控制,如亮度滑动器或真空按钮.
+- [CI](/glossary/ci):连续整合:自动检查,如测试,linters,和类型检查,运行在每pull request上.
+- [洛杉矶](/glossary/cla): Contributor License Agreement: 您确认您有权根据项目许可证分享您的捐款 。 你签过一次
+- [提交](/glossary/commit)仍旧保存在寄存器中的一个更改为一个或多个文件, 并有一条信息可以说明什么改变了 。
+- [辅助应用程序](/glossary/companion-app):Android,iOS和macOS的应用程序 Home Assistant. 它显示前端,并添加来自设备的传感器,通知和部件.
+- [ụ nó 翎恣梢凛咀徘آ滔颐几句鸠凹 周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周周](/glossary/condition):在继续之前检查一个自动化或脚本,就像某人是否在家一样.
+- [配置条目](/glossary/config-entry):一个集成的设置实例,像一个惠桥,其配置 Home Assistant为它存储.
+- [配置流量](/glossary/config-flow):UI中设置集成并创建配置条目的步骤.
+- {am [配置子条目](/glossary/config-subentry):用户自行添加和管理的配置条目的一部分,如连接到AI服务的集成的AI代理.
+- [对话代理商](/glossary/conversation-agent):什么能理解一个命令并回答它:Home Assistant的内置代理,或者来自一个集成,像AI服务.
+- [协调员](/glossary/coordinator):一个在时间表上一次为许多实体获取数据的帮助者,所以一个设备或API被询问一次而不是每个实体一次.
+- [自定义卡](/glossary/custom-card):不是前端部分的卡,由用户从JavaScript文件中加载.
+- [之一就是自定义集成](/glossary/custom-integration):不是Home Assistant Core一部分的集成,由用户安装在`custom_components`文件夹中.
+- [电线板](/glossary/dashboard):一张显示和控制家的卡片页. 用户可以随意拥有尽可能多的仪表板.
+- [部署预览](/glossary/deploy-preview):Netlify公司建造的带有pull request更改的网站的临时副本,在合并前检查.
+- [折旧](/glossary/deprecation):宣布某物会在稍后的发行中被移除,同时它一直工作到那时,所以人们可以继续前进.
+- [设计符号](/glossary/design-token):设计的命名值,如颜色,间距,或半径,使用而非硬码值.
+- [Dev 分支](/glossary/dev-branch):许多Home Assistant寄存器中发生开发的分支,如Home Assistant Core和前端. 拉请求去那里。
+- [设备](/glossary/device):一个物理设备,或一种服务,一个一个或多个实体属于它,就像一个带有温度传感器和湿度传感器的恒温器.
+- {为实现 [设备类](/glossary/device-class) : 实体衡量或是什么, 如 `temperature` 或 `door` 。 它设置图标,单位,以及前端如何显示实体.
+- [诊断](/glossary/diagnostics):使用配置条目或设备的数据和状态进行下载,用户会附在一个问题上以帮助调试.
+- [发现](/glossary/discovery): 查找设备与服务, 如在网络上或超过Bluetooth, 因此Home Assistant 可以提供设置 。
+- [域名](/glossary/domain):一个集成的短而独特的标识符,如`hue`或`light`. 它也是每个实体身份证的第一部分。
+- [六方会谈](/glossary/entity):有一件事Home Assistant可以显示,测量,或者控制,比如灯光,温度传感器,或者开关. 每个实体都有国家。
+- [实体类别](/glossary/entity-category):将一个实体标记为配置或诊断,所以它不会出现在设备的主要控制器旁边.
+- [实体说明](/glossary/entity-description):一个具有实体固定属性的数据类, 有些像它的密钥, 翻译密钥, 以及设备类, 所以许多类似的实体可以共享一个类.
+- [因 有什么所作 好吗 反对 我来 总 我们可以 过来](/glossary/entity-id):一个 HIVits的ID:它的域和对象ID,像`light.kitchen`.
+- [图片](/glossary/epic): Home Assistant/教科文库中更大的工作, 由可以跨越多个教科文库的任务组成.
+- 限制因素 瓮: 就这些事件总线上的消息, 例如状态更改或遽按 。 任何代码都可以听到事件.
+- [事件循环](/glossary/event-loop):运行Home Assistant Core的星环. 代码屏蔽它, 就像在网络上等待没有`await`, 停止其他一切。
+- [特性 với信守 希望你立足于 也许我 说真的](/glossary/feature-request): Home Assistant中新事物的构思, 在特性请求讨论GitHub中分享, 其他人可以在这里评论和投票.
+- 笃定:像底层一样,拥有区域的家庭一层。
+- [叉](/glossary/fork) : 您自己的寄存器副本, 在您的 GitHub 账户上, 您在提议更改前会在此更改 。
+- [前端](/glossary/frontend):用 Lit 和 TypeScript 建造的 Home Assistant 的网页界面, 位于家用辅助/ 前端寄存器中 。
+- [HACS](/glossary/hacs): Home Assistant社区商店:安装社区制作的集成,卡片和主题的定制集成,直到2026.11年市场更换. 它的目录和工具还在继续。
+- [隐藏对象](/glossary/hass) : `HomeAssistant` 集成得到的例子, 访问状态机器、 事件总线、 动作和配置 。
+- [狂欢](/glossary/hassfest): Home Assistant Core 中的工具, 用于验证每个集成的文件, 如其显示和翻译, 并从中生成文件 。
+- [帮助者](/glossary/helper):用户在UI中创建的实体,以持有一个值或结合其他值,如切换,数字,计时器,或组合.
+- [Home Assistant Core](/glossary/core): {的答复} Python 应用程序位于Home Assistant 的核心, 及其所有集成, 在Home Assistant/核心寄存器中 。
+- [实验室](/glossary/labs):在用户可以打开预览功能的地方:可以工作的新功能,但其设计仍然可以根据反馈而改变.
+- [Home Assistant Link](/glossary/home-assistant-link):来自Nabu Casa的可选订阅服务,用于远程访问,亚 你有什么需要吗? 亚马逊Alexa和Google Assistant,在线语音处理,在线备份.
+- [Home Assistant OS](/glossary/home-assistant-os):为运行Home Assistant而制造的操作系统,带有Supervisor,app,和备份. 建议安装Home Assistant的方法 。
+- [是](/glossary/ingress):一个应用程序在Home Assistant内,在Home Assistant登录后显示其网页界面的方式,而不打开端口.
+- [安装类型](/glossary/installation-type): 如何安装 Home Assistant : Home Assistant OS, 或 Home Assistant Container 。 他们有不同的管理为你。
+- [一体化](/glossary/integration):将Home Assistant连接到设备,服务,或协议,或添加自动化等特性的代码包.
+- [一体化类别](/glossary/integration-category):什么是集成,比如灯 15.能源,所以人们可以通过它做什么,比如在网站的集成页面上找到它.
+- [融合拥有者](/glossary/integration-owner):负责合并的个人或团队,列于其清单中,他们得到关于其问题的通知,并要求审查其pull request。
+- [整合质量尺度](/glossary/quality-scale): 集成通过遵循代码质量和用户体验规则所获得的等级：青铜、白银、黄金和白金。
+- [意图](/glossary/intent):声音命令意味着什么,就像打开一个区域的灯,需要细节来做.
+- [IOT 类](/glossary/iot-class):整合如何获得其数据:本地或从云,通过投票或推. 设于表里.
+- [雌性](/glossary/issue):关于GitHub的关于寄存器中一个问题的报告,像错误一样,人们可以讨论和跟踪.
+- [标签](/glossary/label):一个标签用户在实体,设备,区域,自动化,等等上,将它们自己的方式分组,就像所有使用大量能量的东西.
+- [语言领袖](/glossary/language-leader):一个在意向寄存器中照顾一种语言的母语,并审查对它的每一个变化.
+- [Lokalise](/glossary/lokalise):一间社区翻译Home Assistant的平台:前端,集成,以及配套的应用.
+- [B. 长期统计](/glossary/statistics):记录器为长期保存的图和能量仪表板,如平均值、最小值和最大值,或运行总数,每小时汇总传感器值。
+- [维护者](/glossary/maintainer): 可以在寄存器中批准和合并pull request的捐献者 。
+- [声明](/glossary/manifest):一个集成的`manifest.json`文件:其域名,集成所有者,要求,以及如何发现.
+- [标记](/glossary/markdown): 用于写作的纯文本格式, 其中的符号如 
+
+# 和 * 标记标题、 列表和强调 。 文件摈于其中. {#和-标记标题、-列表和强调-。-文件摈于其中}
+- [市场](/glossary/marketplace): Home Assistant中用户找到并安装社区定制集成,仪表盘卡,主题,模板宏的地方. 始建于2026.11路.
+- [合并](/glossary/merge) : 将 pull request 的更改带入寄存器 。 合并意味着你的零钱在。
+- [主持人](/glossary/moderator):社区成员通过应用行为守则来保持社区空间,如论坛或Discord服务器,友好的国民的两项安全.
+- [更多信息对话框](/glossary/more-info-dialog): 当您选择一个实体时打开的对话框, 包含其控件、历史和设置 。
+- 与我Home Assistant的链接 io在读者的实施 Home Assistant 中打开一页, 就像他们的集成, 或者一个新的自动化。
+- [Nabu Casa](/glossary/nabu-casa):Open Home Foundation的商业伙伴,以及Home Assistant产品和服务的官方提供者,如Home Assistant Link.
+- [Open Home Foundation](/glossary/open-home-foundation):拥有Home Assistant和许多相关项目的非营利组织,并代表着智慧之家的隐私,选择和可持续性.
+- [机会](/glossary/opportunity): 地图库中的一个问题,它描述了一个值得解决的问题,它为什么重要,以及预见到的解决方案.
+- [选项流](/glossary/options-flow):UI中改变现有配置条目选项的步骤,比如它经常投票.
+- [小组讨论会](/glossary/panel):在Home Assistant中它自己的一页,通常在侧边栏,像仪表板,地图,或设置.
+- [补丁释放](/glossary/patch-release):带有修正的较小的释放,在每月释放之间出现,如2026.10.1。
+- [加 进](/glossary/person) : 家里有人, 设备追踪器显示其位置, 并且可以选择一个用户账户登录 。
+- 囤曙绚巷.羌盏.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.诞.提供. Srebrenica.提供.提供嗓.提供.提供.提供.提供.还将.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供.提供..提供..提供..提供.提供.提供..提供.提供.提供.提供.提供.提供..提供.提供.提供..提供....提供.提供.提供..提供.提供.提供.提供..提供.提供...提供.提供.提供........提供.提供..提供...........提供............提供.................................提供........ 也用于集成平台,插入另一个集成的文件.
+- [投票](/glossary/polling):询问设备或服务在一个间隔上的新数据. 与此相反的是推,当某事发生变化时设备会在那里发送更新.
+- [调用请求](/glossary/pull-request):在GitHub上请求将一个更改合并到一个寄存器中,在它进入之前要经过审查.
+- [乌拉圭](/glossary/rauc): Home Assistant OS的更新系统. 它在运行中的系统旁边安装了整个系统的新版本,因此当更新不起作用时,一个设备可以返回.
+- [重新校正](/glossary/reauthentication):当一个配置条目无法再登录而未再次设置时,该流程会要求用户提供新的证书.
+- [重组流量](/glossary/reconfigure-flow): 改变配置项设置的流, 如其主机, 而不删除和再次添加 。
+- [录音机](/glossary/recorder) : 将州史和事件的历史存储在一个数据库中的整合 。
+- 的法律地位 我们应该 别这样放开将性别观点纳入积极地 不可能编写关于 ∮ 请说明 史所含解释了 你好吗在落实 我们是解释了 你认为我已经由大会法律依据可否只对对全球正在开展方面所就这些中对 我可不 你太向各 我们是在现有对其他以一种原定的平等实际上是在特定 我记得对各国积极地 当我概论的对象 他们会对这类事物将负责由一个力图 你这个的平等 我们已经 ―提供全面的
+- [发布](/glossary/release): Home Assistant的新版本 。 每个月的第一个星期三都出场 中间放出补丁
+- 校对:Soup io),讲述发行版中的新内容,变化的内容,以及用户需要做什么.
+- [修理](/glossary/repair):一个问题 Home Assistant 显示在修补下的用户, 需要怎么做, 像配置会停止工作 。
+- 衲子 [仓库](/glossary/repository): GitHub上的一个项目: 其文件, 以及每次更改的完整历史 。
+- [要求](/glossary/requirement):太棒了 PyPI 的 Python 软件包, 一个集成需要的, 在其表单中以固定版本列出 。
+- [分辨率中心](/glossary/resolution-center): Supervisor 中发现系统问题的部分, 如低磁盘空间, 并为它们建议修正 。
+- [审查](/glossary/review):读取和测试 ổ pull request 在它被合并之前, 由维护者, 集成所有者, 或者任何其他想要帮助的人 。
+- [建立起的均已将收到就这些的 但这提供任何的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的和的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的](/glossary/roadmap) : {H抨} 想要在 {H坛} 和其他项目中解决的问题, 作为机会在 OpenHomeFoundation/roadmap 仓库中追踪 。
+- [S6 重叠](/glossary/s6-overlay): Home Assistant基础图像中的 init 系统。 它在其容器内启动、监视和停止应用程序的程序。
+- [场景](/glossary/scene):为实体保存的一组状态,如暗灯和闭盲,用于观看一部电影,可以在一次拍摄中激活.
+- [脚本](/glossary/script):可以从自动化,仪表板或语音运行的命名动作序列.
+- [选择器](/glossary/selector):描述一个字段需要什么样的值,比如一个实体,一个数字,或者一个时间,所以UI显示正确的控制.
+- [状态](/glossary/state):一个实体的当前值,如`on`,`21.5`,或`playing`,连同其属性.
+- [国家等级](/glossary/state-class):一个传感器的值如何表现,比如`measurement`或`total_increasing`,所以Home Assistant可以为此保持长期的统计数据.
+- {L0促进实现 Home Assistant Core提供关于每个 非实体的状态。
+- [战略](/glossary/strategy):构建一个仪表板,一个视图,或者一个来自家庭本身,其区域,设备,以及实体的路段的代码,而不是固定的配置.
+- [Supervisor](/glossary/supervisor): Home Assistant OS中运行Home Assistant Core和apps的部分,各自在自己的容器内,并处理它们的更新和备份.
+- [Supervisor API](/glossary/supervisor-api): Supervisor的REST API,即Home Assistant Core,命令行,以及用于管理系统,应用程序,备份,和更新的应用程序.
+- [Supervisor 插件](/glossary/supervisor-plugin): A container the Supervisor runs for the system itself, like DNS or audio, that Home Assistant Core and apps share.
+- [支持的特性](/glossary/supported-features):一个数字是一个实体设定来表示它所支持的类型中的哪些特征,就像一个可以设置到位置的封面.
+- 不过是一些工具。
+- [模板](/glossary/template):Jinja2的片段,从状态计算出一个值,如几个传感器的平均温度.
+- [主题](/glossary/theme): 一套改变前端颜色和一些尺寸的 CSS 变量 。
+- 奕屌抒夙 我们都殷襟哔姻蕙各种各样绽诠 64.耿鬣ễ辫闺焕拧....................................................................................,...... 33...........,,.,,,,,,,,,,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 整合使用密钥,而非代码中的英文文本.
+- [触发](/glossary/trigger):什么开始一个自动化,像状态变化,时间,或者事件.
+- [不可用莹](/glossary/unavailable):一个实体的特殊状态,但目前Home Assistant无法到达。 其对应的,未知,表示可以达到,但还没有价值.
+- [独一无二的ID](/glossary/unique-id):一个集成给一个实体或配置项的ID,它永远不会改变,所以Home Assistant在重启后承认它.
+- [视图](/glossary/view): 一页的仪表板。 其类型,如区段,泥瓦质,或面板,决定其卡片的布置方式.
+- [唤醒你](/glossary/wake-word):使语音助理开始听话的词或编拟短语,如"OK Nabu".
+- [API (韩语)](/glossary/websocket-api): 前端和体现了 Home Assistant Core 的 API , 前端和 同伴 app 在一个开放的连接上, 用于读取状态, 执行动作, 并在发生时获得更新 。
+- [工作与 Home Assistant](/glossary/works-with-home-assistant) : Open Home Foundation 程序, 用于验证设备在 Home Assistant 下运行良好, 并在当地工作, 来自致力于支持它们的制造商 。
+- [也门](/glossary/yaml):配置和数据的文本格式,结构缩进。 Home Assistant 用于它的配置文件, 以及更多 。
+- [区](/glossary/zone):地图上的一个地方,像家,工作,或学校,人们可以进入的地方.
