@@ -151,5 +151,5 @@ Home Assistant管理着人们的家 那些看到,听到,移动,思考 在许多�
 ## 相关 {#related}
 
 - [的结论](/design/foundations/color): 对比表后面的符号 。
-- [踌咕鹫衲ỡ turkey荚咀玄](/design/patterns):表单、错误和加载,以及它们的无障碍细节。
+- [模式](/design/patterns):表单、错误和加载,以及它们的无障碍细节。
 - [UX设计讨论](https://github.com/OpenHomeFoundation/ux-design/discussions) 的 ** 可获取性 ** 类别, 和 `Accessibility` 标签 [前端仓库](https://github.com/home-assistant/frontend/labels/Accessibility) 。

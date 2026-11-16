@@ -2,7 +2,7 @@
 title: 焕然一新
 description: Gold 规则重组-流量:用户可以更改一个条目的设置而不删除它.
 sidebarLabel: 重组流程
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 19
 ---
 

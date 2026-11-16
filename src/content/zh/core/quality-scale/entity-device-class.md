@@ -2,7 +2,7 @@
 title: 使用设备类
 description: 黄金规则实体-device类:实体在任何适合的地方使用设备类.
 sidebarLabel: 实体设备类
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 14
 ---
 

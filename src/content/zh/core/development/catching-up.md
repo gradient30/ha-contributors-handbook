@@ -1,8 +1,8 @@
 ---
-title: 保持分支最新
+title: 保持分支更新
 description: 将 Home Assistant Core dev 分支的最新更改带入您的分支, 并解决冲突 。
-sidebarLabel: 不断更新
-sidebarGroup: 调用请求
+sidebarLabel: 保持分支更新
+sidebarGroup: Pull request
 order: 4
 ---
 

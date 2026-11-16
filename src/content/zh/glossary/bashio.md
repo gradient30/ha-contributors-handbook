@@ -1,7 +1,7 @@
 ---
-title: 芭蕉
+title: Bashio
 description: 用于应用的 Bash 函数库, 用于读取应用的选项、 日志和与 Supervisor API 交谈的助手 。
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   code:
   - 'bashio::'
@@ -14,11 +14,11 @@ term:
   - Bashio
 ---
 
-# 芭蕉 {#bashio}
+# Bashio {#bashio}
 
 - 代码:`bashio::`,`hassio-addons/bashio`
 
-Bashio将大多数应用程序需要的东西捆绑起来,所以他们不再各自写,比如`bashio::config`读取一个选项. 它是官方Home Assistant基础图像和Home Assistant的一部分 社区 Apps 基础图像, 并生活在 [哈西欧-阿东斯/巴希奥](https://github.com/hassio-addons/bashio) 寄存器 。 见[时尚参考](/apps/bashio)。
+Bashio将大多数应用程序需要的东西捆绑起来,所以他们不再各自写,比如`bashio::config`读取一个选项. 它是官方Home Assistant基础图像和Home Assistant的一部分 社区 Apps 基础图像, 并生活在 [hassio-addons/bashio](https://github.com/hassio-addons/bashio) 寄存器 。 见[时尚参考](/apps/bashio)。
 
 ## 相关条件 {#related-terms}
 

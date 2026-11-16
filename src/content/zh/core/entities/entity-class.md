@@ -2,7 +2,7 @@
 title: 实体类别
 description: 实体的基类是每个实体所依赖的,是确定其属性的三种方法,也是每个实体的通用属性。
 sidebarLabel: 实体类别
-sidebarGroup: 基本情况
+sidebarGroup: 基础
 order: 1
 ---
 

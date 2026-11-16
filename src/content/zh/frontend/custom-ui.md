@@ -1,11 +1,11 @@
 ---
-title: 蓓丝卡及更多
+title: 自定义卡片及其他
 description: 构建卡片,卡片特征,徽章,视图,仪表板策略,以及人们加载到自己的Home Assistant的面板,而不改变前端.
 order: 30
-sidebarLabel: 蓓丝卡及更多
+sidebarLabel: 自定义卡片及其他
 ---
 
-# 蓓丝卡及更多 {#custom-cards-and-more}
+# 自定义卡片及其他 {#custom-cards-and-more}
 
 内置的卡片覆盖很多,但并非一切. 您可以在不触碰[前端仓库](https://github.com/home-assistant/frontend) 时将自己的构件添加到界面: 写入 JavaScript 文件, 加载到 Home Assistant 中, 像内置文件一样使用 。 数千张社区卡是用这种方式制作的。
 

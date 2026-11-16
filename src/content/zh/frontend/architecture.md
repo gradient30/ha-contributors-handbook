@@ -52,7 +52,7 @@ Home Assistant中的每一页都是[面板](/glossary/panel):仪表板,地图,�
 
 仅需要部分数据的组件会消耗 [案件的上下文](/frontend/architecture/hass-and-contexts) 而不是整个 `hass` 对象 。 不在 `hass` 中的数据, 像标签注册或备份列表一样, 是通过 [订阅和命令](/frontend/architecture/data) 装入的, 使其与 Core 同步 。
 
-## 页 次 {#pages}
+## 页面 {#pages}
 
 - [构成部分和语文](/frontend/architecture/components):web 组件,Lit,和 `ha-*` 在Web Super上构建的组件.
 - [对象和背景](/frontend/architecture/hass-and-contexts): 组件如何获得数据 。

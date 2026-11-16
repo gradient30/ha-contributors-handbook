@@ -2,6 +2,8 @@
 title: 褪色
 description: 褪色的内容显示了一段长文本的开头，并将其余部分淡出，直到人们选择它。
 sidebarGroup: 布局和内容
+sidebarGroup: 布局与内容
+
 ---
 
 

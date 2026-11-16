@@ -2,7 +2,7 @@
 title: 文档支持的功能
 description: Gold 规则文件支持的函数:文档描述了它所提供的实体和功能.
 sidebarLabel: 文档辅助功能
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 9
 ---
 

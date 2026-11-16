@@ -1,7 +1,7 @@
 ---
 title: 协调员
 description: 一个同时为许多实体获取数据的帮助者,在一个时刻表上,所以一个设备或API被询问一次而不是每个实体一次.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - data update coordinator

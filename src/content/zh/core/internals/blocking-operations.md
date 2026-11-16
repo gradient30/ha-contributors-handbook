@@ -1,7 +1,7 @@
 ---
 title: 封锁行动
 description: 如何继续屏蔽 I应享有的I/O 并慢化事件循环的导入,以及如何修复屏蔽调用 Home Assistant 报告 。
-sidebarGroup: 自动同步
+sidebarGroup: 异步
 order: 12
 ---
 

@@ -2,6 +2,8 @@
 title: 进度按钮
 description: 一个显示其操作正在运行，然后显示其是否成功的按钮。
 sidebarGroup: 动作
+sidebarGroup: 操作
+
 ---
 
 # 进度按钮 {#progress-button}

@@ -2,7 +2,7 @@
 title: Home Assistant OS
 description: 为运行Home Assistant而制作的操作系统,与Supervisor,app,和备份一起运行. 建议安装Home Assistant的方法
   。
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   aliases:
   - operating system

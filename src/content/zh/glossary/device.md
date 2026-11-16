@@ -1,7 +1,7 @@
 ---
 title: 设备
 description: 一种物理装置,或一种服务,一个或一个以上实体所属的,如带有温度传感器和湿度传感器的自动调温器.
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   aliases:
   - devices

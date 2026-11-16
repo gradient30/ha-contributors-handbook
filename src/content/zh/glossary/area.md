@@ -1,7 +1,7 @@
 ---
 title: 区域
 description: 家里的房间或空间,像厨房, 设备和实体属于。
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - areas

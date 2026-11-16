@@ -2,7 +2,7 @@
 title: 完全测试配置流
 description: 青铜规则配置-流量-测试-覆盖:配置流程有全测试覆盖,包括从错误中恢复.
 sidebarLabel: 配置- 流量- 测试- 覆盖
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 6
 ---
 

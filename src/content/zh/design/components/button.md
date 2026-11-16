@@ -2,6 +2,8 @@
 title: 按钮
 description: 按钮会启动一个操作，例如保存表单或打开对话框。
 sidebarGroup: 动作
+sidebarGroup: 操作
+
 ---
 
 

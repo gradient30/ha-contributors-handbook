@@ -2,6 +2,8 @@
 title: 纸牌
 description: 平板卡显示一个实体,并带有其图标,名称,状态,并可以为其添加控件. 它几乎是一切的默认牌。
 sidebarGroup: 实体卡
+sidebarGroup: 实体卡片
+
 ---
 
 # 纸牌 {#tile-card}

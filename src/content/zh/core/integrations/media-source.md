@@ -1,7 +1,7 @@
 ---
 title: 媒体来源
 description: 从您在 Home Assistant 的媒体浏览器中集成的可浏览、 可搜索和可播放媒体 。
-sidebarGroup: 融合特征
+sidebarGroup: 集成功能
 order: 10
 ---
 

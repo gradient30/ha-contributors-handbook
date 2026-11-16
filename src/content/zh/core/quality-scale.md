@@ -1,5 +1,5 @@
 ---
-title: 整合质量尺度
+title: 集成质量等级
 description: 说明融合有多好、融合如何获得分级以及如何提高分级的规则。
 order: 30
 sidebarGroups:
@@ -9,7 +9,7 @@ sidebarGroups:
 - 铂
 ---
 
-# 整合质量尺度 {#integration-quality-scale}
+# 集成质量等级 {#integration-quality-scale}
 
 Home Assistant有上千个融合, 由上千人写成。 集成质量尺度是项目如何用一个字来描述每个集成的质量:青铜,银,金,或白金. 每个层次都是具体规则的清单,一体化通过遵循该层次及其下层的每一个规则而获得一个层次。
 

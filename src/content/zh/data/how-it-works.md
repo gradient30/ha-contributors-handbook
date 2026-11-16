@@ -3,6 +3,8 @@ title: 分析是如何运作的
 description: 你的分析数据从安装到公共分析网站的路径，以及设备数据库如何融入其中。
 order: 2
 sidebarLabel: 它是如何运作的
+sidebarLabel: 工作原理
+
 ---
 
 

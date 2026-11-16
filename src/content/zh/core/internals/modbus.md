@@ -1,7 +1,7 @@
 ---
 title: 运动會
 description: 如何为 Modbus 设备写一个有 Modbus 连接的库,以及您的整合如何与他人共享一个 Modbus 连接.
-sidebarGroup: 你说的
+sidebarGroup: API
 order: 34
 ---
 

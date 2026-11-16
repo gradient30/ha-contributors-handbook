@@ -2,7 +2,7 @@
 title: 场景实体
 description: 为生活在设备或枢机上的场景构建一个场景实体,这样人们就可以从Home Assistant激活它.
 sidebarLabel: 场景
-sidebarGroup: 投入和帮助
+sidebarGroup: 输入与助手
 ---
 
 # 场景实体 {#scene-entity}

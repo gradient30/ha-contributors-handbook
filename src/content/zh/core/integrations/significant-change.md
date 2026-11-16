@@ -1,7 +1,7 @@
 ---
 title: 重大变化
 description: 告诉集成器导出数据, 如语音助理, 显示您实体类型事项的更改 。
-sidebarGroup: 融合特征
+sidebarGroup: 集成功能
 order: 8
 ---
 

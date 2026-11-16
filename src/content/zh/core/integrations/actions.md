@@ -1,9 +1,9 @@
 ---
 title: 一体化行动
 description: 注册用户从自动化,脚本和仪表板调用的动作,在服务中加以描述. 雅姆尔,并返回回复数据。
-sidebarGroup: 融合特征
+sidebarGroup: 集成功能
 order: 1
-sidebarLabel: 动作
+sidebarLabel: 操作
 ---
 
 # 一体化行动 {#actions-in-integrations}

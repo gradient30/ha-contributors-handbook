@@ -2,7 +2,7 @@
 title: Supervisor 架构
 description: '{H0这方面的工作}代码是如何组织起来的,是如何开始的,以及更新和备份是如何在它内部工作的.'
 sidebarLabel: 架构
-sidebarGroup: 它是如何运作的
+sidebarGroup: 工作原理
 order: 1
 ---
 

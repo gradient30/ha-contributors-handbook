@@ -2,6 +2,8 @@
 title: 实体卡
 description: 实体卡显示一个实体的状态为一个大数值，并带有其名称和图标。它适用于你想一眼就能读取的数字。
 sidebarGroup: 实体卡
+sidebarGroup: 实体卡片
+
 ---
 
 # 实体卡 {#entity-card}

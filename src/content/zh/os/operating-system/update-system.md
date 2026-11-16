@@ -79,7 +79,7 @@ o [kernel.1] (/dev/disk/by-partlabel/hassos-kernel1, raw, inactive)
 
 要切换自己的槽,请使用`ha os boot-slot A`或`ha os boot-slot B`. 选中的插槽会保留默认值, 直到您再次更改它, 或者更新它 。
 
-## 警卫 {#security}
+## 安全 {#security}
 
 更新捆绑是签名的,RAUC在安装任何设备之前,对`/etc/rauc/keyring.pem`中的密钥环进行签名检查. Home Assistant OS拥有自己的公钥基础设施,拥有开发与发行证书权限. 所有公共建筑均由发布链签名.
 

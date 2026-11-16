@@ -1,7 +1,7 @@
 ---
 title: 审查
 description: 阅读和测试 pull request 在它被合并之前, 由维护者, 集成所有者, 或者任何其他想要帮助的人。
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - code review

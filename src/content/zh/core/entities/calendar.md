@@ -2,7 +2,7 @@
 title: 日历实体
 description: 展出包含有始末的事件的日历,并选择让用户创建,更新和删除.
 sidebarLabel: B. 事 项
-sidebarGroup: 传感器和状态
+sidebarGroup: 传感器与状态
 ---
 
 # 日历实体 {#calendar-entity}

@@ -1,7 +1,7 @@
 ---
 title: 投票
 description: 询问设备或服务在间隔上的新数据 。 与此相反的是推,当某事发生变化时设备会在那里发送更新.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - poll

@@ -1,7 +1,7 @@
 ---
 title: 是
 description: 鬓 应用程序在 Home Assistant 内, 在 Home Assistant 登录后显示其网页界面的方法, 不打开端口 。
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   code:
   - ingress

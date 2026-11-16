@@ -1,7 +1,7 @@
 ---
 title: 审查 pull request
 description: pull request在Home Assistant Core上的审查实用指南。 首先要检查什么,每类变化要找什么,如何反馈.
-sidebarGroup: 调用请求
+sidebarGroup: Pull request
 order: 5
 ---
 
@@ -39,7 +39,7 @@ order: 5
 
 ### 新整合 {#new-integrations}
 
-[整合质量尺度](/core/quality-scale)的青铜级是基线。
+[集成质量等级](/core/quality-scale)的青铜级是基线。
 
 - **范围**:`PLATFORMS`中的一个平台。 在第一个 pull request 中没有诊断、 重新配置流或选项流( 除非真的需要) 。
 - **Manifest**:`iot_class` 匹配整合的真正沟通方式.

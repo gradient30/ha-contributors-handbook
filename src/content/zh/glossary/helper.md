@@ -1,7 +1,7 @@
 ---
 title: 帮助者
 description: 用户在UI中创建以持有一个值或结合其他值的实体,如切换,数字,计时器,或组合.
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - helpers

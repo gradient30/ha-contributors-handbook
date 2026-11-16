@@ -1,7 +1,7 @@
 ---
 title: 工作
 description: Supervisor 如何运行作为工作, 条件, 货币限制, 节奏, 以及客户可以遵循的进步 。
-sidebarGroup: 它是如何运作的
+sidebarGroup: 工作原理
 order: 2
 ---
 

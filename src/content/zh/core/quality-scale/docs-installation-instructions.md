@@ -2,7 +2,7 @@
 title: 记录安装
 description: 青铜规则docs-installation-interformation:文档有分步设置指令,有先决条件.
 sidebarLabel: 设置文件
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 11
 ---
 

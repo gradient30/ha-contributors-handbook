@@ -2,7 +2,7 @@
 title: 实施诊断
 description: 黄金规则诊断:用户可以下载诊断,敏感数据进行编辑.
 sidebarLabel: 诊断
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 一体化问题。
+title: 集成 front matter
 description: 在集成页面的顶部可以使用的每一个键,它做什么,以及它接受的哪个值.
 order: 5
 ---

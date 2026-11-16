@@ -1,7 +1,7 @@
 ---
 title: 部署预览
 description: 由Netlife 创建的 pull request 更改的网站的临时副本, 在合并前检查它们 。
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - preview

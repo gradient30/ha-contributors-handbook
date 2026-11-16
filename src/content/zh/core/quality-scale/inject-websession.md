@@ -2,7 +2,7 @@
 title: 通过网络会话
 description: 白金规则注入- 106.websession:库接受Home Assistant的网络会话.
 sidebarLabel: 泻入网会话
-sidebarGroup: 铂
+sidebarGroup: 铂金
 order: 2
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 搭建开发环境
 description: 获得工作 Home Assistant Core 开发设置, 开发容器或手动安装在 Linux, macOS, 或 Windows 上 。
-sidebarLabel: 发展环境
-sidebarGroup: 写代码
+sidebarLabel: 开发环境
+sidebarGroup: 编写代码
 order: 1
 source: https://github.com/home-assistant/core/blob/dev/pyproject.toml
 lastVerified: 2026-10-12

@@ -2,6 +2,8 @@
 title: 实体卡
 description: 实体卡显示实体列表，每行一个，每个实体都有适合它的控件。这是在一张卡中显示多个实体的紧凑方式。
 sidebarGroup: 实体卡
+sidebarGroup: 实体卡片
+
 ---
 
 # 实体卡 {#entities-card}

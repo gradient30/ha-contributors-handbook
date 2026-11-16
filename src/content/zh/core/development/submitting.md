@@ -1,7 +1,7 @@
 ---
 title: 提交 pull request
 description: pull request对于Home Assistant Core,从分支到将消息输入模板,新集成,以及依赖性更新,具体是什么?
-sidebarGroup: 调用请求
+sidebarGroup: Pull request
 order: 2
 ---
 

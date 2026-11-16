@@ -1,7 +1,7 @@
 ---
 title: 仓库
 description: GitHub上的一个项目:其文件,以及每次更改的完整历史.
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - repositories

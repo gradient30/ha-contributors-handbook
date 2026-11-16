@@ -1,7 +1,7 @@
 ---
 title: 不可用莹
 description: 一个虱子 Home Assistant 现在无法到达的实体的特殊状态 。 其对应的,未知,表示可以达到,但还没有价值.
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   aliases:
   - unknown

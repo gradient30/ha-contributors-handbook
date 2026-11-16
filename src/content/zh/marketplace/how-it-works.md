@@ -1,7 +1,7 @@
 ---
 title: 市场是如何运作的
 description: 市场如何找到你的仓库、检查它、安装它并保持其更新，以及蓝图如何在没有它的情况下被共享和更新。
-sidebarLabel: 它是如何运作的
+sidebarLabel: 工作原理
 order: 2
 ---
 
@@ -41,7 +41,7 @@ Marketplace 会从仓库的根目录读取 `hacs.json`，用于安装的每一�
 
 然后，它会在 [仓库结构](/marketplace/reference/repository-structure) 描述的位置查找你的类型的文件。如果文件不在那儿，则说明仓库不符合规范，无法安装。
 
-在写入文件之后，但在调用安装完成之前，它会检查 Home Assistant 是否可以使用这些文件。当检查失败时，安装会失败，并且文件会恢复到原来的状态：- 一个集成需要一个具有相同 `domain` 的 `manifest.json`，以及加载器可以接受的 `version`。
+在撰写文档之后，但在调用安装完成之前，它会检查 Home Assistant 是否可以使用这些文件。当检查失败时，安装会失败，并且文件会恢复到原来的状态：- 一个集成需要一个具有相同 `domain` 的 `manifest.json`，以及加载器可以接受的 `version`。
 - 主题文件必须是有效的 YAML，不能包含 `!include` 之类的标签，并通过与 `configuration.yaml` 中主题相同的验证。
 - 模板文件必须为 UTF-8 编码，并且不大于 Home Assistant 读取量。
 - 仪表板插件需要其 JavaScript 文件存在。

@@ -2,7 +2,7 @@
 title: 醒字检测实体
 description: 建立醒字实体,当有人说醒字时,听一流的音频和报告.
 sidebarLabel: 醒字检测
-sidebarGroup: 语音和AI
+sidebarGroup: 语音与 AI
 ---
 
 # 醒字检测实体 {#wake-word-detection-entity}

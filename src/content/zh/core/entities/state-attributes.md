@@ -2,7 +2,7 @@
 title: 状态和属性
 description: 最终在您实体的状态对象, 何时添加额外的属性, 以及如何将属性排除在历史之外 。
 sidebarLabel: 状态和属性
-sidebarGroup: 基本情况
+sidebarGroup: 基础
 order: 5
 ---
 

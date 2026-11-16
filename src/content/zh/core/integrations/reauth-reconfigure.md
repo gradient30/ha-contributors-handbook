@@ -1,8 +1,8 @@
 ---
-title: 重整和重组
+title: 重新认证与重新配置
 description: 让用户固定已过期的证书,并更改一个已有配置条目的连接细节,而不删除并再次添加.
-sidebarLabel: 重新配置并重新配置
-sidebarGroup: 设置和配置
+sidebarLabel: 重新认证与重新配置
+sidebarGroup: 设置与配置
 order: 6
 ---
 

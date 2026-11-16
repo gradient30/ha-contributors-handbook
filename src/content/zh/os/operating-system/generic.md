@@ -2,7 +2,7 @@
 title: 通用系统
 description: 用于 PC 及其他通过 UEFI 启动的系统的通用 x86-64 和 aarch64 目标。
 sidebarLabel: 通用 x86-64 和 aarch64
-sidebarGroup: 董事会
+sidebarGroup: 开发板
 order: 4
 ---
 

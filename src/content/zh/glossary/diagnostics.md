@@ -1,7 +1,7 @@
 ---
 title: 诊断
 description: 楞ظý问题.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   code:
   - diagnostics.py

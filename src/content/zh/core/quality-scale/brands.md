@@ -2,7 +2,7 @@
 title: 提供品牌资产
 description: 青铜规则品牌 我去办公:整合后在品牌存放处设有标识和图标.
 sidebarLabel: 品牌
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 3
 ---
 

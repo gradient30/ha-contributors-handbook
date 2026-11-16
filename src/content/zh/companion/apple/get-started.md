@@ -1,7 +1,7 @@
 ---
 title: 开始使用 Apple
 description: 安装 Xcode 和 Ruby 工具, 设置代码签名, 并在模拟器或您自己的设备上运行 Home Assistant 应用程序 。
-sidebarLabel: 开始
+sidebarLabel: 开始贡献
 order: 1
 ---
 

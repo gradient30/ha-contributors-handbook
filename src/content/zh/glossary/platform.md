@@ -1,7 +1,7 @@
 ---
 title: 平台
 description: 一个集成是如何提供一类实体的,比如Hue集成的`light`平台. 也用于集成平台,插入另一个集成的文件.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - platforms

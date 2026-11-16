@@ -1,5 +1,5 @@
 ---
-title: 基金会
+title: 基础
 description: 颜色、印刷、间隔、运动和无障碍。 Home Assistant中所有事物背后的设计符号和规则.
 order: 10
 ---

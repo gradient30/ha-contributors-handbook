@@ -2,7 +2,7 @@
 title: Labs 预览功能
 description: 载运完成的特性,人们可以选择通过Home Assistant 实验室,收集反馈, 并毕业到标准。
 sidebarLabel: 实验室
-sidebarGroup: 改变行为
+sidebarGroup: 变更行为
 order: 3
 ---
 

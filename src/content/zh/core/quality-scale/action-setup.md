@@ -2,7 +2,7 @@
 title: 在 async setup 中注册动作
 description: '青铜法则动作设置: 动作在集成负载时进行注册, 而不是按照配置条目进行。'
 sidebarLabel: 动作设置
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 1
 ---
 

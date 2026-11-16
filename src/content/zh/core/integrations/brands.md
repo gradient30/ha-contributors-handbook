@@ -1,5 +1,5 @@
 ---
-title: 一体化品牌和形象
+title: 集成品牌与图片
 description: 添加您集成的图标和标志,以及一个品牌的组装,让用户找到它们.
 sidebarGroup: 参考
 order: 2

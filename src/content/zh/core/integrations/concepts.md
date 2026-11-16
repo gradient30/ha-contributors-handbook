@@ -1,8 +1,8 @@
 ---
-title: 如何融入
+title: 集成如何融入
 description: 每个集成的一小撮思想都是用简单的语言构建的,与网页 行了更深入的链接。
-sidebarLabel: 如何融入
-sidebarGroup: 开始
+sidebarLabel: 集成如何融入
+sidebarGroup: 入门
 order: 1
 ---
 

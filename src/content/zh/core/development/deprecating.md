@@ -1,7 +1,7 @@
 ---
 title: 弃用
 description: 如何在 Home Assistant Core 中移除或改变行为而不在一夜之间打破家门 。 折旧期,修理问题,以及面向API的开发者帮助者.
-sidebarGroup: 改变行为
+sidebarGroup: 变更行为
 order: 1
 ---
 
@@ -316,7 +316,7 @@ def get_astral_location(hass: HomeAssistant) -> tuple[Location, Elevation]:
 
 `@deprecated_class`当类被即时警告,是保持一个重新命名的类作为别名的方式. 两者都以替换为字符串. 要对函数不再需要的主导 `hass` 论点进行贬值, 请使用 `@deprecated_hass_argument` 。 它警告,并放弃争论。
 
-### 踌咕鹫衲ỡ turkey荚咀玄 {#踌咕鹫衲ỡ-turkey荚咀玄}
+### 模式 {#patterns}
 
 有时问题不是名字,而是使用某种东西的方式,比如设置一个想要消失的属性,或者调用一个平台现在所取代的函数. 使用来自 `homeassistant.helpers.frame` 的 `report_usage()` :
 

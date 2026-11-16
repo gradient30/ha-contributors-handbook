@@ -2,7 +2,7 @@
 title: 空气质量实体
 description: 腐烂的空气质量实体, 以及用什么代替。
 sidebarLabel: 空气质量
-sidebarGroup: 传感器和状态
+sidebarGroup: 传感器与状态
 ---
 
 # 空气质量实体 {#air-quality-entity}

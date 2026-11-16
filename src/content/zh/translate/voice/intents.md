@@ -574,7 +574,7 @@ Opera 检查购物列表中的物品。 Opera 由`shopping_list`整合处理。
 | 组合 | 槽数 | 重要性有权得到 | 示例 |
 | --- | --- | --- | --- |
 | `default` | `volume_level`(卫星区) | 完成 | 将音量设定为50% |
-| `name_only` | `name`, `volume_level` | 完成 | 将电视音量联合国系统各占50% |
+| `name_only` | `name`, `volume_level` | 完成 | 将电视音量设为 50% |
 | `area_only` | `area`, `volume_level` | 完成 | 厨房容量设定为50% |
 
 </details>

@@ -1,9 +1,9 @@
 ---
 title: 行动登记册
 description: 动作注册系统如何在下面运作,动作处理器得到什么,如何从代码调用动作.
-sidebarGroup: 核心内容
+sidebarGroup: 核心
 order: 4
-sidebarLabel: 动作
+sidebarLabel: 操作
 ---
 
 # 行动登记册 {#the-action-registry}

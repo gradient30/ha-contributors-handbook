@@ -1,7 +1,7 @@
 ---
 title: HACS
 description: 鳌在20兀冗 11。 它的目录和工具还在继续。
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   aliases:
   - Home Assistant Community Store

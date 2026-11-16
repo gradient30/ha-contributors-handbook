@@ -1,7 +1,7 @@
 ---
 title: Supervisor 插件
 description: Supervisor 运行于系统本身的容器, 如 DNS 或 音频 Home Assistant Core 和 apps 共享 。
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   aliases:
   - plugin

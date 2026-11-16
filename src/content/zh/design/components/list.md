@@ -2,6 +2,8 @@
 title: 列表
 description: 列表显示了一组行，每行都有一行文本，并且可选地包含一个图标、第二行文本，以及末尾的内容。
 sidebarGroup: 布局和内容
+sidebarGroup: 布局与内容
+
 ---
 
 # 列表 {#list}

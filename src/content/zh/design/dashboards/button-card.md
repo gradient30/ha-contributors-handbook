@@ -2,6 +2,8 @@
 title: 按钮卡
 description: 按钮卡是一个大而方的按钮，带有图标和名称。它执行一个动作，比如切换灯光或激活场景。
 sidebarGroup: 实体卡
+sidebarGroup: 实体卡片
+
 ---
 
 # 按钮卡 {#button-card}

@@ -1,7 +1,7 @@
 ---
 title: 补丁释放
 description: 更小的释放带修正,在月度释放之间出现,如2026.10.1。
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - patch releases

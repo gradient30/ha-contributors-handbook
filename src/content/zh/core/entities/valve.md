@@ -2,7 +2,7 @@
 title: 阀门实体
 description: 为控制水或气流的设备建立阀门实体.
 sidebarLabel: 阀门
-sidebarGroup: 开幕和安全
+sidebarGroup: 开合与安防
 ---
 
 # 阀门实体 {#valve-entity}

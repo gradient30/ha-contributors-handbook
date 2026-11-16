@@ -2,6 +2,8 @@
 title: 控制擦洗器
 description: 一个水平控件，其数值显示在固定窗口下方，而你拖动其背后的条。适用于循环范围，例如灯光的色相。
 sidebarGroup: 显示数值
+sidebarGroup: 数值展示
+
 ---
 
 

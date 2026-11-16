@@ -2,7 +2,7 @@
 title: 在通用模块中设置常见模式
 description: 青铜规则通用模块:协调员生活在coord.py中,基实体位于实体.py中.
 sidebarLabel: 常用模块
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 4
 ---
 

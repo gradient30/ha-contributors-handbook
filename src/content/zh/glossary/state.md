@@ -1,7 +1,7 @@
 ---
 title: 状态
 description: 实体的当前值, 如 `on` 、 `21.5` 或 `playing` 及其属性 。
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   aliases:
   - states

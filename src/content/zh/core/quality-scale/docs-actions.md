@@ -2,7 +2,7 @@
 title: 记录行动
 description: 青铜规则docs-actions:文档描述了集成的动作.
 sidebarLabel: 文件行动
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 8
 ---
 

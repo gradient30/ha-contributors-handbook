@@ -2,7 +2,7 @@
 title: 在运行时间数据中存储运行时间数据 data
 description: 青铜规则运行时数据:运行时数据存储于ConfigEntry. 运行时间 数据,带有一个输入的配置条目。
 sidebarLabel: 运行时间数据
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 17
 ---
 

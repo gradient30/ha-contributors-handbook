@@ -2,6 +2,8 @@
 title: 实体选择器
 description: 实体选择器让人们从他们家中的所有实体中选择一个实体，并可以搜索。
 sidebarGroup: 采摘者
+sidebarGroup: 选择器
+
 ---
 
 

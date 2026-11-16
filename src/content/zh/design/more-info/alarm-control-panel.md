@@ -2,6 +2,8 @@
 title: 警报控制面板
 description: 提醒系统的更多信息视图, 带有垂直选择器用于其武装模式 。
 sidebarGroup: 开幕和安全
+sidebarGroup: 开合与安防
+
 ---
 
 # 警报控制面板 {#alarm-control-panel}

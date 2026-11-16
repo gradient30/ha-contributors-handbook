@@ -1,7 +1,7 @@
 ---
 title: B. 触发因素和条件
 description: 以触发和条件平台提供您集成时的自动化触发器和条件,并命名它们以便用户可以预测它们.
-sidebarGroup: 融合特征
+sidebarGroup: 集成功能
 order: 2
 ---
 

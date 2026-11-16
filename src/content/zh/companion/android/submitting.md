@@ -2,7 +2,7 @@
 title: 提交 Android pull request
 description: 核对表,pull request模板,内置更改日志,以及Android寄存器中审查期间发生的情况.
 sidebarLabel: 提交 pull request
-sidebarGroup: 船
+sidebarGroup: 发布上线
 order: 1
 ---
 

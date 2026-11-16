@@ -1,5 +1,5 @@
 ---
-title: 应用程序
+title: 应用
 description: 在Home Assistant旁运行的软件包，由Supervisor管理。构建一个应用程序，测试它，并与所有人分享。
 ---
 

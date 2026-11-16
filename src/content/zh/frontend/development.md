@@ -1,18 +1,18 @@
 ---
-title: 联合国
+title: 开发
 description: 所有你需要的工作 在前端本身。 环境,运行它,画廊和演示,编码指南,测试,以及审查.
 order: 10
 ---
 
-# 联合国 {#development}
+# 开发 {#development}
 
-这些页面用于在 [前端仓库](https://github.com/home-assistant/frontend) 上工作: 修复错误, 改进屏幕, 并添加功能 。 建造一个人们自己安装的卡片或面板不需要这些. 关于这一点,见[蓓丝卡及更多](/frontend/custom-ui)。
+这些页面用于在 [前端仓库](https://github.com/home-assistant/frontend) 上工作: 修复错误, 改进屏幕, 并添加功能 。 建造一个人们自己安装的卡片或面板不需要这些. 关于这一点,见[自定义卡片及其他](/frontend/custom-ui)。
 
 ## 工具 {#the-tools}
 
 前端用 TypeScript 写为 [升](https://lit.dev/), 并用 [包装](https://rspack.dev/) 捆绑. [小时](https://pnpm.io/) 管理依赖 。 以 [维特](https://vitest.dev/) 和 [剧作家](https://playwright.dev/) 运行的测试 。 您需要的所有命令都是 `package.json` 中的脚本, 所以您用 `pnpm` 运行它们 。
 
-## 页 次 {#pages}
+## 页面 {#pages}
 
 - 我们走吧。 [建立环境](/frontend/development/environment) : 与 depcontainer, 或者在你自己的机器上。
 - [运行前端](/frontend/development/run):反对一个发展Home Assistant,或者反对一个你已经拥有的。

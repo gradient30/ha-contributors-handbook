@@ -1,7 +1,7 @@
 ---
 title: 意图
 description: 什么是意图,一个集成是如何处理意图的,以及如何从代码或HTTP上发射一个.
-sidebarGroup: 语音和AI
+sidebarGroup: 语音与 AI
 order: 50
 ---
 

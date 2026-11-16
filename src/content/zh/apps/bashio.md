@@ -1,11 +1,11 @@
 ---
-title: 芭蕉
+title: Bashio
 description: 应用基础镜像中的 shell 函数库。如何加载它，它会对你的脚本产生哪些变化，以及它包含的每个函数。
 order: 30
 ---
 
 
-# 芭蕉 {#bashio}
+# Bashio {#bashio}
 Bashio 是一个用于应用程序的 Bash 函数库。它可以读取应用程序的选项，按级别写入日志信息，并在 500 多个函数中封装 [Supervisor API](/apps/supervisor-api)，因此你的脚本无需自己处理 `curl`、令牌和 `jq`。它由 [Home Assistant 社区应用](https://github.com/hassio-addons/bashio) 制作，并随每个 Home Assistant 基础镜像提供。
 
 下面页面上的函数列表是根据其源代码中的文档块生成的。

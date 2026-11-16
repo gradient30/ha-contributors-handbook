@@ -1,5 +1,5 @@
 ---
-title: 建设一体化
+title: 构建集成
 description: 所有的东西都是从表和图 流到收集数据、发现和诊断
 order: 10
 sidebarGroups:
@@ -12,7 +12,7 @@ sidebarGroups:
 - 参考
 ---
 
-# 建设一体化 {#building-integrations}
+# 构建集成 {#building-integrations}
 
 [融合](/glossary/integration)将Home Assistant连接到设备、服务或一个想法。 它生活在自己的文件夹中,在一个表单中描述自己,从一个配置条目设置自己,并将其数据交给Home Assistant作为实体.
 

@@ -1,7 +1,7 @@
 ---
 title: 案例发现
 description: Home Assistant如何用Zeroconf在本地网络上宣布自己,所以应用程序可以在不要求地址的情况下找到它.
-sidebarGroup: 你说的
+sidebarGroup: API
 order: 32
 ---
 

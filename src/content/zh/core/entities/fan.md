@@ -2,7 +2,7 @@
 title: 粉丝实体
 description: 构建一个控制速度,方向,振荡,预设模式的扇形实体.
 sidebarLabel: 风扇
-sidebarGroup: 灯光和气候
+sidebarGroup: 灯光与气候
 ---
 
 # 粉丝实体 {#fan-entity}

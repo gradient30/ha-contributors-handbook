@@ -1,8 +1,10 @@
 ---
-title: 从思想到释放 46.
-description: 关于Home Assistant的更大工作是在公开场合规划的,从一个特性请求到一个路线图机会,一个史诗,任务,和pull requests,以及您可以加入到哪里.
+title: 从构想到发布
+description: How larger work on Home Assistant is planned in the open, from a feature request to a roadmap opportunity, an epic, tasks, and pull requests, and where you can join in along the way.
 order: 2
 sidebarLabel: 它是如何运作的
+sidebarLabel: 工作原理
+
 ---
 
 # 从思想到释放 46. {#from-idea-to-release}
@@ -19,7 +21,7 @@ sidebarLabel: 它是如何运作的
   - [目标](https://github.com/OpenHomeFoundation/goals): 由棋盘设定
 - 机会:值得解决的问题
   - [特性请求](https://github.com/home-assistant/feature-requests/discussions):任何人的想法和投票
-  - [建立起的均已将收到就这些的 但这提供任何的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的和的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的](https://github.com/OpenHomeFoundation/roadmap):机会,由产品团队塑造
+  - [路线图](https://github.com/OpenHomeFoundation/roadmap):机会,由产品团队塑造
 - Epics: 一套工作,往往是一个机会的阶段
   - ZafatahL0]:交付品和完成标准
 - 任务:一个存储库中的一件工作

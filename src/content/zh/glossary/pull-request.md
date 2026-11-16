@@ -1,7 +1,7 @@
 ---
 title: 调用请求
 description: 在 GitHub 上请求将更改合并为寄存器, 在输入前对其进行审查 。
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - pull requests

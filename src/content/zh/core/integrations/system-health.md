@@ -1,7 +1,7 @@
 ---
 title: 系统保健
 description: 在系统信息页面上显示您整合的状态, 如服务器能否到达以及还剩多少配额 。
-sidebarGroup: 融合特征
+sidebarGroup: 集成功能
 order: 5
 ---
 

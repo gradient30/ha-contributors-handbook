@@ -2,6 +2,8 @@
 title: 输入编号
 description: 状态行中的数字帮助器、滑动器或数字字段的更多信息视图。
 sidebarGroup: 帮助者
+sidebarGroup: 助手
+
 ---
 
 # 输入编号 {#input-number}

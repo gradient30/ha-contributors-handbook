@@ -2,7 +2,7 @@
 title: Compose 与设计系统
 description: 使用 Jetpack Compose、HATheme 和 `HA*` 组件构建 Android UI。预览、Compose 目录、部件和导航。
 sidebarLabel: 组成和设计系统
-sidebarGroup: 写代码
+sidebarGroup: 编写代码
 order: 1
 ---
 

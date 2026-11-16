@@ -2,7 +2,7 @@
 title: 时间实体
 description: 这里是时间op 15.
 sidebarLabel: 时间
-sidebarGroup: 投入和帮助
+sidebarGroup: 输入与助手
 ---
 
 # 时间实体 {#time-entity}

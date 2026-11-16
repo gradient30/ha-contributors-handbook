@@ -1,7 +1,7 @@
 ---
 title: 的一点是
 description: 家庭援助人士的博客文章。 io),讲述发行版中的新内容,变化的内容,以及用户需要做什么.
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   related:
   - release

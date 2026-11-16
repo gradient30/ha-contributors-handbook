@@ -1,7 +1,7 @@
 ---
 title: 自动化
 description: 一个在触发器发生和条件得到满足时采取行动的规则,比如有人在家时在日落时打开灯.
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - automations

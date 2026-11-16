@@ -1,7 +1,7 @@
 ---
 title: Assist
 description: Home Assistant的语音助理。 它把你说的话或者打字变成行动
-sidebarGroup: 声音
+sidebarGroup: 语音
 term:
   code:
   - assist_pipeline

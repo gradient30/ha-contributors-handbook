@@ -1,7 +1,7 @@
 ---
 title: 洛杉矶
 description: '{襟>:您确认您有权根据项目许可证分享您的捐款 。 你签过一次'
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - Contributor License Agreement

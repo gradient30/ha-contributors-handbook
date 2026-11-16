@@ -1,7 +1,7 @@
 ---
 title: Lokalise
 description: 社区翻译Home Assistant的平台:前端,集成,以及伴侣应用.
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   related:
   - translation-key

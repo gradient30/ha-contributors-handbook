@@ -1,7 +1,7 @@
 ---
 title: 活动总线
 description: 事件公交如何运作,如何点燃自己的事件,如何在不泄露听众的情况下聆听事件.
-sidebarGroup: 核心内容
+sidebarGroup: 核心
 order: 2
 sidebarLabel: 傀儡
 ---

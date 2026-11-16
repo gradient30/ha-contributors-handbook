@@ -2,7 +2,7 @@
 title: 数目实体
 description: 构建一个允许人们在设备上设置数字值的数字实体,如目标关卡或超时.
 sidebarLabel: 数目
-sidebarGroup: 投入和帮助
+sidebarGroup: 输入与助手
 ---
 
 # 数目实体 {#number-entity}

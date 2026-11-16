@@ -2,7 +2,7 @@
 title: 给实体一个独特的ID
 description: 青铜规则实体-唯一-id:每个实体都有独特的ID,因此用户可以自定义.
 sidebarLabel: 实体- 唯一
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 15
 ---
 

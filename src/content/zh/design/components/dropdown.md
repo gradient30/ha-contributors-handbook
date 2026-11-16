@@ -2,6 +2,8 @@
 title: 下拉菜单
 description: 下拉菜单显示按钮后面的操作或选项菜单。
 sidebarGroup: 动作
+sidebarGroup: 操作
+
 ---
 
 

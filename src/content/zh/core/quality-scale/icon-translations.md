@@ -2,7 +2,7 @@
 title: 使用图标翻译
 description: 黄金规则图标-翻译:实体图标在图标.json中定义.
 sidebarLabel: 图标翻译
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 18
 ---
 

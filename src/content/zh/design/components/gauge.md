@@ -2,6 +2,8 @@
 title: 测量仪
 description: 仪表在半圆表盘上显示单个数值，并可以选择颜色来表示该数值的好坏。
 sidebarGroup: 显示数值
+sidebarGroup: 数值展示
+
 ---
 
 

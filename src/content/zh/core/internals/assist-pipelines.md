@@ -1,7 +1,7 @@
 ---
 title: Assist 管道
 description: 语音如何通过Home Assistant,如何运行 Assist 管道在WebSocket上 API,将音频流进它,并跟踪它的事件.
-sidebarGroup: 语音和AI
+sidebarGroup: 语音与 AI
 order: 53
 ---
 

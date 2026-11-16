@@ -2,7 +2,7 @@
 title: 更新来自发现的网络信息
 description: 黄金规则发现-更新-info:发现在已知设备改变时更新其地址.
 sidebarLabel: 发现- 更新- info
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 4
 ---
 

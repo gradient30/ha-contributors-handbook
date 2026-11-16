@@ -1,8 +1,8 @@
 ---
-title: OAuth 2.0 和应用程序证书
+title: OAuth 2.0 与应用凭证
 description: 用 OAuth 2.0 连接用户的账户, 让 Home Assistant 为您处理 。
-sidebarLabel: 奥奥特2.0
-sidebarGroup: 设置和配置
+sidebarLabel: OAuth 2.0
+sidebarGroup: 设置与配置
 order: 7
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: API (韩语)
+title: WebSocket API
 description: Home Assistant Core的API,前端和同伴的应用程序在一个开通的连接上,用来读取状态,执行动作,并在发生时获得更新.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   code:
   - websocket_api

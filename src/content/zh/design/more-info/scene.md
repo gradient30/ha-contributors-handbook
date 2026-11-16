@@ -2,6 +2,8 @@
 title: 场景
 description: 抨击场景的更多信息视图,带有激活按钮以及场景控制的实体.
 sidebarGroup: 帮助者
+sidebarGroup: 助手
+
 ---
 
 # 场景 {#scene}

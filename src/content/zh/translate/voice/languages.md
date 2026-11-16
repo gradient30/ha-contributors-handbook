@@ -23,72 +23,72 @@ order: 4
 
 | 的 | 语言 | 语文领导人 |
 | --- | --- | --- |
-| `af` | 南非荷兰人 | 还没有 |
-| `ar` | العربية | [艾哈迈德-法拉格36](https://github.com/Ahmed-farag36), [纳塔吉](https://github.com/Natfaji) |
-| `bg` | Български | [圣塔纳芷夫](https://github.com/hristo-atanasov) |
-| `bn` | বাংলা | [波尔塔拉什卡语Name](https://github.com/poltalashka), [哈克医生](https://github.com/DrHaque) |
-| `ca` | 加泰罗尼亚 | [双层](https://github.com/duhow) |
-| `cs` | 克什蒂纳 | [海尔西沃](https://github.com/halecivo), [变形元](https://github.com/schizza) |
-| `cy` | 锡姆拉格 | 还没有 |
-| `da` | 丹斯克语 | [FadamsenRevolution( 法丹森语)](https://github.com/fadamsen), [红蟹](https://github.com/MTrab) |
-| `de` | 德国 | [安德拉斯布莱特](https://github.com/andreasbrett), [东端应用](https://github.com/easterapps), [地狱科技27](https://github.com/hecktech27), [mib1185号](https://github.com/mib1185) |
-| `de-CH` | 施维泽尔迪施 | [多做出的承诺,多蒂内利](https://github.com/dontinelli) |
-| `el` | Ελληνικά | [阿波玛](https://github.com/apo-mak), [恰齐科](https://github.com/chatziko) |
-| `en` | 联合国 | [曼达伦格里夫芬](https://github.com/mrdarrengriffin), [生动板](https://github.com/vividboarder) |
-| `es` | 西班牙语Name | [达夫克斯](https://github.com/davefx), [双层](https://github.com/duhow) |
-| `et` | 节日 | 还没有 |
-| `eu` | 欧斯卡拉 | [尔泽](https://github.com/urtzai) |
-| `fa` | فارسی | 还没有 |
-| `fi` | 苏美 | [阿基玛吉](https://github.com/Arkkimaagi), [萨莱克语Name](https://github.com/salleq) |
-| `fr` | 法国语Name | [jlpouffier (英语).](https://github.com/jlpouffier), [piitaya (英语).](https://github.com/piitaya) |
-| `ga` | 盖尔日 | [艾伦·格林](https://github.com/AlanGreene) |
-| `gl` | 加利西亚语Name | [齐伯诺克斯语Name](https://github.com/cibernox) |
-| `gu` | 古吉拉特语 | 还没有 |
-| `he` | עברית | [倾角](https://github.com/leranp), [汉姆 -b](https://github.com/haim-b) |
-| `hi` | हिन्दी | [阿曼克鲁克克斯语Name](https://github.com/amankrokx) |
-| `hr` | 赫尔瓦茨基 | [斯普尔科](https://github.com/spuljko) |
-| `hu` | 马吉亚尔 | [纳吉罗比](https://github.com/nagyrobi), [v1k70rk4](https://github.com/v1k70rk4) |
-| `hy` | հայերեն | [ean](https://github.com/eantonya), [沙汉94](https://github.com/shahen94) |
-| `id` | 印度尼西亚 | 还没有 |
-| `is` | 斯伦斯卡 | [小时](https://github.com/thdg) |
-| `it` | 意大利语Name | [阿纳阿斯盖普斯](https://github.com/auanasgheps), [xraver 软件](https://github.com/xraver) |
-| `ja` | 日本語 | 还没有 |
-| `ka` | ქართული | [赫兹格](https://github.com/hertzg) |
-| `kn` | ಕನ್ನಡ | 还没有 |
-| `ko` | 한국어 | [无限百网](https://github.com/limitless00net) |
-| `kw` | 克尔尼韦克 | 还没有 |
-| `lb` | 吕泽布尔格施 | [茂济子秀](https://github.com/mojikosu) |
-| `lt` | 利图维ų | 还没有 |
-| `lv` | 拉特维苏 | [机械技术](https://github.com/makstech), [克莱杰](https://github.com/klejejs) |
-| `ml` | മലയാളം | [阿伦谢克](https://github.com/arunshekher) |
-| `mn` | монгол хэл | [{\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}你觉得呢?](https://github.com/chuk-a) |
-| `mr` | 马拉蒂 | 还没有 |
-| `ms` | 巴哈萨·梅莱尤 | [zu2k](https://github.com/zubir2k) |
-| `nb` | 诺斯克 Bokmål | [拉斯特拉达](https://github.com/LaStrada) |
-| `ne` | नेपाली | [(原始内容存档于2019-09-21). Rrp13](https://github.com/Rrp13) |
-| `nl` | 荷兰 | [联邦](https://github.com/TheFes) |
-| `pa` | 旁遮普语Name | [平方公里wl](https://github.com/kmlkrwl) |
-| `pl` | 波尔斯基 | [乌里齐埃尔01](https://github.com/Uriziel01), [智通格伦](https://github.com/witold-gren) |
-| `pt` | 葡萄牙 | [乔奥尔贡卡尔夫](https://github.com/joaorgoncalves), [腹胀](https://github.com/abmantis) |
-| `pt-BR` | 葡萄牙语( 布拉西尔语) | [缩写](https://github.com/mhentschke), [卢伊兹费尔南多08](https://github.com/luyzfernando08), [静态dev](https://github.com/staticdev) |
-| `ro` | 罗曼 | [泰尔](https://github.com/tetele), [加比马尔奇丹](https://github.com/gabimarchidan) |
-| `ru` | Русский | [肝脏3](https://github.com/HepoH3) |
-| `sk` | 斯洛文契纳 | [卢博斯·卡达西](https://github.com/LubosKadasi) |
-| `sl` | 斯洛文基纳 | [安德列日2号](https://github.com/andrejs2) |
-| `sr` | Српски | [克夫拉丹岛](https://github.com/cvladan), [ddxic 数据](https://github.com/ddxic), [暗黑线79](https://github.com/darkobg79), [彭贝格](https://github.com/PengBG) |
-| `sr-Latn` | 斯普斯基语Name | 还没有 |
-| `sv` | 斯文斯卡语Name | [拉尔斯杜奈马克](https://github.com/larsdunemark), [罗宾圣](https://github.com/Robin-St) |
-| `sw` | 斯瓦希里语Name | [喀麦隆](https://github.com/BCorbeek) |
-| `ta` | தமிழ் | 还没有 |
-| `te` | తెలుగు | 还没有 |
-| `th` | ภาษาไทย | 还没有 |
-| `tr` | Türkçe | [缩写](https://github.com/alpdmrel) |
-| `uk` | Українська | [天际网](https://github.com/skynetua) |
-| `ur` | اُردُو | [亚利安汗](https://github.com/AalianKhan) |
-| `vi` | Tiếng Việt | [锡金赫82](https://github.com/dinhchinh82) |
-| `zh-CN` | 简体中文 | [等一可以根据](https://github.com/al-one) |
-| `zh-HK` | 繁體中文（香港） | [摇摆](https://github.com/swonge) |
-| `zh-TW` | 繁體中文（台灣） | [蓝狐狸](https://github.com/bluefoxlee) |
+| `af` | Afrikaans | None yet |
+| `ar` | العربية | [Ahmed-farag36](https://github.com/Ahmed-farag36), [Natfaji](https://github.com/Natfaji) |
+| `bg` | Български | [hristo-atanasov](https://github.com/hristo-atanasov) |
+| `bn` | বাংলা | [poltalashka](https://github.com/poltalashka), [DrHaque](https://github.com/DrHaque) |
+| `ca` | Català | [duhow](https://github.com/duhow) |
+| `cs` | Čeština | [halecivo](https://github.com/halecivo), [schizza](https://github.com/schizza) |
+| `cy` | Cymraeg | None yet |
+| `da` | Dansk | [fadamsen](https://github.com/fadamsen), [MTrab](https://github.com/MTrab) |
+| `de` | Deutsch | [andreasbrett](https://github.com/andreasbrett), [easterapps](https://github.com/easterapps), [hecktech27](https://github.com/hecktech27), [mib1185](https://github.com/mib1185) |
+| `de-CH` | Schwyzerdütsch | [dontinelli](https://github.com/dontinelli) |
+| `el` | Ελληνικά | [apo-mak](https://github.com/apo-mak), [chatziko](https://github.com/chatziko) |
+| `en` | English | [mrdarrengriffin](https://github.com/mrdarrengriffin), [vividboarder](https://github.com/vividboarder) |
+| `es` | Español | [davefx](https://github.com/davefx), [duhow](https://github.com/duhow) |
+| `et` | Eesti | None yet |
+| `eu` | Euskara | [urtzai](https://github.com/urtzai) |
+| `fa` | فارسی | None yet |
+| `fi` | Suomi | [Arkkimaagi](https://github.com/Arkkimaagi), [salleq](https://github.com/salleq) |
+| `fr` | Français | [jlpouffier](https://github.com/jlpouffier), [piitaya](https://github.com/piitaya) |
+| `ga` | Gaeilge | [AlanGreene](https://github.com/AlanGreene) |
+| `gl` | Galician | [cibernox](https://github.com/cibernox) |
+| `gu` | Gujarati | None yet |
+| `he` | עברית | [leranp](https://github.com/leranp), [haim-b](https://github.com/haim-b) |
+| `hi` | हिन्दी | [amankrokx](https://github.com/amankrokx) |
+| `hr` | Hrvatski | [spuljko](https://github.com/spuljko) |
+| `hu` | Magyar | [nagyrobi](https://github.com/nagyrobi), [v1k70rk4](https://github.com/v1k70rk4) |
+| `hy` | հայերեն | [eantonya](https://github.com/eantonya), [shahen94](https://github.com/shahen94) |
+| `id` | Bahasa Indonesia | None yet |
+| `is` | íslenska | [thdg](https://github.com/thdg) |
+| `it` | Italiano | [auanasgheps](https://github.com/auanasgheps), [xraver](https://github.com/xraver) |
+| `ja` | 日本語 | None yet |
+| `ka` | ქართული | [hertzg](https://github.com/hertzg) |
+| `kn` | ಕನ್ನಡ | None yet |
+| `ko` | 한국어 | [limitless00net](https://github.com/limitless00net) |
+| `kw` | kernewek | None yet |
+| `lb` | Lëtzebuergesch | [mojikosu](https://github.com/mojikosu) |
+| `lt` | Lietuvių | None yet |
+| `lv` | Latviešu | [makstech](https://github.com/makstech), [klejejs](https://github.com/klejejs) |
+| `ml` | മലയാളം | [arunshekher](https://github.com/arunshekher) |
+| `mn` | монгол хэл | [chuk-a](https://github.com/chuk-a) |
+| `mr` | Marathi | None yet |
+| `ms` | Bahasa Melayu | [zubir2k](https://github.com/zubir2k) |
+| `nb` | Norsk Bokmål | [LaStrada](https://github.com/LaStrada) |
+| `ne` | नेपाली | [Rrp13](https://github.com/Rrp13) |
+| `nl` | Nederlands | [TheFes](https://github.com/TheFes) |
+| `pa` | Punjabi | [kmlkrwl](https://github.com/kmlkrwl) |
+| `pl` | Polski | [Uriziel01](https://github.com/Uriziel01), [witold-gren](https://github.com/witold-gren) |
+| `pt` | Português | [joaorgoncalves](https://github.com/joaorgoncalves), [abmantis](https://github.com/abmantis) |
+| `pt-BR` | Português (Brasil) | [mhentschke](https://github.com/mhentschke), [luyzfernando08](https://github.com/luyzfernando08), [staticdev](https://github.com/staticdev) |
+| `ro` | Română | [tetele](https://github.com/tetele), [gabimarchidan](https://github.com/gabimarchidan) |
+| `ru` | Русский | [HepoH3](https://github.com/HepoH3) |
+| `sk` | Slovenčina | [LubosKadasi](https://github.com/LubosKadasi) |
+| `sl` | Slovenščina | [andrejs2](https://github.com/andrejs2) |
+| `sr` | Српски | [cvladan](https://github.com/cvladan), [ddxic](https://github.com/ddxic), [darkobg79](https://github.com/darkobg79), [PengBG](https://github.com/PengBG) |
+| `sr-Latn` | Srpski | None yet |
+| `sv` | Svenska | [larsdunemark](https://github.com/larsdunemark), [Robin-St](https://github.com/Robin-St) |
+| `sw` | Kiswahili | [BCorbeek](https://github.com/BCorbeek) |
+| `ta` | தமிழ் | None yet |
+| `te` | తెలుగు | None yet |
+| `th` | ภาษาไทย | None yet |
+| `tr` | Türkçe | [alpdmrel](https://github.com/alpdmrel) |
+| `uk` | Українська | [skynetua](https://github.com/skynetua) |
+| `ur` | اُردُو | [AalianKhan](https://github.com/AalianKhan) |
+| `vi` | Tiếng Việt | [dinhchinh82](https://github.com/dinhchinh82) |
+| `zh-CN` | 简体中文 | [al-one](https://github.com/al-one) |
+| `zh-HK` | 繁體中文（香港） | [swonge](https://github.com/swonge) |
+| `zh-TW` | 繁體中文（台灣） | [bluefoxlee](https://github.com/bluefoxlee) |
 
 马拉蒂(`mr`)被列出,但还没有句子.笃 我们都认为 `sr-Latn` 是由`sr` 生成的 `sr` : 在`sr` 中更改塞尔维亚语, 拉丁文版本如下 。
 

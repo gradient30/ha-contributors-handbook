@@ -1,7 +1,7 @@
 ---
 title: 支持的特性
 description: 一个实体设定的数来表示它所支持的类型中的哪些特征,比如可以设置到一个位置的封面.
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   code:
   - supported_features

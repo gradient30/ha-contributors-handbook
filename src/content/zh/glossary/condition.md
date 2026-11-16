@@ -1,7 +1,7 @@
 ---
 title: Condition
 description: 在继续前检查一个自动化或脚本,比如是否有人在家.
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - conditions

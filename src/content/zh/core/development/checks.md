@@ -1,7 +1,7 @@
 ---
 title: Linter、hassfest 与 CI
 description: 检查每个承诺和每个pull request到Home Assistant Core, 以及如何自己运行。
-sidebarGroup: 写代码
+sidebarGroup: 编写代码
 order: 5
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 隐藏对象
+title: hass 对象
 description: '`HomeAssistant` 集成得到的例子, 访问状态机器、 事件总线、 动作和配置 。'
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - hass

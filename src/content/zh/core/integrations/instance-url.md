@@ -2,7 +2,7 @@
 title: 获取实例 URL
 description: 查找一个设备、服务或用户浏览器可以到达的 Home Assistant 的 URL 。
 sidebarLabel: 实例 URL
-sidebarGroup: 数据和更新
+sidebarGroup: 数据与更新
 order: 3
 ---
 

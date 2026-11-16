@@ -1,7 +1,7 @@
 ---
 title: 卫星 Assist
 description: 用于监听语音指令并将其发送到Home Assistant的设备,比如Home Assistant Voice预览版.
-sidebarGroup: 声音
+sidebarGroup: 语音
 term:
   aliases:
   - voice satellite

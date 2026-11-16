@@ -1,7 +1,7 @@
 ---
-title: 机会
+title: 机会项
 description: 路线图存储库中描述一个值得解决的问题,它为什么重要,以及设想的解决办法。
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - opportunities
@@ -30,6 +30,6 @@ term:
 
 ## 相关条件 {#related-terms}
 
-- [建立起的均已将收到就这些的 但这提供任何的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的和的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的](/glossary/roadmap) : {H抨} 想要在 {H坛} 和其他项目中解决的问题, 作为机会在 OpenHomeFoundation/roadmap 仓库中追踪 。
+- [路线图](/glossary/roadmap) : {H抨} 想要在 {H坛} 和其他项目中解决的问题, 作为机会在 OpenHomeFoundation/roadmap 仓库中追踪 。
 - [图片](/glossary/epic): Home Assistant/教科文库中更大的工作, 由可以跨越多个教科文库的任务组成.
 - [结构决定](/glossary/architecture-decision):关于 Home Assistant 如何建立、 讨论和记录在家里- 助手/ 建筑库的决定 。

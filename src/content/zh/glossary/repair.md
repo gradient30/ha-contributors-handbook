@@ -1,7 +1,7 @@
 ---
 title: 修理
 description: 问题Home Assistant 显示正在修复的用户, 需要怎么做, 如配置会停止工作 。
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - repairs

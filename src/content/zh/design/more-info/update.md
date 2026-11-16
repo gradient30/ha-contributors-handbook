@@ -2,6 +2,8 @@
 title: 知道了 更新
 description: 更新实体的更多信息视图,包含版本,发布注释,以及跳过或安装的按钮.
 sidebarGroup: 应用程序
+sidebarGroup: 家电
+
 ---
 
 # 知道了 更新 {#update}

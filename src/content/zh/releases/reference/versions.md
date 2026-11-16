@@ -36,7 +36,7 @@ Home Assistant使用日历版本:该版本在发布时告诉你.
 
 ## 分支 {#the-branches}
 
-| 仓库 | 联合国 | Beta 和补丁发布 | 释放 |
+| 仓库 | 开发 | Beta 与补丁发布 | 已发布 |
 | --- | --- | --- | --- |
 | 核心项目 | `dev` | `rc` | `master` |
 | 前端 | `dev` | `rc` | `master` |

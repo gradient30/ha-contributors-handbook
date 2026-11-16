@@ -2,6 +2,8 @@
 title: 设备选择器
 description: 设备选择器让人们可以从家中的所有设备中选择一个设备，并支持搜索。
 sidebarGroup: 采摘者
+sidebarGroup: 选择器
+
 ---
 
 

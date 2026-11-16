@@ -1,7 +1,7 @@
 ---
 title: 模板
 description: Jinja2的片段从各州计算出一个值,比如几个传感器的平均温度.
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - templates

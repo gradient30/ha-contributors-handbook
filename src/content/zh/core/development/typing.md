@@ -1,7 +1,7 @@
 ---
 title: 类型提示
 description: '{ 他会如何使用类型提示和 mypy, 以及如何选择一个模块来严格检查 。'
-sidebarGroup: 写代码
+sidebarGroup: 编写代码
 order: 3
 ---
 
@@ -50,7 +50,7 @@ Python 3.14 评估注解懒散,因此可以指在文件下方被进一步定义�
 python3 -m script.hassfest -p mypy_config
 ```
 
-提交两个文件 。 [整合质量尺度](/core/quality-scale) 的白金级上的整合必须严格输入 。
+提交两个文件 。 [集成质量等级](/core/quality-scale) 的白金级上的整合必须严格输入 。
 
 ## 帮助类型检查器 {#helping-the-type-checker}
 

@@ -1,7 +1,7 @@
 ---
 title: 场景
 description: 一套为实体保存的状态, 如暗淡的灯光和关闭的百叶窗观看电影, 可以一去就启动。
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - scenes

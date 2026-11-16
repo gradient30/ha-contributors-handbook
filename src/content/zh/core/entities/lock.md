@@ -2,7 +2,7 @@
 title: 锁定实体
 description: 为锁,解锁的智能锁建立锁实体,并可选择打开一个门.
 sidebarLabel: 锁定
-sidebarGroup: 开幕和安全
+sidebarGroup: 开合与安防
 ---
 
 # 锁定实体 {#lock-entity}

@@ -2,6 +2,8 @@
 title: 覆盖
 description: 百叶窗,百叶窗,车库门等封面的更多信息视图,带有位置滑动器或打开和关闭按钮.
 sidebarGroup: 开幕和安全
+sidebarGroup: 开合与安防
+
 ---
 
 # 覆盖 {#cover}

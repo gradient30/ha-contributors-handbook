@@ -1,7 +1,7 @@
 ---
 title: 区
 description: 地图上的一个地方,比如家,工作,或者学校,人们可以进入的地方.
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - zones

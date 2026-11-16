@@ -1,7 +1,7 @@
 ---
-title: 建立发展环境
+title: 搭建开发环境
 description: 运行 Supervisor 从源头运行在它的开发容器, 运行测试和linters, 并尝试您的构建在一个真正的系统上 。
-sidebarLabel: 发展环境
+sidebarLabel: 开发环境
 sidebarGroup: 指南
 order: 1
 ---

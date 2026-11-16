@@ -2,7 +2,7 @@
 title: 气候实体
 description: 为恒温器、空调器和控制温度、湿度和风扇的热泵建立一个气候实体。
 sidebarLabel: 气候
-sidebarGroup: 灯光和气候
+sidebarGroup: 灯光与气候
 ---
 
 # 气候实体 {#climate-entity}

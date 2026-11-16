@@ -1,7 +1,7 @@
 ---
 title: 维护者
 description: 可以批准和合并 ẩnH0} 的 贡献 。
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - maintainers

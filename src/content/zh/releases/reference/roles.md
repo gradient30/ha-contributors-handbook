@@ -30,7 +30,7 @@ order: 2
 
 ## 文件审查员 {#documentation-reviewers}
 
-他们审查并合并了pull request分支上的文档`next`,因此新功能的文档在发布日就已准备好. 见[写入文件](/writing).
+他们审查并合并了pull request分支上的文档`next`,因此新功能的文档在发布日就已准备好. 见[撰写文档](/writing).
 
 ## 笔译员 {#translators}
 

@@ -2,7 +2,7 @@
 title: 文件使用案例
 description: 'Gold 规则 Docs- use- cases: 文档显示您可以在整合中做些什么 。'
 sidebarLabel: 文档使用文件
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 11
 ---
 

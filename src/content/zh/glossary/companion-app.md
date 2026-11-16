@@ -1,7 +1,7 @@
 ---
 title: 辅助应用程序
 description: Home AssistantAndroid 快点 iOS和macOS的应用 它显示前端,并添加来自设备的传感器,通知和部件.
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   aliases:
   - companion apps

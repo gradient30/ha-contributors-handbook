@@ -1,7 +1,7 @@
 ---
 title: 输油管
 description: 一个语音命令的步子会经过:醒字,语音对文本,对话代理,以及文字对语音.
-sidebarGroup: 声音
+sidebarGroup: 语音
 term:
   aliases:
   - pipeline

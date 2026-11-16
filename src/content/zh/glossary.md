@@ -1,9 +1,9 @@
 ---
-title: 词汇表
+title: 术语表
 description: 一个词,一个意思。 由代码,UI文本和docs共享.
 sidebarGroups:
 - 捐款
-- 核心和一体化
+- 核心与集成
 - 实体和装置
 - 自动化和组织
 - 前端
@@ -32,7 +32,7 @@ Home Assistant有它自己的单词,有些单词在代码中用另一个名字,�
 - [自动化](/glossary/automation):当触发器发生并满足其条件时执行动作的规则,比如有人在家时在日落时打开灯光.
 - [向后兼容的更改](/glossary/backward-incompatible-change):一个需要用户或开发者改变自己侧面的东西的更改,比如他们的配置或他们的自定义集成.
 - [徽章](/glossary/badge):一粒小丸,在景点顶端,一看就看一个状态,像外面的温度.
-- [芭蕉](/glossary/bashio):用于应用的Bash函数库,有帮助者用于读取应用的选项,记录,和与Supervisor API交谈.
+- [Bashio](/glossary/bashio):用于应用的Bash函数库,有帮助者用于读取应用的选项,记录,和与Supervisor API交谈.
 - [贝塔](/glossary/beta):下一次发行的测试版,在发布前一周发布,这样人们就可以在每个人更新之前发现问题.
 - [蓝图](/glossary/blueprint):一个自动化,脚本,或模板实体,需要填充空白,所以其他人可以再利用它,就像一个只需要运动传感器和灯光的运动灯.
 - [处](/glossary/branch):一个寄存器中一个单独的一行变化,这样你就可以在不接触主版本的情况下进行一些工作.
@@ -85,7 +85,7 @@ Home Assistant有它自己的单词,有些单词在代码中用另一个名字,�
 - [一体化](/glossary/integration):将Home Assistant连接到设备,服务,或协议,或添加自动化等特性的代码包.
 - [一体化类别](/glossary/integration-category):什么是集成,比如灯 15.能源,所以人们可以通过它做什么,比如在网站的集成页面上找到它.
 - [融合拥有者](/glossary/integration-owner):负责合并的个人或团队,列于其清单中,他们得到关于其问题的通知,并要求审查其pull request。
-- [整合质量尺度](/glossary/quality-scale): 集成通过遵循代码质量和用户体验规则所获得的等级：青铜、白银、黄金和白金。
+- [集成质量等级](/glossary/quality-scale): 集成通过遵循代码质量和用户体验规则所获得的等级：青铜、白银、黄金和白金。
 - [意图](/glossary/intent):声音命令意味着什么,就像打开一个区域的灯,需要细节来做.
 - [IOT 类](/glossary/iot-class):整合如何获得其数据:本地或从云,通过投票或推. 设于表里.
 - [雌性](/glossary/issue):关于GitHub的关于寄存器中一个问题的报告,像错误一样,人们可以讨论和跟踪.
@@ -121,11 +121,11 @@ Home Assistant有它自己的单词,有些单词在代码中用另一个名字,�
 - [发布](/glossary/release): Home Assistant的新版本 。 每个月的第一个星期三都出场 中间放出补丁
 - 校对:Soup io),讲述发行版中的新内容,变化的内容,以及用户需要做什么.
 - [修理](/glossary/repair):一个问题 Home Assistant 显示在修补下的用户, 需要怎么做, 像配置会停止工作 。
-- 衲子 [仓库](/glossary/repository): GitHub上的一个项目: 其文件, 以及每次更改的完整历史 。
+- [仓库](/glossary/repository): GitHub上的一个项目: 其文件, 以及每次更改的完整历史 。
 - [要求](/glossary/requirement):太棒了 PyPI 的 Python 软件包, 一个集成需要的, 在其表单中以固定版本列出 。
 - [分辨率中心](/glossary/resolution-center): Supervisor 中发现系统问题的部分, 如低磁盘空间, 并为它们建议修正 。
 - [审查](/glossary/review):读取和测试 ổ pull request 在它被合并之前, 由维护者, 集成所有者, 或者任何其他想要帮助的人 。
-- [建立起的均已将收到就这些的 但这提供任何的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的和的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的](/glossary/roadmap) : {H抨} 想要在 {H坛} 和其他项目中解决的问题, 作为机会在 OpenHomeFoundation/roadmap 仓库中追踪 。
+- [路线图](/glossary/roadmap) : {H抨} 想要在 {H坛} 和其他项目中解决的问题, 作为机会在 OpenHomeFoundation/roadmap 仓库中追踪 。
 - [S6 重叠](/glossary/s6-overlay): Home Assistant基础图像中的 init 系统。 它在其容器内启动、监视和停止应用程序的程序。
 - [场景](/glossary/scene):为实体保存的一组状态,如暗灯和闭盲,用于观看一部电影,可以在一次拍摄中激活.
 - [脚本](/glossary/script):可以从自动化,仪表板或语音运行的命名动作序列.

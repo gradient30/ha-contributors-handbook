@@ -1,7 +1,7 @@
 ---
 title: 诊断
 description: 让用户下载一个配置条目或设备的数据,这样他们就可以在报告一个问题时分享,而不会泄露秘密.
-sidebarGroup: 融合特征
+sidebarGroup: 集成功能
 order: 4
 ---
 

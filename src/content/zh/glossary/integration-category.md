@@ -1,7 +1,7 @@
 ---
-title: 一体化类别
+title: 集成类别
 description: 集成是为了什么,比如照明或能源,所以人们可以通过它做什么来找到它,比如在网站上的集成页面上.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - integration categories

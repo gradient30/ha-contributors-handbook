@@ -1,7 +1,7 @@
 ---
 title: 选择器
 description: 描述一个字段需要什么样的价值,比如一个实体,一个数字,或者一个时间,所以UI显示了正确的控制.
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - selectors

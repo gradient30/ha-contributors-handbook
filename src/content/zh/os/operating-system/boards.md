@@ -1,7 +1,7 @@
 ---
 title: 支持的主板
 description: 每个板子Home Assistant OS都会为其构建目标、引导加载程序和机器类型进行构建。
-sidebarGroup: 董事会
+sidebarGroup: 开发板
 order: 1
 ---
 

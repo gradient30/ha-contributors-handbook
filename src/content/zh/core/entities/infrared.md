@@ -2,7 +2,7 @@
 title: 红外实体
 description: 在并同集成之间共享红外线硬件,所以一个集成发送和接收信号,另一个集成知道信号的含义.
 sidebarLabel: 红外线
-sidebarGroup: 远程和信号
+sidebarGroup: 遥控与信号
 ---
 
 # 红外实体 {#infrared-entity}

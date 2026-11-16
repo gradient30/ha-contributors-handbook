@@ -1,6 +1,6 @@
 ---
 title: 伴侣应用
-description: 官方 Home Assistant 为Android,iOS,iPadOS,macOS,watchOS,Wear OS,以及车的应用程序.
+description: The official Home Assistant apps for Android, iOS, iPadOS, macOS, watchOS, Wear OS, and the car. How they are built, and how to help build them.
   如何建造,如何帮助建造.
 ---
 

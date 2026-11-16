@@ -1,7 +1,7 @@
 ---
 title: 属性
 description: 附加信息随状态而来,比如光亮度或其支持的效果列表.
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   aliases:
   - attributes

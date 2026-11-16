@@ -2,7 +2,7 @@
 title: 在 Home Assistant 中同步
 description: 为什么 Home Assistant 运行在一个 Ayncio 事件循环上, 您所写的功能类型, 以及如何移动工作 进出循环 。
 sidebarLabel: 在 Home Assistant 中同步
-sidebarGroup: 自动同步
+sidebarGroup: 异步
 order: 10
 ---
 

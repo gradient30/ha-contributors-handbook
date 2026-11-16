@@ -1,7 +1,7 @@
 ---
 title: 应用端点
 description: Supervisor 已安装应用的 API 端点、它们的选项、状态及日志。
-sidebarLabel: 应用程序
+sidebarLabel: 应用
 order: 1
 ---
 

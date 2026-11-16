@@ -2,6 +2,8 @@
 title: 选择菜单
 description: 一个紧凑的下拉菜单，用于选择一个选项，比如风扇的预设或恒温器的模式。
 sidebarGroup: 显示数值
+sidebarGroup: 数值展示
+
 ---
 
 # 选择菜单 {#select-menu}

@@ -1,7 +1,7 @@
 ---
 title: 提交
 description: 一个将更改保存到一个寄存器中的一个或多个文件,并带有一个信息,上面写着什么改变了.
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - commits

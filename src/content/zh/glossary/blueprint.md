@@ -1,7 +1,7 @@
 ---
 title: 蓝图
 description: 自动化,脚本,或模板实体,带有空白来填充,所以其他人可以重用它,就像只需要运动传感器和灯光的运动灯.
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - blueprints

@@ -2,7 +2,7 @@
 title: 你要我怎样?
 description: 一步一步地构建一个小的,完全的集成,从脚手架到一个配置流,一个协调器,传感器,测试,和一个满足青铜级的pull request.
 sidebarLabel: 教学
-sidebarGroup: 开始
+sidebarGroup: 入门
 order: 2
 ---
 
@@ -21,7 +21,7 @@ order: 2
 - ** 发展环境。 ** 设置 [缔造和平](/core/first-contribution#2-set-up-your-environment) 或 [发展环境](/core/development/environment) 向导 。 运行此页面上的每一个命令 从您核心检查的根, 在那个环境中。
 - ** 符合核心的设备或服务。 ** 它今天必须可供人们购买和使用,并具有实际的用户基础。 见[创建集成](/core/integrations/create#does-it-belong-in-core). 对于新的整合,项目建议您先在[市场](/marketplace)中发布. 定制的集成方式是相同的,所以你在这里学到的一切都会继续。
 - ** 一些Python。 ** 您应该对课程、 `async` 和`await` 以及输入提示感到舒服 。 您不需要知道 Home Assistant 的代码 。
-- ** 时间。 **或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或。、、、、、、、、、、、、、 这是正常的。
+- ** 时间。 **或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或。 这是正常的。
 
 然后为您的整合创建一个分支, 从 Home Assistant 的最新 `dev` 分支开始 。 先做这个:核心的预承诺钩包括`no-commit-to-branch`,它拒绝在`dev`,`rc`和`master`上的每一项承诺.
 

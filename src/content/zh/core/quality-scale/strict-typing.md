@@ -2,7 +2,7 @@
 title: 使用严格的打字
 description: 白金规则严格打字:整合后完全打字,并使用严格的神秘设置进行检查.
 sidebarLabel: 严格打字
-sidebarGroup: 铂
+sidebarGroup: 铂金
 order: 3
 ---
 

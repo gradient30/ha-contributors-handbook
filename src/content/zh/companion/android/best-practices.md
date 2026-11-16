@@ -2,7 +2,7 @@
 title: Android最佳实践
 description: 每次 Android 审查中都会出现的编码规则。强类型、时间、并发、依赖注入、日志记录，以及快速失败。
 sidebarLabel: 最佳实践
-sidebarGroup: 写代码
+sidebarGroup: 编写代码
 order: 2
 ---
 

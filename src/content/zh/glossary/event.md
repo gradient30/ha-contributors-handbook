@@ -1,7 +1,7 @@
 ---
 title: 积极地濑子事件
 description: 事件总线上的一条消息说发生了一些事情,比如状态变化或者按按钮. 任何代码都可以听到事件.
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   aliases:
   - events

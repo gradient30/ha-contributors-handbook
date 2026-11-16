@@ -1,7 +1,7 @@
 ---
 title: Dev 分支
 description: 在许多 Home Assistant 寄存器中发生开发的分支, 如 Home Assistant Core 和前端 。 拉请求去那里。
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - dev

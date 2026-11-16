@@ -1,8 +1,10 @@
 ---
-title: 前端显示对象
+title: 前端中的 hass 对象
 description: 每个卡片、面板和组件的属性、方法和格式化器。
 order: 2
 sidebarLabel: 隐藏对象
+sidebarLabel: hass 对象
+
 ---
 
 # 前端显示对象 {#the-hass-object-in-the-frontend}

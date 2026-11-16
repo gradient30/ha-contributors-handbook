@@ -1,7 +1,7 @@
 ---
-title: 调试为解决 Supervisor
+title: 调试 Supervisor
 description: 将 Python 调试器附加到运行中的 Supervisor , 本地或远程设备上, 并查找其日志 。
-sidebarLabel: 调试为解决 Supervisor
+sidebarLabel: 调试 Supervisor
 sidebarGroup: 指南
 order: 2
 ---

@@ -1,5 +1,5 @@
 ---
-title: 操作系统和Supervisor
+title: OS 与 Supervisor
 description: 研究Home Assistant OS和Supervisor，这两部分将一块板或虚拟机变成一个Home Assistant系统，该系统能够运行、更新和自我修复。
 ---
 

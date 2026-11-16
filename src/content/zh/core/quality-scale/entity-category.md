@@ -2,7 +2,7 @@
 title: 指定实体类别
 description: 黄金规则实体类:配置和诊断实体有一个实体类.
 sidebarLabel: 实体类别
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 13
 ---
 

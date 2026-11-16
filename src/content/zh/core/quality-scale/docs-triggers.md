@@ -2,7 +2,7 @@
 title: 记录触发器
 description: 青铜规则docs-triggers:文档描述了集成的触发器.
 sidebarLabel: 文件触发
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 13
 ---
 

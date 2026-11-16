@@ -2,7 +2,7 @@
 title: 运行测试
 description: 使用 pytest 运行 Home Assistant Core 的测试, 检查您的覆盖, 更新快照, 并知道 CI 运行 。
 sidebarLabel: 运行测试
-sidebarGroup: 写代码
+sidebarGroup: 编写代码
 order: 4
 ---
 

@@ -2,7 +2,7 @@
 title: 已知限制文件
 description: Gold rule docs - 众所周知的限制:文档列出了已知的限制.
 sidebarLabel: 已知文件限制
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 7
 ---
 

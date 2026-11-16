@@ -1,7 +1,7 @@
 ---
 title: 独一无二的ID
 description: 集成给一个实体或配置条目的ID, 它永远不会改变, 因此Home Assistant 在重启后承认它 。
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   aliases:
   - unique IDs

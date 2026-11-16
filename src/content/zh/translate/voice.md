@@ -1,5 +1,5 @@
 ---
-title: 声音
+title: 语音
 description: 教Assist你的语言。株式会社蓉子,
 order: 30
 ---

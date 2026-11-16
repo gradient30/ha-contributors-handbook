@@ -1,7 +1,7 @@
 ---
 title: 修理费
 description: 告诉用户他们需要采取行动的问题,并帮助他们用修理流程来解决这些问题。
-sidebarGroup: 融合特征
+sidebarGroup: 集成功能
 order: 6
 ---
 

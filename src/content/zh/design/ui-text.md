@@ -1,5 +1,5 @@
 ---
-title: 用户界面文本
+title: 界面文本
 description: 界面如何说话. Home Assistant的语音,风格,和单词,对于每个写标签,按钮,或错误的人.
 order: 30
 ---

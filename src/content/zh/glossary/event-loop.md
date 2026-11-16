@@ -1,7 +1,7 @@
 ---
 title: 事件循环
-description: 运行 Home Assistant Core 的 Ayncio 环路 。 像在网络上等待没有`await`的代码, 停止其他一切。
-sidebarGroup: 核心和一体化
+description: 运行 Home Assistant Core 的 asyncio 循环。若代码在没有 await 的情况下等待网络，就会卡住其他所有任务。
+sidebarGroup: 核心与集成
 term:
   aliases:
   - asyncio
@@ -18,12 +18,13 @@ term:
 
 # 事件循环 {#event-loop}
 
-- 代码:`async_`,`hass.async_add_executor_job`
-- 另外: Ayncio,执行人
+- 代码：`async_`、`hass.async_add_executor_job`
+- 另见：asyncio、executor
 
-从 `async_` 开始的函数在事件循环中运行, 并且永远不能屏蔽 。 掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的掌握的有关的有关的有关的有关的有关的有关的有关的有关的有关的有关的有关的有关的有关的有关的有关的有关的有关的有关的有关的的有关的有关的有关的有关的有关的有关的的有关的有关的有关的有关的有关的有关的有关的的有关的有关的的有关的的有关的的有关的有关的有关的有关的有关的有关的有关的的有关的有关的有关的的的有关的的的的有关的有关的有关的的有关的有关的有关的的有关的的有关的有关的
+以 `async_` 开头的函数在事件循环中运行，并且绝不能阻塞。只能阻塞的代码（例如没有异步支持的库）应通过 `hass.async_add_executor_job` 放到 executor 线程里运行。
 
-## 相关条件 {#related-terms}
+## 相关术语 {#related-terms}
 
-- [Home Assistant Core](/glossary/core): {的答复} Python 应用程序位于Home Assistant 的核心, 及其所有集成, 在Home Assistant/核心寄存器中 。
-- [隐藏对象](/glossary/hass) : `HomeAssistant` 集成得到的例子, 访问状态机器、 事件总线、 动作和配置 。
+- [Home Assistant Core](/glossary/core)：位于 Home Assistant 核心的 Python 应用程序及其所有集成，代码在 `home-assistant/core` 仓库中。
+- [hass 对象](/glossary/hass)：集成获得的 `HomeAssistant` 实例，用于访问状态机、事件总线、动作和配置。
+

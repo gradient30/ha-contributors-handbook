@@ -2,7 +2,7 @@
 title: 对话实体
 description: 构建一个从 Assist 中获取文本并进行回答的对话代理, 无论后面是否有语言模型 。
 sidebarLabel: 来吧
-sidebarGroup: 语音和AI
+sidebarGroup: 语音与 AI
 ---
 
 # 对话实体 {#conversation-entity}

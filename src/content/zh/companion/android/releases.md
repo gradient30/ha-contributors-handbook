@@ -2,7 +2,7 @@
 title: Android 版本
 description: Android 应用的更改如何从合并的 pull request 传递到内部测试人员、测试版和正式版，以及如何自己构建签名版本。
 sidebarLabel: 发布
-sidebarGroup: 船
+sidebarGroup: 发布上线
 order: 3
 source: https://github.com/home-assistant/android/tree/main/.github/workflows
 lastVerified: 2026-10-14

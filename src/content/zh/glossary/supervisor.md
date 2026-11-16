@@ -2,7 +2,7 @@
 title: Supervisor
 description: 好啊 Home Assistant OS 运行 Home Assistant Core 和 apps 的部分, 都在自己的容器里, 并处理它们的更新和备份
   。
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   code:
   - home-assistant/supervisor

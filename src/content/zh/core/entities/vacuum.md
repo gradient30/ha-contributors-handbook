@@ -2,7 +2,7 @@
 title: 真空实体
 description: 为机器人真空建立真空实体,可以进行清洁,停靠,并可以清理家庭的特定区域.
 sidebarLabel: 真空
-sidebarGroup: 应用程序
+sidebarGroup: 家电
 ---
 
 # 真空实体 {#vacuum-entity}

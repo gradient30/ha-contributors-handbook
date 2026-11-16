@@ -2,7 +2,7 @@
 title: 实体登记处
 description: 给实体一个独特的ID,以便实体登记册能够记住它们,将它们链接到设备上,并决定它们是否启动启用、可见或分类。
 sidebarLabel: 实体登记册
-sidebarGroup: 基本情况
+sidebarGroup: 基础
 order: 7
 ---
 

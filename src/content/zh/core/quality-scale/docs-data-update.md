@@ -2,7 +2,7 @@
 title: 记录数据更新情况
 description: Gold Rules docs-data-update:文档解释数据更新的方式和频率.
 sidebarLabel: 文档数据更新
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 5
 ---
 

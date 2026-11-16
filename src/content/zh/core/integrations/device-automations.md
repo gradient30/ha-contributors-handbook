@@ -1,7 +1,7 @@
 ---
 title: 设备自动化
 description: 设备如何触发、条件和行动 目下已有的整合。
-sidebarGroup: 融合特征
+sidebarGroup: 集成功能
 order: 3
 ---
 

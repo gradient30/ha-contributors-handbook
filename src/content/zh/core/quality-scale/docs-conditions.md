@@ -2,7 +2,7 @@
 title: 记录条件
 description: 青铜规则docs-条件:文档描述了整合的条件.
 sidebarLabel: 文件条件
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 9
 ---
 

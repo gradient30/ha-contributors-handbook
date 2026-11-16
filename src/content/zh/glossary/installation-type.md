@@ -2,7 +2,7 @@
 title: 安装类型
 description: '如何安装 Home Assistant : Home Assistant OS 或 Home Assistant Container 。
   他们有不同的管理为你。'
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   aliases:
   - installation types

@@ -2,7 +2,7 @@
 title: 湿润实体
 description: 为对实现空气增加湿度或消除湿度的装置建造一个加湿实体。
 sidebarLabel: 湿度
-sidebarGroup: 灯光和气候
+sidebarGroup: 灯光与气候
 ---
 
 # 湿润实体 {#humidifier-entity}

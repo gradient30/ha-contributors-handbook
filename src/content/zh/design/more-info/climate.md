@@ -2,6 +2,8 @@
 title: 气候
 description: 猥亵器或空调器的更多信息视图,围绕圆形温度拨号建造.
 sidebarGroup: 灯光和气候
+sidebarGroup: 灯光与气候
+
 ---
 
 # 气候 {#climate}

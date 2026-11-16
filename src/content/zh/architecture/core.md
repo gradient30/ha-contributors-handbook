@@ -2,7 +2,7 @@
 title: 在Home Assistant Core里面
 description: 参观位于Home Assistant核心的Python应用程序，以及通向每个部分细节的方式。
 order: 10
-sidebarLabel: 内部核心
+sidebarLabel: 核心内部
 ---
 
 

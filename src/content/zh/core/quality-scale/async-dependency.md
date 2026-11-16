@@ -2,7 +2,7 @@
 title: 使用同步依赖
 description: 白金法则 async-dependency:集成的图书馆使用asyncio.
 sidebarLabel: 关联依赖性
-sidebarGroup: 铂
+sidebarGroup: 铂金
 order: 1
 ---
 

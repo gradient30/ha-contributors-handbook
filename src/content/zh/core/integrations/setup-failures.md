@@ -2,7 +2,7 @@
 title: 设置失败和例外
 description: 设备下线时重试设置,在证书失败时开始重新校正,并在动作中提出正确的例外.
 sidebarLabel: 设置失败和例外
-sidebarGroup: 设置和配置
+sidebarGroup: 设置与配置
 order: 9
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 标签
 description: 一个标签用户在实体,设备,区域,自动化等等上设置了它们自己的分类方式,就像所有使用大量能量的东西一样.
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - labels

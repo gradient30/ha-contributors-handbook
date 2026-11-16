@@ -1,7 +1,7 @@
 ---
 title: Thread安全
 description: 当您的代码运行在事件环路之外时, 要呼叫哪个 API, 以及如何修复线程安全错误 Home Assistant 报告 。
-sidebarGroup: 自动同步
+sidebarGroup: 异步
 order: 11
 ---
 

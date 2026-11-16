@@ -1,7 +1,7 @@
 ---
 title: YAML 配置
 description: 当一个集成仍可能配置在配置中时 。 Yaml, 以及 Home Assistant 如何验证此配置 。
-sidebarGroup: 设置和配置
+sidebarGroup: 设置与配置
 order: 8
 ---
 

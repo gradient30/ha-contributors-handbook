@@ -2,7 +2,7 @@
 title: 图标
 description: 在图标.json中给跟随其状态的实体图标翻译,以及何时使用图标属性。
 sidebarLabel: 图标
-sidebarGroup: 基本情况
+sidebarGroup: 基础
 order: 6
 ---
 

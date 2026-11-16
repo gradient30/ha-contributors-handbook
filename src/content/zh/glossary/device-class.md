@@ -1,7 +1,7 @@
 ---
 title: 设备类
 description: 什么是实体衡量或是什么,比如`temperature`或`door`。 它设置图标,单位,以及前端如何显示实体.
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   aliases:
   - device classes

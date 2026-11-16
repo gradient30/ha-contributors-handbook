@@ -2,7 +2,7 @@
 title: 文件自动化实例
 description: Gold rule docs-examples:文档给出了自动化实例或蓝图.
 sidebarLabel: 文件实例
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 6
 ---
 

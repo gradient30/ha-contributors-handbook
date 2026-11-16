@@ -2,7 +2,7 @@
 title: 进取号
 description: nitity name, 翻译密钥, 设备类如何给您的实体一个名称, 以及Home Assistant 如何将它变成友好名称和实体ID 。
 sidebarLabel: 命名
-sidebarGroup: 基本情况
+sidebarGroup: 基础
 order: 2
 ---
 

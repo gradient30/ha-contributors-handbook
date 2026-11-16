@@ -1,7 +1,7 @@
 ---
 title: 插件
 description: Supervisor 的五个插件运行在 Home Assistant Core 旁边, 每个插件都做什么, 以及它的代码住在哪里 。
-sidebarGroup: 它是如何运作的
+sidebarGroup: 工作原理
 order: 4
 ---
 

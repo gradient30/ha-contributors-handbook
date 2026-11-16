@@ -1,7 +1,7 @@
 ---
 title: 脚本
 description: 可以从自动化,仪表盘,或通过语音运行的命名动作序列.
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - scripts

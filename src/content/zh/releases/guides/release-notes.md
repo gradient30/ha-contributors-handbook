@@ -31,7 +31,7 @@ order: 1
 
 - ** 写一个好的 pull request 描述。 ** 发行注释作者读作pull requests以理解一个特性. 清晰的描述,带有变化的截图,可以节省他们很多时间.
 - ** 写一个好向后兼容的更改部分。 ** 几乎照原样抄入发行笔记. 见[记录一个向后兼容的更改](/releases/guides/backward-incompatible-changes).
-- ** 及时获得文件。 ** 没有文件的特性很难写,也很难链接到。 打开文件 pull request 与 `next` 分支的 home-assistant.io 并用代码 。 见[写入文件](/writing).
+- ** 及时获得文件。 ** 没有文件的特性很难写,也很难链接到。 打开文件 pull request 与 `next` 分支的 home-assistant.io 并用代码 。 见[撰写文档](/writing).
 - ** 审查β释放说明。 ** 在β周期间,发行笔记已经在[rc.home-assistant.io 互联网档案馆的存檔,存档日期2013-09-02.](https://rc.home-assistant.io/latest-release-notes/)发布. 发现一个错误,一个断掉的链接, 或某事不明? 在[Discord](https://www.home-assistant.io/join-chat/)上的[贝塔**](https://discord.com/channels/330944238910963714/427516175237382144)频道中报告,或在[Home Assistant.io](https://github.com/home-assistant/home-assistant.io)上打开一个问题或pull request。
 
 ## 释放方 {#the-release-party}

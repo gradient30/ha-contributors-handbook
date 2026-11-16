@@ -2,7 +2,7 @@
 title: 通知实体
 description: 构建一个向设备或服务发送消息的通知实体,比如聊天,电子邮件地址,或者显示.
 sidebarLabel: 通知
-sidebarGroup: 投入和帮助
+sidebarGroup: 输入与助手
 ---
 
 # 通知实体 {#notify-entity}

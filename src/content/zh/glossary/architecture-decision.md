@@ -1,7 +1,7 @@
 ---
 title: 结构决定
 description: 关于 Home Assistant 如何建立、 讨论和记录在 Home Assistant/ 建筑库的决定 。
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - ADR

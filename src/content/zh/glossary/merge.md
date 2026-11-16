@@ -1,7 +1,7 @@
 ---
 title: 合并
 description: 将 pull request 的更改移入存储器中 。 合并意味着你的零钱在。
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - merged

@@ -2,7 +2,7 @@
 title: 文档支持设备
 description: 安全理事会呗。
 sidebarLabel: 文档辅助设备
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 8
 ---
 

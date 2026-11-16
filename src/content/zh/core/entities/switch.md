@@ -2,7 +2,7 @@
 title: 切换实体
 description: 构建一个开关实体,用于您可以打开或关闭的东西,比如继电器或智能插件.
 sidebarLabel: 开关
-sidebarGroup: 投入和帮助
+sidebarGroup: 输入与助手
 ---
 
 # 切换实体 {#switch-entity}

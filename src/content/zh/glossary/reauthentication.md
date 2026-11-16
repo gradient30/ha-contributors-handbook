@@ -1,7 +1,7 @@
 ---
 title: 重新校正
 description: 当一个配置条目无法再登录,而不再次设置时,该流程会向用户询问新的证书.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - reauth

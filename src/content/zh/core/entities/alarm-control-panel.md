@@ -2,7 +2,7 @@
 title: 警报控制面板实体
 description: 建立一个警报控制面板实体,武装、解除和触发一个安全系统。
 sidebarLabel: 警报控制面板
-sidebarGroup: 开幕和安全
+sidebarGroup: 开合与安防
 ---
 
 # 警报控制面板实体 {#alarm-control-panel-entity}

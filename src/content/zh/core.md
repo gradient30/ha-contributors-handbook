@@ -1,9 +1,9 @@
 ---
-title: 核心和一体化
+title: 核心与集成
 description: Python,核心,和集成平台. 所有瑰宝需要建立和完善的集成物,并致力于Home Assistant Core自身.
 ---
 
-# 核心和一体化 {#core-and-integrations}
+# 核心与集成 {#core-and-integrations}
 
 Home Assistant Core 是每个 Home Assistant 安装的核心的 Python 应用程序 。 它运行着国产机器,事件总线,自动化,以及连接Home Assistant的设备与服务的数千个集成. 它都住在一个仓库里:[Home Assistant/核心人员](https://github.com/home-assistant/core).
 
@@ -14,7 +14,7 @@ Home Assistant Core 是每个 Home Assistant 安装的核心的 Python 应用程
 ## 我们能做的 {#what-you-can-work-on}
 
 - **fix a bug**:在您使用的集成中拾取一个问题,复制,并修复.
-- ** 证明整合**:添加测试,添加类型提示,或向下一层的[整合质量尺度](/core/quality-scale)工作。
+- ** 证明整合**:添加测试,添加类型提示,或向下一层的[集成质量等级](/core/quality-scale)工作。
 - ** 添加集成**:连接Home Assistant到它尚未支持的设备或服务.
 - ** 审查**:测试和审查pull request来自他人。 这是你能做的最有价值的事情之一。
 
@@ -29,9 +29,9 @@ Home Assistant Core 是每个 Home Assistant 安装的核心的 Python 应用程
 
 ## 指南和参考 {#guides-and-reference}
 
-- 历次 [建设一体化](/core/integrations) : 如何能够将一个集成, 配置流, 获取数据, 以及其它所有集成的文件 。
+- 历次 [构建集成](/core/integrations) : 如何能够将一个集成, 配置流, 获取数据, 以及其它所有集成的文件 。
 - [实体和平台](/core/entities):传感器,灯光,气候设备,以及每一个其他实体类型,每个实体都支持其属性和特征.
-- [整合质量尺度](/core/quality-scale):描述整合有多好的层次和规则,以及审查者所寻找的.
+- [集成质量等级](/core/quality-scale):描述整合有多好的层次和规则,以及审查者所寻找的.
 - [核心如何运作](/core/internals): asyncio, `hass` 对象,事件, 状态, 认证, APIs, 意图, 以及 LLM 支持 。
 
 ## 相关领域 {#related-areas}

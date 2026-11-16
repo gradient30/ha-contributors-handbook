@@ -1,7 +1,7 @@
 ---
 title: 整合中的事件
 description: 向用户提供您设备的事件, 并与事件帮助者对 Home Assistant 内部发生的事情作出反应 。
-sidebarGroup: 数据和更新
+sidebarGroup: 数据与更新
 order: 2
 sidebarLabel: 傀儡
 ---

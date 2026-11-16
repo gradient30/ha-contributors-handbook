@@ -81,7 +81,7 @@ Supervisor 将已验证的选项写入`/data/options.json` 每次您的应用程
 }
 ```
 
-在 shell 脚本中,用 [芭蕉](/apps/bashio/config) 读取 。 腾讯网. 星洲网. 星洲网. 星洲网. 星洲网. 星洲网. 星洲网.
+在 shell 脚本中，用 [Bashio](/apps/bashio/config/) 读取这些选项。Bashio 并不直接读文件：它向 Supervisor API 请求同样的选项，所以请用 `with-contenv` 启动脚本，以便拿到所需令牌。
 
 ```bash
 #!/command/with-contenv bashio
@@ -96,7 +96,7 @@ fi
 
 关键是jq路径,所以嵌套选项也有效. 在任何其他语言中,读作`/data/options.json`作为JSON.
 
-选项仅在用户保存时更改, 且 Supervisor 在您的应用程序启动前写入文件 。 因此在启动时读取它们; 用户必须重新启动您的应用程序才能应用新值 。
+选项仅在用户保存时更改, 且 Supervisor 在您的应用程序启动前撰写文档 。 因此在启动时读取它们; 用户必须重新启动您的应用程序才能应用新值 。
 
 ## 翻译选项 {#translate-the-options}
 

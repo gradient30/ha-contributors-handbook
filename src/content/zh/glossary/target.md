@@ -1,7 +1,7 @@
 ---
 title: 目标
 description: 一种动作对实体、设备、区域、地板或标签有什么作用。
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - targets

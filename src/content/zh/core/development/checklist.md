@@ -1,7 +1,7 @@
 ---
 title: 开发清单
 description: 在您承诺之前, 请在此列表中检查您的更改, 因此您的 pull request 已准备好接受审查 。
-sidebarGroup: 调用请求
+sidebarGroup: Pull request
 order: 1
 ---
 

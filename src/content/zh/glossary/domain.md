@@ -1,7 +1,7 @@
 ---
 title: 域名
 description: 一个集成的短而独特的标识符,如`hue`或`light`. 它也是每个实体身份证的第一部分。
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   code:
   - DOMAIN

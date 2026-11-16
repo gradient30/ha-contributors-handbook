@@ -1,7 +1,7 @@
 ---
 title: 实体说明
 description: 一个其目的在于实体固定属性的数据 类,如其密钥, 现在是翻译密钥, 以及设备类, 因此许多类似的实体可以共享一个类.
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   aliases:
   - entity descriptions

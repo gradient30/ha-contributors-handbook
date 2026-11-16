@@ -2,6 +2,8 @@
 title: 酒吧
 description: 条形图显示某物被使用的程度，以水平轨道上填充的份额表示。
 sidebarGroup: 显示数值
+sidebarGroup: 数值展示
+
 ---
 
 

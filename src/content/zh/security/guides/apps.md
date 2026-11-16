@@ -1,7 +1,7 @@
 ---
 title: 安全应用程序
 description: 关于嬷嬷和 Supervisor 的咨询 , 在 apps 区域的安全指南之上 。
-sidebarLabel: 应用程序
+sidebarLabel: 应用
 order: 3
 ---
 
@@ -32,7 +32,7 @@ Core 和 Supervisor 中的修正显示两种模式, 适用于任何转发请求�
 - ** 只向清单上的内容前进。 ** Core 中的 Supervisor API 的代理服务器现在只转发匹配明确列表的路径, 一个没有登录的请求列表和一个管理员列表 。 其他的都被拒绝了
 - 检查前的十进制 Core拒绝解码时更改的路径. Supervisor 解码路径和查询字符串, 必要时, 在它检查它们像`../` 这样的模式之前。
 
-同年的相关咨询显示一条 联合国外部数据构建的路径: `addon` `hassio.addon_stdin` 的 `addon` 字段 `hassio.addon_stdin` 的动作最终在 [请求 Supervisor API](https://github.com/home-assistant/core/security/advisories/GHSA-4r74-h49q-rr3h) 的路径中 。 核心现在检查球场 与严格的模式的弹壳。 如果您的应用程序从输入中构建了 URL 或路径, 请以同样的方式检查该输入 。
+同年另一份相关公告显示，有一条路径是用外部数据拼出来的：`hassio.addon_stdin` 动作的 `addon` 字段最终进入了 [Supervisor API 请求](https://github.com/home-assistant/core/security/advisories/GHSA-4r74-h49q-rr3h) 的路径。Core 现在会按严格的 slug 规则检查该字段。如果你的应用会根据输入拼接 URL 或路径，也请用同样的方式检查输入。
 
 ## 询问最小的角色 {#ask-for-the-smallest-role}
 

@@ -1,7 +1,7 @@
 ---
 title: 要求
 description: 一个来自 PyPI 的 Python 软件包, 一个集成需要, 在其运单中以固定版本列出 。
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - requirements

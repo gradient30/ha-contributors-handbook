@@ -1,7 +1,7 @@
 ---
 title: 唤醒你
 description: 使语音助理开始听话的词或短语,如"OK Nabu".
-sidebarGroup: 声音
+sidebarGroup: 语音
 term:
   aliases:
   - wake words

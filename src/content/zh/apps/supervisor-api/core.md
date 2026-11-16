@@ -47,7 +47,7 @@ order: 4
 | `watchdog` | 布尔值 | 如果看门狗开启，则为 `true` |
 | `audio_input` | 字符串或空值 | 选择的音频输入设备 |
 | `audio_output` | 字符串或空值 | 选择的音频输出设备 |
-| `backups_exclude_database` | 布尔值 | 如果备份默认不包含数据库，则为 `true` || `duplicate_log_file` | 布尔值 | `true` 如果 Core 也将其日志写入文件 | 
+| `backups_exclude_database` | 布尔值 | 如果备份默认不包含数据库，则为 `true` || `duplicate_log_file` | 布尔值 | `true` 如果 Core 也将其日志撰写文档 | 
 
 ```json
 {
@@ -84,7 +84,7 @@ order: 4
 | `audio_input` | 字符串或 null | 否 | 音频输入设备 |
 | `audio_output` | 字符串或 null | 否 | 音频输出设备 |
 | `backups_exclude_database` | 布尔值 | 否 | 默认将数据库排除在备份之外 |
-| `duplicate_log_file` | 布尔值 | 否 | 也将 Core 日志写入文件 |
+| `duplicate_log_file` | 布尔值 | 否 | 也将 Core 日志撰写文档 |
 
 ### `POST /core/update` {#post-coreupdate}
 

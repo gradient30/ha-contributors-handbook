@@ -1,7 +1,7 @@
 ---
-title: 市场
+title: 应用市场
 description: Home Assistant中并不构成用户找到并安装社区定制集成,仪表盘卡,主题和模板宏的地方. 始建于2026.11路.
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   code:
   - marketplace

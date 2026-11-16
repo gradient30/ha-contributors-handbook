@@ -2,6 +2,8 @@
 title: 割草机
 description: 机器人割草机的更多信息视图,有动画状态图片和按钮开始,停止,停靠.
 sidebarGroup: 应用程序
+sidebarGroup: 家电
+
 ---
 
 # 割草机 {#lawn-mower}

@@ -47,7 +47,7 @@ function NavList({
   return (
     <nav className="space-y-1 pb-10">
       {nodes.map((node, i) => (
-        <NavItem key={i} node={node} current={current} onNavigate={onNavigate} />
+        <NavItem key={i} node={node} current={current} onNavigate={onNavigate} depth={0} />
       ))}
     </nav>
   );
@@ -57,10 +57,12 @@ function NavItem({
   node,
   current,
   onNavigate,
+  depth = 0,
 }: {
   node: NavNode;
   current: string;
   onNavigate?: () => void;
+  depth?: number;
 }) {
   if (node.kind === "label") {
     return (
@@ -74,7 +76,8 @@ function NavItem({
         to={node.href}
         onClick={onNavigate}
         className={cn(
-          "block rounded-sm px-3 py-2 text-sm leading-5",
+          "block rounded-sm px-3 py-2 leading-5 transition-colors",
+          depth === 0 ? "text-sm font-medium" : "text-sm",
           active ? "bg-bg-subtle text-fg" : "text-fg-muted hover:bg-bg-subtle hover:text-fg",
         )}
       >
@@ -100,8 +103,9 @@ function NavItem({
         to={node.href}
         onClick={onNavigate}
         className={cn(
-          "block rounded-sm px-3 py-2 text-sm leading-5",
-          active ? "bg-bg-subtle text-fg" : "text-fg-muted hover:bg-bg-subtle hover:text-fg",
+          "block rounded-sm px-3 py-2 leading-5 transition-colors",
+          depth === 0 ? "text-[15px] font-semibold tracking-tight" : "text-sm",
+          active ? "bg-bg-subtle text-fg" : depth === 0 ? "text-fg hover:bg-bg-subtle" : "text-fg-muted hover:bg-bg-subtle hover:text-fg",
         )}
       >
         {node.title}
@@ -109,23 +113,44 @@ function NavItem({
     );
   }
 
+  const isTop = depth === 0;
+
   return (
     <div>
       <button
         type="button"
+        aria-expanded={open}
+        aria-label={`${open ? "折叠" : "展开"} ${node.title}`}
         onClick={() => setOpen((v) => !v)}
-        className="flex min-h-11 w-full items-center justify-between rounded-sm px-3 py-2 text-left text-sm text-fg-muted hover:text-fg"
+        className={cn(
+          "flex min-h-11 w-full items-center justify-between rounded-sm px-3 py-2 text-left transition-colors",
+          isTop ? "text-[15px] font-semibold tracking-tight text-fg" : "text-sm font-medium",
+          open ? "bg-bg-subtle text-fg" : isTop ? "text-fg hover:bg-bg-subtle/80" : "text-fg-muted hover:bg-bg-subtle hover:text-fg",
+        )}
       >
-        {node.title}
-        <ChevronDown className={cn("size-3.5 transition-transform", open ? "rotate-0" : "-rotate-90")} />
+        <span className="min-w-0 flex-1 pr-2">{node.title}</span>
+        <span
+          className={cn(
+            "flex size-6 shrink-0 items-center justify-center rounded-sm border transition-colors duration-200",
+            open ? "border-accent/40 bg-accent/15 text-accent" : "border-border text-fg-subtle",
+          )}
+          aria-hidden
+        >
+          <ChevronDown className={cn("size-3.5 transition-transform duration-200", open ? "rotate-0" : "-rotate-90")} />
+        </span>
       </button>
-      {open ? (
-        <div className="ml-2 border-l border-border pl-1">
-          {node.children.map((c, i) => (
-            <NavItem key={i} node={c} current={current} onNavigate={onNavigate} />
-          ))}
+      <div
+        className={cn("grid transition-[grid-template-rows] duration-200 ease-out", open ? "grid-rows-[1fr]" : "grid-rows-[0fr]")}
+        aria-hidden={!open}
+      >
+        <div className={cn("min-h-0 overflow-hidden", !open && "pointer-events-none")}>
+          <div className={cn("ml-2 border-l pl-1 transition-colors duration-200", open ? "border-accent/35" : "border-border")}>
+            {node.children.map((c, i) => (
+              <NavItem key={i} node={c} current={current} onNavigate={onNavigate} depth={depth + 1} />
+            ))}
+          </div>
         </div>
-      ) : null}
+      </div>
     </div>
   );
 }

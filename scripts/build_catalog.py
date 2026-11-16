@@ -7,6 +7,8 @@ from pathlib import Path
 
 import yaml
 
+from zh_labels import pick_label
+
 ROOT = Path(__file__).resolve().parents[1]
 ZH = ROOT / "src/content/zh"
 SRC = Path("/workspace/ha-contributors-official/src/content/docs")
@@ -58,10 +60,17 @@ def load_pages():
             zh_fm, _ = parse_fm(zpath.read_text(encoding="utf-8"))
         else:
             zh_fm = {}
-        title = zh_fm.get("title") or src_fm.get("title") or slug
+        title = pick_label(zh_fm.get("title"), src_fm.get("title") or slug)
         desc = zh_fm.get("description") or src_fm.get("description") or ""
-        sidebar_label = zh_fm.get("sidebarLabel") or title
+        from zh_labels import is_bad
+        if is_bad(desc):
+            desc = src_fm.get("description") or ""
+        sidebar_label = pick_label(zh_fm.get("sidebarLabel"), src_fm.get("sidebarLabel") or src_fm.get("title") or title)
         area = slug.split("/")[0]
+        en_group = src_fm.get("sidebarGroup")
+        sidebar_group = pick_label(None, en_group) if en_group else None
+        en_groups = src_fm.get("sidebarGroups") or []
+        sidebar_groups = [pick_label(None, g) for g in en_groups] if en_groups else []
         pages.append({
             "slug": slug,
             "title": title,
@@ -71,8 +80,8 @@ def load_pages():
             "officialUrl": f"https://contributors.home-assistant.io/{slug}/",
             "area": area,
             "order": src_fm.get("order"),
-            "sidebarGroup": zh_fm.get("sidebarGroup") or src_fm.get("sidebarGroup"),
-            "sidebarGroups": zh_fm.get("sidebarGroups") or src_fm.get("sidebarGroups") or [],
+            "sidebarGroup": sidebar_group,
+            "sidebarGroups": sidebar_groups,
             "sidebarCollapse": bool(src_fm.get("sidebarCollapse") or zh_fm.get("sidebarCollapse")),
             "isIndex": src.name.startswith("index."),
             "translated": zpath.exists() and zpath.stat().st_size > 200,
@@ -106,7 +115,7 @@ def build_folder_tree(area: str, pages: list) -> Folder:
 
 
 def title_from_name(name: str) -> str:
-    return name.replace("-", " ").capitalize()
+    return pick_label(None, name.replace("-", " ").capitalize()) or name.replace("-", " ").capitalize()
 
 
 def folder_label(folder: Folder) -> str:

@@ -3,6 +3,8 @@ title: 文档如何运作
 description: 页面的住址,使用哪个分支,以及从pull request到home-assistant.io的更改方式.
 order: 2
 sidebarLabel: 它是如何运作的
+sidebarLabel: 工作原理
+
 ---
 
 # 文档如何运作 {#how-the-documentation-works}

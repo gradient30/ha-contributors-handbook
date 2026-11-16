@@ -2,6 +2,8 @@
 title: 选择器
 description: ha-selector 为选择器渲染正确的控件，这是一个值的简短描述，集成、蓝图和表单在 Home Assistant 中随处使用。
 sidebarGroup: 表格
+sidebarGroup: 表单
+
 ---
 
 # 选择器 {#selector}

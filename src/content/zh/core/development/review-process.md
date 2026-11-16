@@ -1,7 +1,7 @@
 ---
 title: 打开 pull request 之后
 description: 打开 pull request 到 Home Assistant Core 之后会发生什么, 以及你能做些什么来帮助它。
-sidebarGroup: 调用请求
+sidebarGroup: Pull request
 order: 3
 ---
 

@@ -2,7 +2,7 @@
 title: Android 依赖项
 description: Android 应用中的版本目录、依赖锁文件和 Renovate。
 sidebarLabel: 依赖
-sidebarGroup: 写代码
+sidebarGroup: 编写代码
 order: 4
 source: https://github.com/home-assistant/android/blob/main/.github/workflows/renovate-lockfiles.yml
 lastVerified: 2026-10-14

@@ -2,7 +2,7 @@
 title: 禁用吵闹或不太流行的实体
 description: 'Gold 规则实体 - 默认失效: 很少用户需要的实体默认失效.'
 sidebarLabel: 实体因违约而伤残
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 15
 ---
 

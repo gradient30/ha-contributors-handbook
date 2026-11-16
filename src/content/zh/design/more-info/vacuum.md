@@ -2,6 +2,8 @@
 title: 真空
 description: 我们必须从一个机器人真空中获取更多的信息,其中包含一个动画状态图和一行命令按钮.
 sidebarGroup: 应用程序
+sidebarGroup: 家电
+
 ---
 
 # 真空 {#vacuum}

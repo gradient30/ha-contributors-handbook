@@ -1,7 +1,7 @@
 ---
 title: 区域登记册
 description: 对上述区域有什么了解,以及您如何为设备提供整合建议。
-sidebarGroup: 装置和登记册
+sidebarGroup: 设备与注册表
 order: 3
 ---
 

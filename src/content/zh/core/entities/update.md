@@ -2,7 +2,7 @@
 title: 更新实体
 description: 构建一个更新实体,告诉用户新的固件或软件版本是可用的,让他们安装.
 sidebarLabel: 知道了 更新
-sidebarGroup: 应用程序
+sidebarGroup: 家电
 ---
 
 # 更新实体 {#update-entity}

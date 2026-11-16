@@ -1,7 +1,7 @@
 ---
 title: 教益
 description: 通过将存储状态重新变成行动呼叫, 让场景与您实体整合的实体一起工作 。
-sidebarGroup: 融合特征
+sidebarGroup: 集成功能
 order: 7
 ---
 

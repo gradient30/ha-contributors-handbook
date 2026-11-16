@@ -1,7 +1,7 @@
 ---
 title: 配置流量
 description: 让用户通过配置流从UI中添加您的集成功能,并确保同一设备永远不会被设置两次.
-sidebarGroup: 设置和配置
+sidebarGroup: 设置与配置
 order: 2
 ---
 

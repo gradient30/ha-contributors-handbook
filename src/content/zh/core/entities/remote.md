@@ -2,7 +2,7 @@
 title: 远程实体
 description: 将命令发送到其他设备,比如通用遥控器上的按钮,并在活动间切换.
 sidebarLabel: 远程
-sidebarGroup: 远程和信号
+sidebarGroup: 遥控与信号
 ---
 
 # 远程实体 {#remote-entity}

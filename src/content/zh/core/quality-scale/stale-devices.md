@@ -2,7 +2,7 @@
 title: 删除 stale 设备
 description: '黄金规则 Stale-devices: 已消失的装置被移除,或者可以被用户移除.'
 sidebarLabel: 固态设备
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 21
 ---
 

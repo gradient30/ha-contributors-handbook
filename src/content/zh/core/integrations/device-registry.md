@@ -1,7 +1,7 @@
 ---
 title: 设备注册
 description: 注册您的整合设备,将其连接到枢纽,将产品分割到儿童设备中,让用户删除设备.
-sidebarGroup: 装置和登记册
+sidebarGroup: 设备与注册表
 order: 1
 ---
 

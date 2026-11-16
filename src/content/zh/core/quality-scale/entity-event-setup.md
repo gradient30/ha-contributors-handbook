@@ -2,7 +2,7 @@
 title: 订阅实体生命周期中的事件
 description: 青铜规则实体-事件设置:实体以aync add to has订阅,删除时不订阅.
 sidebarLabel: 实体活动设置
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 14
 ---
 

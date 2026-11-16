@@ -1,7 +1,7 @@
 ---
 title: 六方会谈
 description: 有一件事Home Assistant可以显示 29. 测量,或控制,比如灯光,温度传感器,或开关。 每个实体都有国家。
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   aliases:
   - entities

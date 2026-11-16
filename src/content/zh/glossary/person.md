@@ -1,7 +1,7 @@
 ---
 title: 加 进
 description: 家里有人, 设备追踪器 显示他们在哪里, 并选择用户账户登录。
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - persons

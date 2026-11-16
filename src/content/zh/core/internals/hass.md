@@ -1,8 +1,8 @@
 ---
-title: Python 中的有位对象
+title: Python 中的 hass 对象
 description: HomeAssist 每一个集成都得到的实例, 挂在其中的是什么, 核心配置在 has. config上 。
-sidebarLabel: 隐藏对象
-sidebarGroup: 核心内容
+sidebarLabel: hass 对象
+sidebarGroup: 核心
 order: 1
 ---
 
@@ -47,7 +47,7 @@ order: 1
 - ** 组合流量** 和 ** 选项流量** :`self.hass`。
 - ** 行动处理器意见交流。
 
-如何在这些入境点周围进行整合,见[联合国系统](/core/integrations)。
+如何在这些入境点周围进行整合,见[构建集成](/core/integrations)。
 
 ## 核心配置 {#the-core-configuration}
 

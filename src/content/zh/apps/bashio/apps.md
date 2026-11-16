@@ -1,7 +1,7 @@
 ---
 title: Bashio：应用
 description: Bashio 的功能是通过 Supervisor API 读取和更改你自己的应用程序及其他应用程序的设置。
-sidebarLabel: 应用程序
+sidebarLabel: 应用
 order: 3
 ---
 

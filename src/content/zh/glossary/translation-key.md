@@ -1,7 +1,7 @@
 ---
 title: 翻译密钥
 description: 在整合的 `strings.json` 中指向文本的键, 因此文本可以翻译 。 整合使用密钥,而非代码中的英文文本.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - translation keys

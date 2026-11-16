@@ -1,7 +1,7 @@
 ---
 title: 提示与技巧
 description: 从堆叠 pull request 到在自己的系统中测试变化, 使 Home Assistant Core 工作更加容易的小东西 。
-sidebarGroup: 调用请求
+sidebarGroup: Pull request
 order: 6
 ---
 
@@ -48,7 +48,7 @@ order: 6
 
 ## 举个例子 {#look-at-good-examples}
 
-[整合质量尺度](/core/quality-scale)的白金和黄金两层的整合得到了很好的维护,并且是一个看事情如何做的好地方. 等级在整合的`manifest.json`中.
+[集成质量等级](/core/quality-scale)的白金和黄金两层的整合得到了很好的维护,并且是一个看事情如何做的好地方. 等级在整合的`manifest.json`中.
 
 ## 产生新的整合 {#generate-a-new-integration}
 
@@ -58,4 +58,4 @@ order: 6
 python3 -m script.scaffold integration
 ```
 
-在Visual Studio代码中,这就是**创造新集成**任务. [建设一体化](/core/integrations)解释它产生什么。
+在Visual Studio代码中,这就是**创造新集成**任务. [构建集成](/core/integrations)解释它产生什么。

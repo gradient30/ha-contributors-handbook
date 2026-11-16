@@ -2,7 +2,7 @@
 title: 从用户界面设置一个配置流
 description: 青铜规则配置-流:集成由UI设置,有明确的配置流将其数据存储在正确的位置.
 sidebarLabel: 配置流量
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 5
 ---
 

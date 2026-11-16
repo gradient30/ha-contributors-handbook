@@ -2,7 +2,7 @@
 title: 描述品牌、产品或服务
 description: 青铜规则docs-high-level-description:文档描述了集成连接的内容.
 sidebarLabel: 高层次文件描述
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 10
 ---
 

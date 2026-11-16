@@ -2,7 +2,7 @@
 title: Android 推送通知
 description: 建立你自己的 Firebase 项目和推送服务，以便在处理通过 Firebase 云消息传递发送的通知时使用。
 sidebarLabel: 推送通知
-sidebarGroup: 设置
+sidebarGroup: 开始设置
 order: 2
 ---
 

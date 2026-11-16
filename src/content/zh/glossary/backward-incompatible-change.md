@@ -1,7 +1,7 @@
 ---
 title: 向后兼容的更改
 description: 一个需要用户或开发者改变自己一方的东西的更改,比如他们的配置或他们的自定义集成.
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - backward-incompatible changes

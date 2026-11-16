@@ -1,8 +1,7 @@
 ---
-title: 国家等级
-description: 'Anh: 感觉器的值是如何表现的, 如 `measurement` 或 `total_increasing`, 因此 Home Assistant
-  可以保留长期的统计数据 。'
-sidebarGroup: 实体和装置
+title: 状态类别
+description: "How the value of a sensor behaves, like `measurement` or `total_increasing`, so Home Assistant can keep long-term statistics for it."
+sidebarGroup: 实体与设备
 term:
   aliases:
   - state classes

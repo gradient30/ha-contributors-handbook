@@ -1,7 +1,7 @@
 ---
 title: 配置条目
 description: 一个集成的设置实例,像一个惠桥,配置 Home Assistant 存储它。
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - config entries

@@ -1,7 +1,7 @@
 ---
 title: 重组流量
 description: 改变配置条目的设置的流, 如其主机, 而不删除并再次添加它 。
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - reconfigure

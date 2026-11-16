@@ -2,7 +2,7 @@
 title: 传感器实体
 description: 报告只读值,如温度,功率读数,或时间戳,与其单位,选择长期统计.
 sidebarLabel: 传感器
-sidebarGroup: 传感器和状态
+sidebarGroup: 传感器与状态
 ---
 
 # 传感器实体 {#sensor-entity}

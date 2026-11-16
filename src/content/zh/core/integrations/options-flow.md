@@ -1,7 +1,7 @@
 ---
 title: 选项流
 description: 让用户在设置后改变您的集成行为,并在完成后重新加载.
-sidebarGroup: 设置和配置
+sidebarGroup: 设置与配置
 order: 4
 ---
 

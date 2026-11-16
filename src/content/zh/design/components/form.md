@@ -2,6 +2,8 @@
 title: 表格
 description: ha-form 根据一个模式渲染完整的表单，为每个值提供正确的字段，并返回数据。
 sidebarGroup: 表格
+sidebarGroup: 表单
+
 ---
 
 

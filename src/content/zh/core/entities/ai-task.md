@@ -2,7 +2,7 @@
 title: AI 任务实体
 description: 构建一个AI任务实体,让自动化询问一个模型生成数据或图像,或评价问题.
 sidebarLabel: AI 任务
-sidebarGroup: 语音和AI
+sidebarGroup: 语音与 AI
 ---
 
 # AI 任务实体 {#ai-task-entity}

@@ -1,7 +1,7 @@
 ---
 title: 编写测试
 description: 集成的测试是如何组织的,如何通过Home Assistant而不是围绕它进行测试,以及如何使用固定装置,模拟和快照.
-sidebarGroup: 写代码
+sidebarGroup: 编写代码
 order: 4.5
 ---
 
@@ -139,6 +139,6 @@ assert hass.states.get("sensor.example_temperature").state == STATE_UNAVAILABLE
 - ** Bug 修补**:没有你修补的测试失败,随即通过.
 - ** Avoid Brittle 值**:不依赖于更新图书馆时的变化数据,就像今年的节假日一样.
 
-[整合质量尺度](/core/quality-scale)的青铜级要求全测试覆盖配置流,参见[配置- 流量- 测试- 覆盖](/core/quality-scale/config-flow-test-coverage). 从Silver开始,每个集成模块都需要95%以上的覆盖率,参见[试验覆盖](/core/quality-scale/test-coverage).
+[集成质量等级](/core/quality-scale)的青铜级要求全测试覆盖配置流,参见[配置- 流量- 测试- 覆盖](/core/quality-scale/config-flow-test-coverage). 从Silver开始,每个集成模块都需要95%以上的覆盖率,参见[试验覆盖](/core/quality-scale/test-coverage).
 
 [教程](/core/integrations/tutorial#9-write-the-tests) 显示一个小集成的一整套测试.

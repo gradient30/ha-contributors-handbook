@@ -1,7 +1,7 @@
 ---
 title: 折旧
 description: 宣布某物会在后期发行时被移除,同时一直工作到那时,这样人们就可以继续前进.
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - deprecated

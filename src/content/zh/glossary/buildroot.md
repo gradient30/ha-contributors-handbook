@@ -1,7 +1,7 @@
 ---
 title: 构建根
 description: 工具 Home Assistant OS 与 。 它从源头构建了一个完整的,小型的Linux系统,而不是从Ubuntu这样的发行开始.
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   code:
   - buildroot/

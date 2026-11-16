@@ -2,6 +2,8 @@
 title: 光线
 description: 灯光的更信息视图,带有大亮度滑动器和色和色温开关.
 sidebarGroup: 灯光和气候
+sidebarGroup: 灯光与气候
+
 ---
 
 # 光线 {#light}

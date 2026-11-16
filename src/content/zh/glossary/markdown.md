@@ -1,7 +1,7 @@
 ---
 title: 标记
 description: '用于写作的纯文本格式,其中像 # 和 * 这样的符号标记标题、列表和强调。 文件都写在里面。'
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   code:
   - .md
@@ -17,7 +17,7 @@ term:
 
 - 代码:`.md`,`.markdown`
 
-home-assistant.io和这个网站的网页是Markdown文件,关于GitHub的说明和评论也是如此。 要更改一个页面,您会编辑其Markdown, 通常在浏览器中右侧 。 见[写入文件](/writing).
+home-assistant.io和这个网站的网页是Markdown文件,关于GitHub的说明和评论也是如此。 要更改一个页面,您会编辑其Markdown, 通常在浏览器中右侧 。 见[撰写文档](/writing).
 
 ## 相关条件 {#related-terms}
 

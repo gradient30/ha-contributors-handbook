@@ -1,7 +1,7 @@
 ---
 title: 对话代理商
 description: 何者理解一个命令并回答它:Home Assistant的内置代理,或来自一个集成的代理,像AI服务.
-sidebarGroup: 声音
+sidebarGroup: 语音
 term:
   aliases:
   - conversation agents

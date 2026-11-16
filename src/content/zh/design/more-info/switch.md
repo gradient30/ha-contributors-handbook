@@ -2,6 +2,8 @@
 title: 开关
 description: 可予切换的辅助器或警笛,
 sidebarGroup: 应用程序
+sidebarGroup: 家电
+
 ---
 
 # 开关 {#switch}

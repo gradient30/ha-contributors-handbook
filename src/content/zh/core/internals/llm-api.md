@@ -2,7 +2,7 @@
 title: LLM API 语言
 description: Home Assistant如何将工具暴露于大型语言模型,集成如何贡献工具或整个API,以及如何通过MCP服务API.
 sidebarLabel: LLM API 语言
-sidebarGroup: 语音和AI
+sidebarGroup: 语音与 AI
 order: 54
 ---
 

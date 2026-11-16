@@ -2,7 +2,7 @@
 title: 使用透明的依赖关系
 description: 青铜规则依赖性-透明性:依赖性是开源的,在PyPI上,在公共CI中建立并发布.
 sidebarLabel: 依赖透明度
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 7
 ---
 

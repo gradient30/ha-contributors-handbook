@@ -1,7 +1,7 @@
 ---
 title: 分辨率中心
 description: Supervisor 中发现系统问题的部分, 如低磁盘空间, 并且建议修正它们 。
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   code:
   - supervisor/resolution/

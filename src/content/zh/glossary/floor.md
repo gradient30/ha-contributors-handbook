@@ -1,7 +1,7 @@
 ---
 title: 我相信, 楼 加的授权 你有问题
 description: 房子的一层,像底层, 拥有区域鲑鱼。
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - floors

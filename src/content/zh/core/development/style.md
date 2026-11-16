@@ -1,7 +1,7 @@
 ---
 title: 代码风格
 description: Python在Home Assistant Core中的样式规则。 格式、文件串、记录、错误处理和公约审查人员寻找。
-sidebarGroup: 写代码
+sidebarGroup: 编写代码
 order: 2
 ---
 
@@ -120,4 +120,4 @@ if TYPE_CHECKING:
 - 改变配置或具有安全影响的行动需要一名管理员。 以 `async_register_admin_service` 注册 。
 - 集成不包含`.gitignore`文件 。
 
-不知该怎么看? 查看 [整合质量尺度](/core/quality-scale) 的白金或黄金级上的整合 。 等级为`manifest.json`。
+不知该怎么看? 查看 [集成质量等级](/core/quality-scale) 的白金或黄金级上的整合 。 等级为`manifest.json`。

@@ -2,7 +2,7 @@
 title: 事件实体
 description: 将物理世界发生的事情,如傍按键或门铃环,变成一个你可以自动操作的实体.
 sidebarLabel: 积极地濑子事件
-sidebarGroup: 传感器和状态
+sidebarGroup: 传感器与状态
 ---
 
 # 事件实体 {#event-entity}

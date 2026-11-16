@@ -2,6 +2,8 @@
 title: 数目
 description: 状态行中设备、滑动器或数字字段的多个实体的更多信息视图。
 sidebarGroup: 帮助者
+sidebarGroup: 助手
+
 ---
 
 # 数目 {#number}

@@ -1,6 +1,6 @@
 ---
 title: 所有规则
-description: 每一级整合质量尺度的每个规则,都有一份核对表复制到您的 pull request 。
+description: 每一级集成质量等级的每个规则,都有一份核对表复制到您的 pull request 。
 order: -4
 ---
 

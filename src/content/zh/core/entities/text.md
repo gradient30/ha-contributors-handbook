@@ -2,7 +2,7 @@
 title: 文本实体
 description: 构建一个文本实体,让人们在设备上设置短文本值,比如显示消息或网络名称.
 sidebarLabel: 文本
-sidebarGroup: 投入和帮助
+sidebarGroup: 输入与助手
 ---
 
 # 文本实体 {#text-entity}

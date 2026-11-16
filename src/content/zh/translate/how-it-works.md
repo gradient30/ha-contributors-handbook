@@ -3,6 +3,8 @@ title: 翻译工作方式
 description: 弦从何而来,面谈从何而来,最终如何在Home Assistant见下文.
 order: 2
 sidebarLabel: 它是如何运作的
+sidebarLabel: 工作原理
+
 ---
 
 # 翻译工作方式 {#how-translation-works}

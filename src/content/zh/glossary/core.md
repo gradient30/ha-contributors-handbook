@@ -1,7 +1,7 @@
 ---
 title: Home Assistant Core
 description: Python 应用程序位于 Home Assistant 的核心, 及其所有集成, 在Home Assistant/ 核心存储器中 。
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - Core

@@ -2,7 +2,7 @@
 title: 设置时检查连接
 description: 青铜器规则测试-设置前:设置检查其有效,不成立时提出正确的例外.
 sidebarLabel: 设置前测试
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 19
 ---
 

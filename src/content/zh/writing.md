@@ -1,9 +1,9 @@
 ---
-title: 写入文件
+title: 撰写文档
 description: 帮助数百万人从Home Assistant中获取更多,方法是改进家庭援助者.io的文件。
 ---
 
-# 写入文件 {#writing-docs}
+# 撰写文档 {#writing-docs}
 
 在 [Home Assistant.io](https://www.home-assistant.io/) 上的文档常常是人们在设置设备,建立自动化,或者被卡住时阅读的第一件事. 那里的每一页都是由社区撰写和改进的. 一个更清晰的句子,一个缺失的台阶,或者一个固定的截图,帮助每一个在你之后读那页的人.
 

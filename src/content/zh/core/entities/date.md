@@ -2,7 +2,7 @@
 title: 日期实体
 description: 构建逍遥实体,让人们在一个设备上设定日历日期,比如假日模式的开始.
 sidebarLabel: 日期
-sidebarGroup: 投入和帮助
+sidebarGroup: 输入与助手
 ---
 
 # 日期实体 {#date-entity}

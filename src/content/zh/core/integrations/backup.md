@@ -1,7 +1,7 @@
 ---
 title: 备份
 description: 添加一个存储 Home Assistant 备份的备份代理, 或者准备您的集成备份 。
-sidebarGroup: 融合特征
+sidebarGroup: 集成功能
 order: 9
 ---
 

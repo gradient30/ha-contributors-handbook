@@ -2,7 +2,7 @@
 title: 支持发现
 description: 黄金规则发现:设备被发现,因此用户不必进行查询.
 sidebarLabel: 发现
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 3
 ---
 

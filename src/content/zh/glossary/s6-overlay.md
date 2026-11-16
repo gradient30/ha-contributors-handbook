@@ -1,7 +1,7 @@
 ---
 title: S6 重叠
 description: Home Assistant基础图像中的 init 系统 。 它在其容器内启动、监视和停止应用程序的程序。
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   aliases:
   - s6-overlay
@@ -26,4 +26,4 @@ Docker每个容器运行一个命令. [S6 重叠](https://github.com/just-contai
 ## 相关条件 {#related-terms}
 
 - [应用](/glossary/app):在 Home Assistant OS 上运行于 Home Assistant 旁边的额外软件, 如 MQTT 经纪人或文件编辑器 。
-- [芭蕉](/glossary/bashio):用于应用的Bash函数库,有帮助者用于读取应用的选项,记录,和与Supervisor API交谈.
+- [Bashio](/glossary/bashio):用于应用的Bash函数库,有帮助者用于读取应用的选项,记录,和与Supervisor API交谈.

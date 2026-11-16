@@ -2,7 +2,7 @@
 title: 热水器实体
 description: 为将水加热到目标温度的锅炉和水箱建立热水器实体.
 sidebarLabel: 热水器
-sidebarGroup: 灯光和气候
+sidebarGroup: 灯光与气候
 ---
 
 # 热水器实体 {#water-heater-entity}

@@ -2,7 +2,7 @@
 title: 轻实体
 description: 构建一个开关,暗淡,变色或变色温度的灯光实体.
 sidebarLabel: 光线
-sidebarGroup: 灯光和气候
+sidebarGroup: 灯光与气候
 ---
 
 # 轻实体 {#light-entity}

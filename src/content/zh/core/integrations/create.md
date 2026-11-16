@@ -1,7 +1,7 @@
 ---
 title: 创建集成
 description: 与脚手架脚本产生新的整合,并学习最小可能的整合是什么样子.
-sidebarGroup: 开始
+sidebarGroup: 入门
 order: 4
 ---
 
@@ -27,7 +27,7 @@ order: 4
 
 ## 保持第一个 pull request 小 {#keep-the-first-pull-request-small}
 
-新的整合必须达到 [整合质量尺度](/core/quality-scale) 的青铜级, 仅此而已 。 审查者要求最小的第一 pull request :
+新的整合必须达到 [集成质量等级](/core/quality-scale) 的青铜级, 仅此而已 。 审查者要求最小的第一 pull request :
 
 - 只有一个平台,就像 `sensor`。
 - 没有诊断,自定义动作,重新校正流,或者重新配置流.

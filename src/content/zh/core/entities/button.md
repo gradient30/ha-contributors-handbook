@@ -2,7 +2,7 @@
 title: 按键实体
 description: 构建按钮实体,在设备或服务上触发单个动作,如重启.
 sidebarLabel: 按钮
-sidebarGroup: 投入和帮助
+sidebarGroup: 输入与助手
 ---
 
 # 按键实体 {#button-entity}

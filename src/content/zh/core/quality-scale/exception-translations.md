@@ -2,7 +2,7 @@
 title: 翻译例外消息
 description: 黄金规则例外-翻译:向用户显示的错误来自字符串.json,所以可以翻译.
 sidebarLabel: 例外翻译
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 17
 ---
 

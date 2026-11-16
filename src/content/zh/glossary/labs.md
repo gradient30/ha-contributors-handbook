@@ -1,7 +1,7 @@
 ---
 title: 实验室
 description: 用户可以打开预览功能的地方:可以工作的新功能,但其设计仍然可以根据反馈而改变.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - Labs

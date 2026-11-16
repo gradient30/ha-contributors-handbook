@@ -1,5 +1,5 @@
 ---
-title: 一体化类别
+title: 集成类别
 description: 人群浏览整合的类别,以及如何选择合适的整合对象.
 sidebarGroup: 参考
 order: 4

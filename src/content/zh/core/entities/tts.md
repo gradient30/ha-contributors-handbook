@@ -2,7 +2,7 @@
 title: 文本对语音实体
 description: 构建文本对语音实体,正处于将文本变成音频状态,其中一次进行或以语言模型的形式流出。
 sidebarLabel: 文字对语音
-sidebarGroup: 语音和AI
+sidebarGroup: 语音与 AI
 ---
 
 # 文本对语音实体 {#text-to-speech-entity}

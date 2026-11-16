@@ -2,7 +2,7 @@
 title: 地理定位实体
 description: 在地图上显示来自外部种子的有位置的事件,如地震或野火.
 sidebarLabel: 地理位置
-sidebarGroup: 传感器和状态
+sidebarGroup: 传感器与状态
 ---
 
 # 地理定位实体 {#geolocation-entity}

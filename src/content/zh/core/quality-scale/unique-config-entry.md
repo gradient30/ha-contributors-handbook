@@ -2,7 +2,7 @@
 title: 防止重复配置条目
 description: 青铜规则独占-配置-入口:同一设备或服务不能两次设置.
 sidebarLabel: 唯一配置输入
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 20
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 解析中心
 description: Supervisor如何发现在检查和评价方面有问题,将它们作为问题跟踪,并用建议加以纠正。
-sidebarGroup: 它是如何运作的
+sidebarGroup: 工作原理
 order: 3
 ---
 

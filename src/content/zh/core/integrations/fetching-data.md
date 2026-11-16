@@ -1,7 +1,7 @@
 ---
 title: 获取数据
 description: 使用投票或推力从设备或服务中获取数据,并与数据更新协调员在实体之间共享数据。
-sidebarGroup: 数据和更新
+sidebarGroup: 数据与更新
 order: 1
 ---
 
@@ -127,7 +127,7 @@ class ExampleSensor(CoordinatorEntity[ExampleCoordinator], SensorEntity):
         return self.coordinator.data.temperature
 ```
 
-当新数据到达时,协调员会拨打`_handle_coordinator_update`,它会写状态,属性读取新值. 您也可以覆盖 `_handle_coordinator_update` 并设置 `_attr_native_value` 。 如果有,请从 `coordinator.data` 设置在 `__init__` 中。 实体只在其被添加后才开始监听,宵衲凸艳桦要进行第一次刷新,在设置时已经发生,从未达到`_handle_coordinator_update`. 没有这个,传感器会一直保持`unknown`直到下一次更新. 与 `always_update=False` 和不改变的数据, 这需要很长时间 。
+当新数据到达时,协调员会拨打`_handle_coordinator_update`,它会写状态,属性读取新值. 您也可以覆盖 `_handle_coordinator_update` 并设置 `_attr_native_value` 。 如果有,请从 `coordinator.data` 设置在 `__init__` 中。 实体只在其被添加后才开始监听,要进行第一次刷新,在设置时已经发生,从未达到`_handle_coordinator_update`. 没有这个,传感器会一直保持`unknown`直到下一次更新. 与 `always_update=False` 和不改变的数据, 这需要很长时间 。
 
 在命令后, 请求使用 `await self.coordinator.async_request_refresh()` 提供新数据 。 请求被解禁,如此一连串的呼叫导致一个更新.
 

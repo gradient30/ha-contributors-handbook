@@ -2,7 +2,7 @@
 title: 集成文件结构
 description: 一个集成的文档,每个集成的,以及 Home Assistant 在哪里寻找集成.
 sidebarLabel: 文件结构
-sidebarGroup: 开始
+sidebarGroup: 入门
 order: 5
 ---
 

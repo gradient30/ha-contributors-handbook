@@ -2,7 +2,7 @@
 title: 创建设备
 description: 黄金规则设备:实体被分组在设备中,有完整的设备信息.
 sidebarLabel: 设备
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 1
 ---
 

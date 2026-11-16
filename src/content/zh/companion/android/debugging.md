@@ -2,7 +2,7 @@
 title: 安卓调试工具
 description: Android 应用调试版本中的开发者游乐场、Compose 目录、StrictMode 和 LeakCanary。
 sidebarLabel: 调试工具
-sidebarGroup: 写代码
+sidebarGroup: 编写代码
 order: 5
 ---
 

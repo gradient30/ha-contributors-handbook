@@ -134,4 +134,4 @@ git push -u origin HEAD
 
 - 读 [打开 pull request 后](/core/development/review-process) 要知道要期待什么 。
 - 在您下次更改前看 [发展清单](/core/development/checklist) 。
-- 想造更大的东西吗? 从[联合国系统](/core/integrations)开始. 将自己的新整合改为:第一:项目建议将[市场](/marketplace)作为其第一个家园。
+- 想造更大的东西吗? 从[构建集成](/core/integrations)开始. 将自己的新整合改为:第一:项目建议将[市场](/marketplace)作为其第一个家园。

@@ -2,7 +2,7 @@
 title: 如何删除集成的文件
 description: 青铜规则docs-move-interventions:文档解释如何去除整合.
 sidebarLabel: 证件 -- -- 搬运
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 12
 ---
 

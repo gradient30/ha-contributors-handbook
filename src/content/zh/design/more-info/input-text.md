@@ -2,6 +2,8 @@
 title: 输入文本
 description: 文本帮助器的更多信息, 状态行中的文本字段 。
 sidebarGroup: 帮助者
+sidebarGroup: 助手
+
 ---
 
 # 输入文本 {#input-text}

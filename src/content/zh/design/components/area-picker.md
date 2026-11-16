@@ -2,6 +2,8 @@
 title: 区域选择器
 description: 区域选择器让人们可以选择他们家中的一个区域，或现场创建一个新的区域。
 sidebarGroup: 采摘者
+sidebarGroup: 选择器
+
 ---
 
 

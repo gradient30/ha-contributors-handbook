@@ -1,7 +1,7 @@
 ---
-title: 雌性
+title: Issue（议题）
 description: 关于GitHub关于寄存器中一个问题的报告,就像一个错误一样,人们可以讨论和跟踪.
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - issues
@@ -28,6 +28,6 @@ term:
 
 ## 相关条件 {#related-terms}
 
-- 衲子 [仓库](/glossary/repository): GitHub上的一个项目: 其文件, 以及每次更改的完整历史 。
+- [仓库](/glossary/repository): GitHub上的一个项目: 其文件, 以及每次更改的完整历史 。
 - [调用请求](/glossary/pull-request):在GitHub上请求将一个更改合并到一个寄存器中,在它进入之前要经过审查.
 - [修理](/glossary/repair):一个问题 Home Assistant 显示在修补下的用户, 需要怎么做, 像配置会停止工作 。

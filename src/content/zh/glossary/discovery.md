@@ -1,7 +1,7 @@
 ---
 title: 发现
 description: 寻找设备和服务,比如在网络上或超过Bluetooth,所以Home Assistant可以提供设置.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - discovered

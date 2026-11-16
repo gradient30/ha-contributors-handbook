@@ -2,6 +2,8 @@
 title: 阀门
 description: 水或气阀的更信息视图,带有开关和关闭开关,按钮,或位置滑动器.
 sidebarGroup: 开幕和安全
+sidebarGroup: 开合与安防
+
 ---
 
 # 阀门 {#valve}

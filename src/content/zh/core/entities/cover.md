@@ -2,7 +2,7 @@
 title: 覆盖实体
 description: 为百叶窗,遮荫窗,车库门,闸门,以及其他打开和关闭的东西建立掩蔽实体.
 sidebarLabel: 覆盖
-sidebarGroup: 开幕和安全
+sidebarGroup: 开合与安防
 ---
 
 # 覆盖实体 {#cover-entity}

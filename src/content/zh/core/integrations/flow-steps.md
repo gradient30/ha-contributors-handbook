@@ -2,7 +2,7 @@
 title: 格式、菜单和进度
 description: 从表格和章节到菜单、外部步骤和进展的配置流程、选项流程和修复流程的组成部分。
 sidebarLabel: 格式、菜单和进度
-sidebarGroup: 设置和配置
+sidebarGroup: 设置与配置
 order: 3
 ---
 

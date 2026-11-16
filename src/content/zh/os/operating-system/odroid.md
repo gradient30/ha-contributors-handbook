@@ -1,7 +1,7 @@
 ---
 title: ODROID
 description: Hardkernel ODROID 对 Home Assistant OS 的具体信息，例如 eMMC 安装、M1 和 M1S 的启动流程，以及控制台。
-sidebarGroup: 董事会
+sidebarGroup: 开发板
 order: 3
 ---
 

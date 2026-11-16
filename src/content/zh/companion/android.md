@@ -1,7 +1,6 @@
 ---
 title: Android
-description: 适用于 Android、Wear OS、Android Auto 和 Android Automotive 的 Home Assistant
-  应用程序。仓库中有什么，以及从哪里开始。
+description: The Home Assistant app for Android, Wear OS, Android Auto, and Android Automotive. What is in the repository, and where to start.
 order: 2
 sidebarGroups:
 - 设置

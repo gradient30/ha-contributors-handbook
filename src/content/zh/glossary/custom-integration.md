@@ -1,7 +1,7 @@
 ---
 title: 之一就是自定义集成
 description: 一个不属于Home Assistant Core的集成,由用户安装在`custom_components`文件夹中.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - custom integrations

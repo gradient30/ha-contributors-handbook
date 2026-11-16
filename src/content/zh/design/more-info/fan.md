@@ -2,6 +2,8 @@
 title: 风扇
 description: 风扇的更info视图,带有速度控制以及预设,方向,振荡的菜单.
 sidebarGroup: 灯光和气候
+sidebarGroup: 灯光与气候
+
 ---
 
 # 风扇 {#fan}

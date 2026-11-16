@@ -2,6 +2,8 @@
 title: 湿度
 description: 湿度或除湿器的多信息视图,为目标湿度设置圆拨.
 sidebarGroup: 灯光和气候
+sidebarGroup: 灯光与气候
+
 ---
 
 # 湿度 {#humidifier}

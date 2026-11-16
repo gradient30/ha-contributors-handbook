@@ -1,5 +1,5 @@
 ---
-title: 围绕核心
+title: 核心外围
 description: 运行在 Home Assistant Core 旁边的软件，或者从其他地方与其通信的软件，以及它们如何整合在一起。
 order: 40
 ---

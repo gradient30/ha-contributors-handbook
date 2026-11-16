@@ -1,7 +1,7 @@
 ---
 title: 选项流
 description: UI中改变现有配置条目选项的步骤,
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   code:
   - OptionsFlow

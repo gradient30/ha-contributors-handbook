@@ -180,7 +180,7 @@
     },
     {
       "slug": "apps/bashio",
-      "title": "芭蕉",
+      "title": "Bashio",
       "description": "应用基础镜像中的 shell 函数库。如何加载它，它会对你的脚本产生哪些变化，以及它包含的每个函数。",
       "href": "/apps/bashio",
       "officialUrl": "https://contributors.home-assistant.io/apps/bashio/",
@@ -356,7 +356,7 @@
     },
     {
       "slug": "apps",
-      "title": "应用程序",
+      "title": "应用",
       "description": "在Home Assistant旁运行的软件包，由Supervisor管理。构建一个应用程序，测试它，并与所有人分享。",
       "href": "/apps",
       "officialUrl": "https://contributors.home-assistant.io/apps/",
@@ -588,7 +588,7 @@
     },
     {
       "slug": "architecture/platform",
-      "title": "围绕核心",
+      "title": "核心外围",
       "description": "运行在 Home Assistant Core 旁边的软件，或者从其他地方与其通信的软件，以及它们如何整合在一起。",
       "href": "/architecture/platform",
       "officialUrl": "https://contributors.home-assistant.io/architecture/platform/",
@@ -861,7 +861,7 @@
     {
       "slug": "companion/android",
       "title": "Android",
-      "description": "适用于 Android、Wear OS、Android Auto 和 Android Automotive 的 Home Assistant 应用程序。仓库中有什么，以及从哪里开始。",
+      "description": "The Home Assistant app for Android, Wear OS, Android Auto, and Android Automotive. What is in the repository, and where to start.",
       "href": "/companion/android",
       "officialUrl": "https://contributors.home-assistant.io/companion/android/",
       "area": "companion"
@@ -1005,7 +1005,7 @@
     {
       "slug": "companion",
       "title": "伴侣应用",
-      "description": "官方 Home Assistant 为Android,iOS,iPadOS,macOS,watchOS,Wear OS,以及车的应用程序. 如何建造,如何帮助建造.",
+      "description": "The official Home Assistant apps for Android, iOS, iPadOS, macOS, watchOS, Wear OS, and the car. How they are built, and how to help build them.",
       "href": "/companion",
       "officialUrl": "https://contributors.home-assistant.io/companion/",
       "area": "companion"
@@ -1068,7 +1068,7 @@
     },
     {
       "slug": "core/development/catching-up",
-      "title": "保持分支最新",
+      "title": "保持分支更新",
       "description": "将 Home Assistant Core dev 分支的最新更改带入您的分支, 并解决冲突 。",
       "href": "/core/development/catching-up",
       "officialUrl": "https://contributors.home-assistant.io/core/development/catching-up/",
@@ -1500,7 +1500,7 @@
     },
     {
       "slug": "core/entities/siren",
-      "title": "警报实体",
+      "title": "警报器实体",
       "description": "为警笛和鸣笛建立警笛实体,发出声调、音量和持续时间。",
       "href": "/core/entities/siren",
       "officialUrl": "https://contributors.home-assistant.io/core/entities/siren/",
@@ -1628,7 +1628,7 @@
     },
     {
       "slug": "core",
-      "title": "核心和一体化",
+      "title": "核心与集成",
       "description": "Python,核心,和集成平台. 所有瑰宝需要建立和完善的集成物,并致力于Home Assistant Core自身.",
       "href": "/core",
       "officialUrl": "https://contributors.home-assistant.io/core/",
@@ -1644,7 +1644,7 @@
     },
     {
       "slug": "core/integrations/api-library",
-      "title": "构建 {H 大家都} 库",
+      "title": "构建 Python 库",
       "description": "为什么集成通过单独的库与设备交谈,库必须满足什么,以及如何构建认证和数据模型.",
       "href": "/core/integrations/api-library",
       "officialUrl": "https://contributors.home-assistant.io/core/integrations/api-library/",
@@ -1684,7 +1684,7 @@
     },
     {
       "slug": "core/integrations/brands",
-      "title": "一体化品牌和形象",
+      "title": "集成品牌与图片",
       "description": "添加您集成的图标和标志,以及一个品牌的组装,让用户找到它们.",
       "href": "/core/integrations/brands",
       "officialUrl": "https://contributors.home-assistant.io/core/integrations/brands/",
@@ -1692,7 +1692,7 @@
     },
     {
       "slug": "core/integrations/categories",
-      "title": "一体化类别",
+      "title": "集成类别",
       "description": "人群浏览整合的类别,以及如何选择合适的整合对象.",
       "href": "/core/integrations/categories",
       "officialUrl": "https://contributors.home-assistant.io/core/integrations/categories/",
@@ -1700,7 +1700,7 @@
     },
     {
       "slug": "core/integrations/concepts",
-      "title": "如何融入",
+      "title": "集成如何融入",
       "description": "每个集成的一小撮思想都是用简单的语言构建的,与网页 行了更深入的链接。",
       "href": "/core/integrations/concepts",
       "officialUrl": "https://contributors.home-assistant.io/core/integrations/concepts/",
@@ -1804,7 +1804,7 @@
     },
     {
       "slug": "core/integrations",
-      "title": "建设一体化",
+      "title": "构建集成",
       "description": "所有的东西都是从表和图 流到收集数据、发现和诊断",
       "href": "/core/integrations",
       "officialUrl": "https://contributors.home-assistant.io/core/integrations/",
@@ -1844,7 +1844,7 @@
     },
     {
       "slug": "core/integrations/oauth2",
-      "title": "OAuth 2.0 和应用程序证书",
+      "title": "OAuth 2.0 与应用凭证",
       "description": "用 OAuth 2.0 连接用户的账户, 让 Home Assistant 为您处理 。",
       "href": "/core/integrations/oauth2",
       "officialUrl": "https://contributors.home-assistant.io/core/integrations/oauth2/",
@@ -1860,7 +1860,7 @@
     },
     {
       "slug": "core/integrations/reauth-reconfigure",
-      "title": "重整和重组",
+      "title": "重新认证与重新配置",
       "description": "让用户固定已过期的证书,并更改一个已有配置条目的连接细节,而不删除并再次添加.",
       "href": "/core/integrations/reauth-reconfigure",
       "officialUrl": "https://contributors.home-assistant.io/core/integrations/reauth-reconfigure/",
@@ -2028,7 +2028,7 @@
     },
     {
       "slug": "core/internals/hass",
-      "title": "Python 中的有位对象",
+      "title": "Python 中的 hass 对象",
       "description": "HomeAssist 每一个集成都得到的实例, 挂在其中的是什么, 核心配置在 has. config上 。",
       "href": "/core/internals/hass",
       "officialUrl": "https://contributors.home-assistant.io/core/internals/hass/",
@@ -2036,7 +2036,7 @@
     },
     {
       "slug": "core/internals",
-      "title": "核心如何运作",
+      "title": "核心如何工作",
       "description": "Home Assistant Core的内在。 拥有对象,事件,状态,Ayncio,认证,API,以及语音和AI的构件.",
       "href": "/core/internals",
       "officialUrl": "https://contributors.home-assistant.io/core/internals/",
@@ -2092,7 +2092,7 @@
     },
     {
       "slug": "core/internals/rest-api",
-      "title": "(原始内容存档于2018-09-21) (英语). Rest API",
+      "title": "REST API",
       "description": "HTTP 的端点在 / api/ 下读取状态, 调用动作, 点火事件, 并渲染模板, 并有每个人所需的权限 。",
       "href": "/core/internals/rest-api",
       "officialUrl": "https://contributors.home-assistant.io/core/internals/rest-api/",
@@ -2100,7 +2100,7 @@
     },
     {
       "slug": "core/internals/states",
-      "title": "国家",
+      "title": "状态",
       "description": "状态机器如何保持每个实体的当前状态,状态对象持有什么,以及集成为什么通过实体来写入状态.",
       "href": "/core/internals/states",
       "officialUrl": "https://contributors.home-assistant.io/core/internals/states/",
@@ -2116,7 +2116,7 @@
     },
     {
       "slug": "core/internals/websocket-api",
-      "title": "API (韩语)",
+      "title": "WebSocket API",
       "description": "前端使用的API. 连接是如何工作的,核心命令,错误处理,以及如何从集成中添加你自己的命令.",
       "href": "/core/internals/websocket-api",
       "officialUrl": "https://contributors.home-assistant.io/core/internals/websocket-api/",
@@ -2357,7 +2357,7 @@
     {
       "slug": "core/quality-scale/dynamic-devices",
       "title": "自动添加新设备",
-      "description": "已启动的 \" 标码 \" : \" 标码 \" : \"标码 \" : \"标码 \" : \"标码 \" : \"标码 \" : \"标码 \" : \"标码 \" : \"标码 \" : \"标码 \" : \"标码 \" : \"标码 \" : \"标码 \" : \"标码 \" : \"标码 \"",
+      "description": "Gold rule dynamic-devices: devices that appear after setup are added without a reload.",
       "href": "/core/quality-scale/dynamic-devices",
       "officialUrl": "https://contributors.home-assistant.io/core/quality-scale/dynamic-devices/",
       "area": "core"
@@ -2444,7 +2444,7 @@
     },
     {
       "slug": "core/quality-scale",
-      "title": "整合质量尺度",
+      "title": "集成质量等级",
       "description": "说明融合有多好、融合如何获得分级以及如何提高分级的规则。",
       "href": "/core/quality-scale",
       "officialUrl": "https://contributors.home-assistant.io/core/quality-scale/",
@@ -2525,7 +2525,7 @@
     {
       "slug": "core/quality-scale/rules",
       "title": "所有规则",
-      "description": "每一级整合质量尺度的每个规则,都有一份核对表复制到您的 pull request 。",
+      "description": "每一级集成质量等级的每个规则,都有一份核对表复制到您的 pull request 。",
       "href": "/core/quality-scale/rules",
       "officialUrl": "https://contributors.home-assistant.io/core/quality-scale/rules/",
       "area": "core"
@@ -3093,7 +3093,7 @@
     {
       "slug": "design/dashboards",
       "title": "仪表盘",
-      "description": "撬牌和牌是什么,如何挑对绷牌擒 Ulaanbaatar耿宵骰焕嚷,啸兢ẳ兀蔷瑶札,每张牌都遵循隼躬有代表性的橱绽衲子蒜鬣طئ,ẩ绷潇然隧有代表性的庵ẽ骏阐莹呜,\" dashboard\",\" dashboard\",\" the\"等.",
+      "description": "What dashboards and cards are, how to pick the right card, and the principles every card follows.",
       "href": "/design/dashboards",
       "officialUrl": "https://contributors.home-assistant.io/design/dashboards/",
       "area": "design"
@@ -3236,7 +3236,7 @@
     },
     {
       "slug": "design/foundations",
-      "title": "基金会",
+      "title": "基础",
       "description": "颜色、印刷、间隔、运动和无障碍。 Home Assistant中所有事物背后的设计符号和规则.",
       "href": "/design/foundations",
       "officialUrl": "https://contributors.home-assistant.io/design/foundations/",
@@ -3332,7 +3332,7 @@
     },
     {
       "slug": "design/more-info",
-      "title": "更多信息ppe",
+      "title": "更多信息",
       "description": "当您选择一个实体时打开的对话框, 以及每种实体类型的视图 。",
       "href": "/design/more-info",
       "officialUrl": "https://contributors.home-assistant.io/design/more-info/",
@@ -3508,7 +3508,7 @@
     },
     {
       "slug": "design/patterns",
-      "title": "踌咕鹫衲ỡ turkey荚咀玄",
+      "title": "模式",
       "description": "Home Assistant界面中反复出现的情况,如表单,等待,空列表,或错误,以及前端如何处理.",
       "href": "/design/patterns",
       "officialUrl": "https://contributors.home-assistant.io/design/patterns/",
@@ -3540,7 +3540,7 @@
     },
     {
       "slug": "design/ui-text",
-      "title": "用户界面文本",
+      "title": "界面文本",
       "description": "界面如何说话. Home Assistant的语音,风格,和单词,对于每个写标签,按钮,或错误的人.",
       "href": "/design/ui-text",
       "officialUrl": "https://contributors.home-assistant.io/design/ui-text/",
@@ -3580,7 +3580,7 @@
     },
     {
       "slug": "frontend/architecture/data",
-      "title": "数据已为层",
+      "title": "数据层",
       "description": "前端怎么跟科雷说话的? WebSocket 命令,订阅, 和收藏在src/data, 以及组件如何使用它们 。",
       "href": "/frontend/architecture/data",
       "officialUrl": "https://contributors.home-assistant.io/frontend/architecture/data/",
@@ -3668,7 +3668,7 @@
     },
     {
       "slug": "frontend/custom-ui",
-      "title": "蓓丝卡及更多",
+      "title": "自定义卡片及其他",
       "description": "构建卡片,卡片特征,徽章,视图,仪表板策略,以及人们加载到自己的Home Assistant的面板,而不改变前端.",
       "href": "/frontend/custom-ui",
       "officialUrl": "https://contributors.home-assistant.io/frontend/custom-ui/",
@@ -3716,8 +3716,8 @@
     },
     {
       "slug": "frontend/development/environment",
-      "title": "建立环境",
-      "description": "的匀,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+      "title": "搭建环境",
+      "description": "Get the frontend code and its dependencies, with the devcontainer or on your own machine.",
       "href": "/frontend/development/environment",
       "officialUrl": "https://contributors.home-assistant.io/frontend/development/environment/",
       "area": "frontend"
@@ -3740,7 +3740,7 @@
     },
     {
       "slug": "frontend/development",
-      "title": "联合国",
+      "title": "开发",
       "description": "所有你需要的工作 在前端本身。 环境,运行它,画廊和演示,编码指南,测试,以及审查.",
       "href": "/frontend/development",
       "officialUrl": "https://contributors.home-assistant.io/frontend/development/",
@@ -3756,7 +3756,7 @@
     },
     {
       "slug": "frontend/development/review-and-release",
-      "title": "审查和发布",
+      "title": "审查与发布",
       "description": "前端 pull request 打开后会发生什么, 合并的改变如何使用 Home Assistant 到达人们。",
       "href": "/frontend/development/review-and-release",
       "officialUrl": "https://contributors.home-assistant.io/frontend/development/review-and-release/",
@@ -3852,7 +3852,7 @@
     },
     {
       "slug": "frontend/reference/hass-object",
-      "title": "前端显示对象",
+      "title": "前端中的 hass 对象",
       "description": "每个卡片、面板和组件的属性、方法和格式化器。",
       "href": "/frontend/reference/hass-object",
       "officialUrl": "https://contributors.home-assistant.io/frontend/reference/hass-object/",
@@ -3956,7 +3956,7 @@
     },
     {
       "slug": "glossary/bashio",
-      "title": "芭蕉",
+      "title": "Bashio",
       "description": "用于应用的 Bash 函数库, 用于读取应用的选项、 日志和与 Supervisor API 交谈的助手 。",
       "href": "/glossary/bashio",
       "officialUrl": "https://contributors.home-assistant.io/glossary/bashio/",
@@ -4228,7 +4228,7 @@
     },
     {
       "slug": "glossary/epic",
-      "title": "图片",
+      "title": "Epic（史诗）",
       "description": "在Home Assistant/教科文库中开展更多的工作,这些工作可以跨越几个教科文库。",
       "href": "/glossary/epic",
       "officialUrl": "https://contributors.home-assistant.io/glossary/epic/",
@@ -4237,7 +4237,7 @@
     {
       "slug": "glossary/event-loop",
       "title": "事件循环",
-      "description": "运行 Home Assistant Core 的 Ayncio 环路 。 像在网络上等待没有`await`的代码, 停止其他一切。",
+      "description": "运行 Home Assistant Core 的 asyncio 循环。若代码在没有 await 的情况下等待网络，就会卡住其他所有任务。",
       "href": "/glossary/event-loop",
       "officialUrl": "https://contributors.home-assistant.io/glossary/event-loop/",
       "area": "glossary"
@@ -4252,7 +4252,7 @@
     },
     {
       "slug": "glossary/feature-request",
-      "title": "特性 với信守 希望你立足于 也许我 说真的",
+      "title": "功能请求",
       "description": "提供技术支持之间的相互关系 我以为你所规定的义务,",
       "href": "/glossary/feature-request",
       "officialUrl": "https://contributors.home-assistant.io/glossary/feature-request/",
@@ -4268,7 +4268,7 @@
     },
     {
       "slug": "glossary/fork",
-      "title": "叉",
+      "title": "Fork（复刻）",
       "description": "平等地位是您自己复制的存储器,位于您的 GitHub 账号上, 您在提议修改前会做出修改 。",
       "href": "/glossary/fork",
       "officialUrl": "https://contributors.home-assistant.io/glossary/fork/",
@@ -4292,7 +4292,7 @@
     },
     {
       "slug": "glossary/hass",
-      "title": "隐藏对象",
+      "title": "hass 对象",
       "description": "`HomeAssistant` 集成得到的例子, 访问状态机器、 事件总线、 动作和配置 。",
       "href": "/glossary/hass",
       "officialUrl": "https://contributors.home-assistant.io/glossary/hass/",
@@ -4332,7 +4332,7 @@
     },
     {
       "slug": "glossary",
-      "title": "词汇表",
+      "title": "术语表",
       "description": "一个词,一个意思。 由代码,UI文本和docs共享.",
       "href": "/glossary",
       "officialUrl": "https://contributors.home-assistant.io/glossary/",
@@ -4356,7 +4356,7 @@
     },
     {
       "slug": "glossary/integration-category",
-      "title": "一体化类别",
+      "title": "集成类别",
       "description": "集成是为了什么,比如照明或能源,所以人们可以通过它做什么来找到它,比如在网站上的集成页面上.",
       "href": "/glossary/integration-category",
       "officialUrl": "https://contributors.home-assistant.io/glossary/integration-category/",
@@ -4372,7 +4372,7 @@
     },
     {
       "slug": "glossary/integration",
-      "title": "一体化",
+      "title": "集成",
       "description": "将 Home Assistant 连接到设备、 服务或协议, 或者添加自动化等功能的代码包 。",
       "href": "/glossary/integration",
       "officialUrl": "https://contributors.home-assistant.io/glossary/integration/",
@@ -4396,7 +4396,7 @@
     },
     {
       "slug": "glossary/issue",
-      "title": "雌性",
+      "title": "Issue（议题）",
       "description": "关于GitHub关于寄存器中一个问题的报告,就像一个错误一样,人们可以讨论和跟踪.",
       "href": "/glossary/issue",
       "officialUrl": "https://contributors.home-assistant.io/glossary/issue/",
@@ -4460,7 +4460,7 @@
     },
     {
       "slug": "glossary/marketplace",
-      "title": "市场",
+      "title": "应用市场",
       "description": "Home Assistant中并不构成用户找到并安装社区定制集成,仪表盘卡,主题和模板宏的地方. 始建于2026.11路.",
       "href": "/glossary/marketplace",
       "officialUrl": "https://contributors.home-assistant.io/glossary/marketplace/",
@@ -4516,7 +4516,7 @@
     },
     {
       "slug": "glossary/opportunity",
-      "title": "机会",
+      "title": "机会项",
       "description": "路线图存储库中描述一个值得解决的问题,它为什么重要,以及设想的解决办法。",
       "href": "/glossary/opportunity",
       "officialUrl": "https://contributors.home-assistant.io/glossary/opportunity/",
@@ -4580,7 +4580,7 @@
     },
     {
       "slug": "glossary/quality-scale",
-      "title": "整合质量尺度",
+      "title": "集成质量等级",
       "description": "集成通过遵循代码质量和用户体验的规则而获得的等级:铜,银,金,和白金.",
       "href": "/glossary/quality-scale",
       "officialUrl": "https://contributors.home-assistant.io/glossary/quality-scale/",
@@ -4684,8 +4684,8 @@
     },
     {
       "slug": "glossary/roadmap",
-      "title": "建立起的均已将收到就这些的 但这提供任何的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的和的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的",
-      "description": "Open Home Foundation 想要在 Home Assistant 和其他项目中解决的问题, 在 OpenHomeFoundation/roadmap 仓库中作为机会跟踪 。",
+      "title": "路线图",
+      "description": "The problems the Open Home Foundation wants to solve next in Home Assistant and its other projects, tracked as opportunities in the OpenHomeFoundation/roadmap repository.",
       "href": "/glossary/roadmap",
       "officialUrl": "https://contributors.home-assistant.io/glossary/roadmap/",
       "area": "glossary"
@@ -4724,8 +4724,8 @@
     },
     {
       "slug": "glossary/state-class",
-      "title": "国家等级",
-      "description": "Anh: 感觉器的值是如何表现的, 如 `measurement` 或 `total_increasing`, 因此 Home Assistant 可以保留长期的统计数据 。",
+      "title": "状态类别",
+      "description": "How the value of a sensor behaves, like `measurement` or `total_increasing`, so Home Assistant can keep long-term statistics for it.",
       "href": "/glossary/state-class",
       "officialUrl": "https://contributors.home-assistant.io/glossary/state-class/",
       "area": "glossary"
@@ -4868,7 +4868,7 @@
     },
     {
       "slug": "glossary/websocket-api",
-      "title": "API (韩语)",
+      "title": "WebSocket API",
       "description": "Home Assistant Core的API,前端和同伴的应用程序在一个开通的连接上,用来读取状态,执行动作,并在发生时获得更新.",
       "href": "/glossary/websocket-api",
       "officialUrl": "https://contributors.home-assistant.io/glossary/websocket-api/",
@@ -4980,7 +4980,7 @@
     },
     {
       "slug": "marketplace",
-      "title": "市场",
+      "title": "应用市场",
       "description": "与所有使用 Home Assistant 的人分享你所构建的内容。发布自定义集成、仪表板卡片、主题、模板宏和蓝图，并保持它们的更新。",
       "href": "/marketplace",
       "officialUrl": "https://contributors.home-assistant.io/marketplace/",
@@ -5036,7 +5036,7 @@
     },
     {
       "slug": "os",
-      "title": "操作系统和Supervisor",
+      "title": "OS 与 Supervisor",
       "description": "研究Home Assistant OS和Supervisor，这两部分将一块板或虚拟机变成一个Home Assistant系统，该系统能够运行、更新和自我修复。",
       "href": "/os",
       "officialUrl": "https://contributors.home-assistant.io/os/",
@@ -5188,7 +5188,7 @@
     },
     {
       "slug": "os/supervisor/debugging",
-      "title": "调试为解决 Supervisor",
+      "title": "调试 Supervisor",
       "description": "将 Python 调试器附加到运行中的 Supervisor , 本地或远程设备上, 并查找其日志 。",
       "href": "/os/supervisor/debugging",
       "officialUrl": "https://contributors.home-assistant.io/os/supervisor/debugging/",
@@ -5196,7 +5196,7 @@
     },
     {
       "slug": "os/supervisor/development",
-      "title": "建立发展环境",
+      "title": "搭建开发环境",
       "description": "运行 Supervisor 从源头运行在它的开发容器, 运行测试和linters, 并尝试您的构建在一个真正的系统上 。",
       "href": "/os/supervisor/development",
       "officialUrl": "https://contributors.home-assistant.io/os/supervisor/development/",
@@ -5332,16 +5332,16 @@
     },
     {
       "slug": "roadmap/how-it-works",
-      "title": "从思想到释放 46.",
-      "description": "关于Home Assistant的更大工作是在公开场合规划的,从一个特性请求到一个路线图机会,一个史诗,任务,和pull requests,以及您可以加入到哪里.",
+      "title": "从构想到发布",
+      "description": "How larger work on Home Assistant is planned in the open, from a feature request to a roadmap opportunity, an epic, tasks, and pull requests, and where you can join in along the way.",
       "href": "/roadmap/how-it-works",
       "officialUrl": "https://contributors.home-assistant.io/roadmap/how-it-works/",
       "area": "roadmap"
     },
     {
       "slug": "roadmap",
-      "title": "建立起的均已将收到就这些的 但这提供任何的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的和的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的",
-      "description": "在Open Home Foundation 想法如何成为计划的工作, 正在做的工作, 以及在哪里瑜伽 帮助塑造未来。",
+      "title": "路线图",
+      "description": "想法如何在 Open Home Foundation 变成计划中的工作，当前在推进什么，以及你可以从哪里参与、影响接下来要做的事。",
       "href": "/roadmap",
       "officialUrl": "https://contributors.home-assistant.io/roadmap/",
       "area": "roadmap"
@@ -5396,7 +5396,7 @@
     },
     {
       "slug": "security/guides/integrations",
-      "title": "安全融合",
+      "title": "集成安全",
       "description": "证书,证书,编辑,只管理权限,webhooks,以及文件路径. 保证融合安全的规律和帮助者.",
       "href": "/security/guides/integrations",
       "officialUrl": "https://contributors.home-assistant.io/security/guides/integrations/",
@@ -5420,7 +5420,7 @@
     },
     {
       "slug": "security",
-      "title": "警卫",
+      "title": "安全",
       "description": "报告一个弱点, 并建造软件 保护它运行的家园。",
       "href": "/security",
       "officialUrl": "https://contributors.home-assistant.io/security/",
@@ -5676,7 +5676,7 @@
     },
     {
       "slug": "translate/voice",
-      "title": "声音",
+      "title": "语音",
       "description": "教Assist你的语言。株式会社蓉子,",
       "href": "/translate/voice",
       "officialUrl": "https://contributors.home-assistant.io/translate/voice/",
@@ -5772,7 +5772,7 @@
     },
     {
       "slug": "writing/guides/structure",
-      "title": "结构 a 页",
+      "title": "组织页面结构",
       "description": "围绕读者想要知道或做的事情组织文档,包括概念,任务,参考,教程,以及解决问题.",
       "href": "/writing/guides/structure",
       "officialUrl": "https://contributors.home-assistant.io/writing/guides/structure/",
@@ -5788,7 +5788,7 @@
     },
     {
       "slug": "writing",
-      "title": "写入文件",
+      "title": "撰写文档",
       "description": "帮助数百万人从Home Assistant中获取更多,方法是改进家庭援助者.io的文件。",
       "href": "/writing",
       "officialUrl": "https://contributors.home-assistant.io/writing/",
@@ -5796,15 +5796,15 @@
     },
     {
       "slug": "writing/reference/checks",
-      "title": "自动文件检查",
-      "description": "其自始至终的自始至始的自始至始的自始至始的自始至始的自始至始的自始至始的自始至始的自始至始的自始至始的自始至始的自始至始至始的自始至始的自始至始至始的自始至始至始的自始至始至始的自始至终的自始至始至始至始至始至始至始至始的自始至始至始至始至始至始至始至始至的自始至始至始自始至始至始至始至始至始至始至始至始至始至始至始至始至的自始至始至始至的自始至始至始至始至始至始至始至始至始至的自始至始至始至始至的自始至始至始至始始至始至始至始至始至始至始至始至始始至始至始至始至始至始至始至始至始至始至始至始至始至始至始",
+      "title": "文档自动检查",
+      "description": "What the automated checks on your documentation pull request look for, how to run them yourself, and how to change them.",
       "href": "/writing/reference/checks",
       "officialUrl": "https://contributors.home-assistant.io/writing/reference/checks/",
       "area": "writing"
     },
     {
       "slug": "writing/reference/front-matter",
-      "title": "一体化问题。",
+      "title": "集成 front matter",
       "description": "在集成页面的顶部可以使用的每一个键,它做什么,以及它接受的哪个值.",
       "href": "/writing/reference/front-matter",
       "officialUrl": "https://contributors.home-assistant.io/writing/reference/front-matter/",
@@ -5890,13 +5890,13 @@
       {
         "kind": "link",
         "slug": "start/where-we-talk",
-        "title": "我们在哪里交流",
+        "title": "Where we talk",
         "href": "/start/where-we-talk"
       },
       {
         "kind": "link",
         "slug": "start/report-a-bug",
-        "title": "报告错误",
+        "title": "Report a bug",
         "href": "/start/report-a-bug"
       },
       {
@@ -5932,7 +5932,7 @@
       {
         "kind": "link",
         "slug": "start/ai-policy",
-        "title": "AI 政策",
+        "title": "AI policy",
         "href": "/start/ai-policy"
       },
       {
@@ -5944,7 +5944,7 @@
       {
         "kind": "link",
         "slug": "start/code-of-conduct",
-        "title": "行为准则",
+        "title": "Code of conduct",
         "href": "/start/code-of-conduct"
       }
     ],
@@ -5973,24 +5973,24 @@
           },
           {
             "kind": "folder",
-            "title": "写代码",
+            "title": "编写代码",
             "children": [
               {
                 "kind": "link",
                 "slug": "core/development/environment",
-                "title": "发展环境",
+                "title": "开发环境",
                 "href": "/core/development/environment"
               },
               {
                 "kind": "link",
                 "slug": "core/development/style",
-                "title": "代码风格",
+                "title": "Code style",
                 "href": "/core/development/style"
               },
               {
                 "kind": "link",
                 "slug": "core/development/typing",
-                "title": "类型提示",
+                "title": "Type hints",
                 "href": "/core/development/typing"
               },
               {
@@ -6002,79 +6002,79 @@
               {
                 "kind": "link",
                 "slug": "core/development/tests",
-                "title": "编写测试",
+                "title": "Writing tests",
                 "href": "/core/development/tests"
               },
               {
                 "kind": "link",
                 "slug": "core/development/checks",
-                "title": "Linter、hassfest 与 CI",
+                "title": "Linters, hassfest, and CI",
                 "href": "/core/development/checks"
               },
               {
                 "kind": "link",
                 "slug": "core/development/input-validation",
-                "title": "校验输入",
+                "title": "Validating input",
                 "href": "/core/development/input-validation"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "调用请求",
+            "title": "Pull request",
             "children": [
               {
                 "kind": "link",
                 "slug": "core/development/checklist",
-                "title": "开发清单",
+                "title": "Development checklist",
                 "href": "/core/development/checklist"
               },
               {
                 "kind": "link",
                 "slug": "core/development/submitting",
-                "title": "提交 pull request",
+                "title": "Submitting a pull request",
                 "href": "/core/development/submitting"
               },
               {
                 "kind": "link",
                 "slug": "core/development/review-process",
-                "title": "打开 pull request 之后",
+                "title": "After you open a pull request",
                 "href": "/core/development/review-process"
               },
               {
                 "kind": "link",
                 "slug": "core/development/catching-up",
-                "title": "不断更新",
+                "title": "保持分支更新",
                 "href": "/core/development/catching-up"
               },
               {
                 "kind": "link",
                 "slug": "core/development/reviewing",
-                "title": "审查 pull request",
+                "title": "Reviewing pull requests",
                 "href": "/core/development/reviewing"
               },
               {
                 "kind": "link",
                 "slug": "core/development/tips",
-                "title": "提示与技巧",
+                "title": "Tips and tricks",
                 "href": "/core/development/tips"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "改变行为",
+            "title": "变更行为",
             "children": [
               {
                 "kind": "link",
                 "slug": "core/development/deprecating",
-                "title": "弃用",
+                "title": "Deprecating",
                 "href": "/core/development/deprecating"
               },
               {
                 "kind": "link",
                 "slug": "core/development/versioning",
-                "title": "版本",
+                "title": "Versioning",
                 "href": "/core/development/versioning"
               },
               {
@@ -6089,7 +6089,7 @@
       },
       {
         "kind": "folder",
-        "title": "建设一体化",
+        "title": "构建集成",
         "children": [
           {
             "kind": "link",
@@ -6099,12 +6099,12 @@
           },
           {
             "kind": "folder",
-            "title": "开始",
+            "title": "入门",
             "children": [
               {
                 "kind": "link",
                 "slug": "core/integrations/concepts",
-                "title": "如何融入",
+                "title": "集成如何融入",
                 "href": "/core/integrations/concepts"
               },
               {
@@ -6116,13 +6116,13 @@
               {
                 "kind": "link",
                 "slug": "core/integrations/api-library",
-                "title": "构建 {H 大家都} 库",
+                "title": "构建 Python 库",
                 "href": "/core/integrations/api-library"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/create",
-                "title": "创建集成",
+                "title": "Create an integration",
                 "href": "/core/integrations/create"
               },
               {
@@ -6135,18 +6135,18 @@
           },
           {
             "kind": "folder",
-            "title": "设置和配置",
+            "title": "设置与配置",
             "children": [
               {
                 "kind": "link",
                 "slug": "core/integrations/config-entries",
-                "title": "配置条目",
+                "title": "Config entries",
                 "href": "/core/integrations/config-entries"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/config-flow",
-                "title": "配置流量",
+                "title": "Config flow",
                 "href": "/core/integrations/config-flow"
               },
               {
@@ -6158,31 +6158,31 @@
               {
                 "kind": "link",
                 "slug": "core/integrations/options-flow",
-                "title": "选项流",
+                "title": "Options flow",
                 "href": "/core/integrations/options-flow"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/subentries",
-                "title": "子公司",
+                "title": "子条目",
                 "href": "/core/integrations/subentries"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/reauth-reconfigure",
-                "title": "重新配置并重新配置",
+                "title": "重新认证与重新配置",
                 "href": "/core/integrations/reauth-reconfigure"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/oauth2",
-                "title": "奥奥特2.0",
+                "title": "OAuth 2.0",
                 "href": "/core/integrations/oauth2"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/yaml",
-                "title": "YAML 配置",
+                "title": "YAML configuration",
                 "href": "/core/integrations/yaml"
               },
               {
@@ -6195,12 +6195,12 @@
           },
           {
             "kind": "folder",
-            "title": "数据和更新",
+            "title": "数据与更新",
             "children": [
               {
                 "kind": "link",
                 "slug": "core/integrations/fetching-data",
-                "title": "获取数据",
+                "title": "Fetching data",
                 "href": "/core/integrations/fetching-data"
               },
               {
@@ -6230,7 +6230,7 @@
               {
                 "kind": "link",
                 "slug": "core/integrations/network-discovery",
-                "title": "网络发现",
+                "title": "Network discovery",
                 "href": "/core/integrations/network-discovery"
               },
               {
@@ -6242,73 +6242,73 @@
               {
                 "kind": "link",
                 "slug": "core/integrations/bluetooth-data",
-                "title": "正在获取 Bluetooth 数据",
+                "title": "Fetching Bluetooth data",
                 "href": "/core/integrations/bluetooth-data"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "装置和登记册",
+            "title": "设备与注册表",
             "children": [
               {
                 "kind": "link",
                 "slug": "core/integrations/device-registry",
-                "title": "设备注册",
+                "title": "Device registry",
                 "href": "/core/integrations/device-registry"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/entity-registry",
-                "title": "实体登记册",
+                "title": "Entity registry",
                 "href": "/core/integrations/entity-registry"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/area-registry",
-                "title": "区域登记册",
+                "title": "Area registry",
                 "href": "/core/integrations/area-registry"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "融合特征",
+            "title": "集成功能",
             "children": [
               {
                 "kind": "link",
                 "slug": "core/integrations/actions",
-                "title": "动作",
+                "title": "操作",
                 "href": "/core/integrations/actions"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/triggers-and-conditions",
-                "title": "B. 触发因素和条件",
+                "title": "Triggers and conditions",
                 "href": "/core/integrations/triggers-and-conditions"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/device-automations",
-                "title": "设备自动化",
+                "title": "Device automations",
                 "href": "/core/integrations/device-automations"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/diagnostics",
-                "title": "诊断",
+                "title": "Diagnostics",
                 "href": "/core/integrations/diagnostics"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/system-health",
-                "title": "系统保健",
+                "title": "System health",
                 "href": "/core/integrations/system-health"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/repairs",
-                "title": "修理费",
+                "title": "Repairs",
                 "href": "/core/integrations/repairs"
               },
               {
@@ -6320,25 +6320,25 @@
               {
                 "kind": "link",
                 "slug": "core/integrations/reproduce-state",
-                "title": "教益",
+                "title": "Reproduce state",
                 "href": "/core/integrations/reproduce-state"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/significant-change",
-                "title": "重大变化",
+                "title": "Significant change",
                 "href": "/core/integrations/significant-change"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/backup",
-                "title": "备份",
+                "title": "Backup",
                 "href": "/core/integrations/backup"
               },
               {
                 "kind": "link",
                 "slug": "core/integrations/media-source",
-                "title": "媒体来源",
+                "title": "Media source",
                 "href": "/core/integrations/media-source"
               }
             ]
@@ -6356,7 +6356,7 @@
               {
                 "kind": "link",
                 "slug": "core/integrations/brands",
-                "title": "一体化品牌和形象",
+                "title": "集成品牌与图片",
                 "href": "/core/integrations/brands"
               },
               {
@@ -6368,7 +6368,7 @@
               {
                 "kind": "link",
                 "slug": "core/integrations/categories",
-                "title": "一体化类别",
+                "title": "集成类别",
                 "href": "/core/integrations/categories"
               }
             ]
@@ -6387,7 +6387,7 @@
           },
           {
             "kind": "folder",
-            "title": "基本情况",
+            "title": "基础",
             "children": [
               {
                 "kind": "link",
@@ -6435,7 +6435,7 @@
           },
           {
             "kind": "folder",
-            "title": "传感器和状态",
+            "title": "传感器与状态",
             "children": [
               {
                 "kind": "link",
@@ -6489,7 +6489,7 @@
           },
           {
             "kind": "folder",
-            "title": "灯光和气候",
+            "title": "灯光与气候",
             "children": [
               {
                 "kind": "link",
@@ -6525,19 +6525,19 @@
           },
           {
             "kind": "folder",
-            "title": "开幕和安全",
+            "title": "开合与安防",
             "children": [
-              {
-                "kind": "link",
-                "slug": "core/entities/siren",
-                "title": "仍在进行的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的草的 的 的草的草的草的草的草的草的草的草的草的草的草的草的草的 的 的草的",
-                "href": "/core/entities/siren"
-              },
               {
                 "kind": "link",
                 "slug": "core/entities/cover",
                 "title": "覆盖",
                 "href": "/core/entities/cover"
+              },
+              {
+                "kind": "link",
+                "slug": "core/entities/siren",
+                "title": "警报器",
+                "href": "/core/entities/siren"
               },
               {
                 "kind": "link",
@@ -6585,7 +6585,7 @@
           },
           {
             "kind": "folder",
-            "title": "远程和信号",
+            "title": "遥控与信号",
             "children": [
               {
                 "kind": "link",
@@ -6609,7 +6609,7 @@
           },
           {
             "kind": "folder",
-            "title": "语音和AI",
+            "title": "语音与 AI",
             "children": [
               {
                 "kind": "link",
@@ -6651,7 +6651,7 @@
           },
           {
             "kind": "folder",
-            "title": "应用程序",
+            "title": "家电",
             "children": [
               {
                 "kind": "link",
@@ -6675,7 +6675,7 @@
           },
           {
             "kind": "folder",
-            "title": "投入和帮助",
+            "title": "输入与助手",
             "children": [
               {
                 "kind": "link",
@@ -6749,7 +6749,7 @@
       },
       {
         "kind": "folder",
-        "title": "整合质量尺度",
+        "title": "集成质量等级",
         "children": [
           {
             "kind": "link",
@@ -6760,13 +6760,13 @@
           {
             "kind": "link",
             "slug": "core/quality-scale/tiers",
-            "title": "等级",
+            "title": "Tiers",
             "href": "/core/quality-scale/tiers"
           },
           {
             "kind": "link",
             "slug": "core/quality-scale/rules",
-            "title": "所有规则",
+            "title": "All rules",
             "href": "/core/quality-scale/rules"
           },
           {
@@ -6783,7 +6783,7 @@
           },
           {
             "kind": "folder",
-            "title": "铜",
+            "title": "青铜",
             "children": [
               {
                 "kind": "link",
@@ -6975,7 +6975,7 @@
           },
           {
             "kind": "folder",
-            "title": "黄金",
+            "title": "金",
             "children": [
               {
                 "kind": "link",
@@ -7107,7 +7107,7 @@
           },
           {
             "kind": "folder",
-            "title": "铂",
+            "title": "铂金",
             "children": [
               {
                 "kind": "link",
@@ -7133,7 +7133,7 @@
       },
       {
         "kind": "folder",
-        "title": "核心如何运作",
+        "title": "核心如何工作",
         "children": [
           {
             "kind": "link",
@@ -7143,12 +7143,12 @@
           },
           {
             "kind": "folder",
-            "title": "核心内容",
+            "title": "核心",
             "children": [
               {
                 "kind": "link",
                 "slug": "core/internals/hass",
-                "title": "隐藏对象",
+                "title": "hass 对象",
                 "href": "/core/internals/hass"
               },
               {
@@ -7160,20 +7160,20 @@
               {
                 "kind": "link",
                 "slug": "core/internals/states",
-                "title": "国家",
+                "title": "状态",
                 "href": "/core/internals/states"
               },
               {
                 "kind": "link",
                 "slug": "core/internals/actions",
-                "title": "动作",
+                "title": "操作",
                 "href": "/core/internals/actions"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "自动同步",
+            "title": "异步",
             "children": [
               {
                 "kind": "link",
@@ -7184,20 +7184,20 @@
               {
                 "kind": "link",
                 "slug": "core/internals/thread-safety",
-                "title": "Thread安全",
+                "title": "Thread safety",
                 "href": "/core/internals/thread-safety"
               },
               {
                 "kind": "link",
                 "slug": "core/internals/blocking-operations",
-                "title": "封锁行动",
+                "title": "Blocking operations",
                 "href": "/core/internals/blocking-operations"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "4.a(a)的合格后得到过合格后后得到过合格后后得到过过合格后后后得到过过过过过过等等等等等等等等等等等的合格后后才能得到过合格的合格后后后后才能得到过。等等等等等等等等合格后后才能得到合格后后后才能得到合格后后后才能得到过。等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、等等、、、、、、、、、、、、、、、、、、、、、、、、、、、、",
+            "title": "认证",
             "children": [
               {
                 "kind": "link",
@@ -7208,43 +7208,43 @@
               {
                 "kind": "link",
                 "slug": "core/internals/permissions",
-                "title": "权限",
+                "title": "Permissions",
                 "href": "/core/internals/permissions"
               },
               {
                 "kind": "link",
                 "slug": "core/internals/auth-api",
-                "title": "认证 API",
+                "title": "Authentication API",
                 "href": "/core/internals/auth-api"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "你说的",
+            "title": "API",
             "children": [
               {
                 "kind": "link",
                 "slug": "core/internals/rest-api",
-                "title": "(原始内容存档于2018-09-21) (英语). Rest API",
+                "title": "REST API",
                 "href": "/core/internals/rest-api"
               },
               {
                 "kind": "link",
                 "slug": "core/internals/websocket-api",
-                "title": "API (韩语)",
+                "title": "WebSocket API",
                 "href": "/core/internals/websocket-api"
               },
               {
                 "kind": "link",
                 "slug": "core/internals/instance-discovery",
-                "title": "案例发现",
+                "title": "Instance discovery",
                 "href": "/core/internals/instance-discovery"
               },
               {
                 "kind": "link",
                 "slug": "core/internals/modbus",
-                "title": "运动會",
+                "title": "Modbus devices",
                 "href": "/core/internals/modbus"
               },
               {
@@ -7257,12 +7257,12 @@
           },
           {
             "kind": "folder",
-            "title": "语音和AI",
+            "title": "语音与 AI",
             "children": [
               {
                 "kind": "link",
                 "slug": "core/internals/intents",
-                "title": "意图",
+                "title": "Intents",
                 "href": "/core/internals/intents"
               },
               {
@@ -7274,13 +7274,13 @@
               {
                 "kind": "link",
                 "slug": "core/internals/conversation-api",
-                "title": "对话 API",
+                "title": "Conversation API",
                 "href": "/core/internals/conversation-api"
               },
               {
                 "kind": "link",
                 "slug": "core/internals/assist-pipelines",
-                "title": "Assist 管道",
+                "title": "Assist pipelines",
                 "href": "/core/internals/assist-pipelines"
               },
               {
@@ -7309,7 +7309,7 @@
       },
       {
         "kind": "folder",
-        "title": "联合国",
+        "title": "开发",
         "children": [
           {
             "kind": "link",
@@ -7320,49 +7320,49 @@
           {
             "kind": "link",
             "slug": "frontend/development/environment",
-            "title": "建立环境",
+            "title": "搭建环境",
             "href": "/frontend/development/environment"
           },
           {
             "kind": "link",
             "slug": "frontend/development/run",
-            "title": "运行前端",
+            "title": "Run the frontend",
             "href": "/frontend/development/run"
           },
           {
             "kind": "link",
             "slug": "frontend/development/gallery-and-demo",
-            "title": "画廊和演示",
+            "title": "The gallery and the demo",
             "href": "/frontend/development/gallery-and-demo"
           },
           {
             "kind": "link",
             "slug": "frontend/development/guidelines",
-            "title": "编码准则",
+            "title": "Coding guidelines",
             "href": "/frontend/development/guidelines"
           },
           {
             "kind": "link",
             "slug": "frontend/development/testing",
-            "title": "B. 定式和测试",
+            "title": "Linting and tests",
             "href": "/frontend/development/testing"
           },
           {
             "kind": "link",
             "slug": "frontend/development/builds",
-            "title": "构建",
+            "title": "Builds",
             "href": "/frontend/development/builds"
           },
           {
             "kind": "link",
             "slug": "frontend/development/pull-requests",
-            "title": "打开 pull request",
+            "title": "Open a pull request",
             "href": "/frontend/development/pull-requests"
           },
           {
             "kind": "link",
             "slug": "frontend/development/review-and-release",
-            "title": "审查和发布",
+            "title": "审查与发布",
             "href": "/frontend/development/review-and-release"
           }
         ]
@@ -7380,44 +7380,44 @@
           {
             "kind": "link",
             "slug": "frontend/architecture/components",
-            "title": "构成部分和语文",
+            "title": "Components and Lit",
             "href": "/frontend/architecture/components"
           },
           {
             "kind": "link",
             "slug": "frontend/architecture/hass-and-contexts",
-            "title": "对象和背景",
+            "title": "The hass object and contexts",
             "href": "/frontend/architecture/hass-and-contexts"
           },
           {
             "kind": "link",
             "slug": "frontend/architecture/data",
-            "title": "数据已为层",
+            "title": "数据层",
             "href": "/frontend/architecture/data"
           },
           {
             "kind": "link",
             "slug": "frontend/architecture/translations",
-            "title": "前端的翻译",
+            "title": "Translations in the frontend",
             "href": "/frontend/architecture/translations"
           },
           {
             "kind": "link",
             "slug": "frontend/architecture/theming",
-            "title": "设计符号",
+            "title": "Theming and design tokens",
             "href": "/frontend/architecture/theming"
           },
           {
             "kind": "link",
             "slug": "frontend/architecture/routing-and-panels",
-            "title": "路线和面板",
+            "title": "Routing and panels",
             "href": "/frontend/architecture/routing-and-panels"
           }
         ]
       },
       {
         "kind": "folder",
-        "title": "蓓丝卡及更多",
+        "title": "自定义卡片及其他",
         "children": [
           {
             "kind": "link",
@@ -7428,49 +7428,49 @@
           {
             "kind": "link",
             "slug": "frontend/custom-ui/resources",
-            "title": "登记资源",
+            "title": "Register resources",
             "href": "/frontend/custom-ui/resources"
           },
           {
             "kind": "link",
             "slug": "frontend/custom-ui/card",
-            "title": "自定义卡",
+            "title": "Custom cards",
             "href": "/frontend/custom-ui/card"
           },
           {
             "kind": "link",
             "slug": "frontend/custom-ui/card-editor",
-            "title": "卡片编辑器和拾卡器",
+            "title": "Card editor and picker",
             "href": "/frontend/custom-ui/card-editor"
           },
           {
             "kind": "link",
             "slug": "frontend/custom-ui/card-feature",
-            "title": "自定义卡特性",
+            "title": "Custom card features",
             "href": "/frontend/custom-ui/card-feature"
           },
           {
             "kind": "link",
             "slug": "frontend/custom-ui/badge",
-            "title": "自及其家庭徽章",
+            "title": "Custom badges",
             "href": "/frontend/custom-ui/badge"
           },
           {
             "kind": "link",
             "slug": "frontend/custom-ui/strategy",
-            "title": "自定义策略",
+            "title": "Custom strategies",
             "href": "/frontend/custom-ui/strategy"
           },
           {
             "kind": "link",
             "slug": "frontend/custom-ui/view",
-            "title": "自定义视图",
+            "title": "Custom views",
             "href": "/frontend/custom-ui/view"
           },
           {
             "kind": "link",
             "slug": "frontend/custom-ui/panel",
-            "title": "自定义面板",
+            "title": "Custom panels",
             "href": "/frontend/custom-ui/panel"
           },
           {
@@ -7494,19 +7494,19 @@
           {
             "kind": "link",
             "slug": "frontend/extending/more-info",
-            "title": "添加更多信息视图",
+            "title": "Add a more-info view",
             "href": "/frontend/extending/more-info"
           },
           {
             "kind": "link",
             "slug": "frontend/extending/state-card",
-            "title": "添加状态卡",
+            "title": "Add a state card",
             "href": "/frontend/extending/state-card"
           },
           {
             "kind": "link",
             "slug": "frontend/extending/websocket-api",
-            "title": "旨在使命令添加 WebSocket",
+            "title": "Add a WebSocket command",
             "href": "/frontend/extending/websocket-api"
           }
         ]
@@ -7524,25 +7524,25 @@
           {
             "kind": "link",
             "slug": "frontend/reference/commands",
-            "title": "图标",
+            "title": "Commands",
             "href": "/frontend/reference/commands"
           },
           {
             "kind": "link",
             "slug": "frontend/reference/hass-object",
-            "title": "隐藏对象",
+            "title": "hass 对象",
             "href": "/frontend/reference/hass-object"
           },
           {
             "kind": "link",
             "slug": "frontend/reference/external-auth",
-            "title": "外部认证",
+            "title": "External authentication",
             "href": "/frontend/reference/external-auth"
           },
           {
             "kind": "link",
             "slug": "frontend/reference/external-bus",
-            "title": "外部总线",
+            "title": "External bus",
             "href": "/frontend/reference/external-bus"
           }
         ]
@@ -7564,19 +7564,19 @@
       {
         "kind": "link",
         "slug": "apps/first-app",
-        "title": "你的第一个应用",
+        "title": "Your first app",
         "href": "/apps/first-app"
       },
       {
         "kind": "link",
         "slug": "apps/build-a-real-app",
-        "title": "构建一个真正的应用",
+        "title": "Build a real app",
         "href": "/apps/build-a-real-app"
       },
       {
         "kind": "link",
         "slug": "apps/how-apps-work",
-        "title": "应用程序如何工作",
+        "title": "How apps work",
         "href": "/apps/how-apps-work"
       },
       {
@@ -7592,7 +7592,7 @@
           {
             "kind": "link",
             "slug": "apps/guides/dockerfile",
-            "title": "构建容器镜像",
+            "title": "Build the container image",
             "href": "/apps/guides/dockerfile"
           },
           {
@@ -7604,61 +7604,61 @@
           {
             "kind": "link",
             "slug": "apps/guides/options",
-            "title": "添加选项",
+            "title": "Add options",
             "href": "/apps/guides/options"
           },
           {
             "kind": "link",
             "slug": "apps/guides/hardware",
-            "title": "访问硬件和主机",
+            "title": "Access hardware and the host",
             "href": "/apps/guides/hardware"
           },
           {
             "kind": "link",
             "slug": "apps/guides/communication",
-            "title": "和Home Assistant以及Supervisor谈谈",
+            "title": "Talk to Home Assistant and the Supervisor",
             "href": "/apps/guides/communication"
           },
           {
             "kind": "link",
             "slug": "apps/guides/ingress",
-            "title": "添加一个带有入口的网页界面",
+            "title": "Add a web interface with ingress",
             "href": "/apps/guides/ingress"
           },
           {
             "kind": "link",
             "slug": "apps/guides/services-discovery",
-            "title": "共享服务并发现集成",
+            "title": "Share services and discover integrations",
             "href": "/apps/guides/services-discovery"
           },
           {
             "kind": "link",
             "slug": "apps/guides/testing",
-            "title": "测试你的应用",
+            "title": "Test your app",
             "href": "/apps/guides/testing"
           },
           {
             "kind": "link",
             "slug": "apps/guides/security",
-            "title": "保护你的应用",
+            "title": "Secure your app",
             "href": "/apps/guides/security"
           },
           {
             "kind": "link",
             "slug": "apps/guides/presentation",
-            "title": "展示你的应用",
+            "title": "Present your app",
             "href": "/apps/guides/presentation"
           },
           {
             "kind": "link",
             "slug": "apps/guides/publishing",
-            "title": "发布你的应用",
+            "title": "Publish your app",
             "href": "/apps/guides/publishing"
           },
           {
             "kind": "link",
             "slug": "apps/guides/repository",
-            "title": "创建并共享一个仓库",
+            "title": "Create and share a repository",
             "href": "/apps/guides/repository"
           }
         ]
@@ -7676,32 +7676,32 @@
           {
             "kind": "link",
             "slug": "apps/reference/configuration",
-            "title": "应用配置",
+            "title": "App configuration",
             "href": "/apps/reference/configuration"
           },
           {
             "kind": "link",
             "slug": "apps/reference/files",
-            "title": "应用文件",
+            "title": "App files",
             "href": "/apps/reference/files"
           },
           {
             "kind": "link",
             "slug": "apps/reference/environment",
-            "title": "运行时环境",
+            "title": "Runtime environment",
             "href": "/apps/reference/environment"
           },
           {
             "kind": "link",
             "slug": "apps/reference/security-rating",
-            "title": "安全评级",
+            "title": "Security rating",
             "href": "/apps/reference/security-rating"
           }
         ]
       },
       {
         "kind": "folder",
-        "title": "芭蕉",
+        "title": "Bashio",
         "children": [
           {
             "kind": "link",
@@ -7724,7 +7724,7 @@
           {
             "kind": "link",
             "slug": "apps/bashio/apps",
-            "title": "应用程序",
+            "title": "应用",
             "href": "/apps/bashio/apps"
           },
           {
@@ -7772,7 +7772,7 @@
           {
             "kind": "link",
             "slug": "apps/supervisor-api/apps",
-            "title": "应用程序",
+            "title": "应用",
             "href": "/apps/supervisor-api/apps"
           },
           {
@@ -7842,7 +7842,7 @@
       {
         "kind": "link",
         "slug": "marketplace/how-it-works",
-        "title": "它是如何运作的",
+        "title": "工作原理",
         "href": "/marketplace/how-it-works"
       },
       {
@@ -7912,25 +7912,25 @@
           {
             "kind": "link",
             "slug": "marketplace/reference/hacs-json",
-            "title": "哈克斯. 贾森",
+            "title": "hacs.json",
             "href": "/marketplace/reference/hacs-json"
           },
           {
             "kind": "link",
             "slug": "marketplace/reference/repository-structure",
-            "title": "仓库结构",
+            "title": "Repository structure",
             "href": "/marketplace/reference/repository-structure"
           },
           {
             "kind": "link",
             "slug": "marketplace/reference/validation",
-            "title": "验证检查",
+            "title": "Validation checks",
             "href": "/marketplace/reference/validation"
           },
           {
             "kind": "link",
             "slug": "marketplace/reference/theme-variables",
-            "title": "主题变量",
+            "title": "Theme variables",
             "href": "/marketplace/reference/theme-variables"
           }
         ]
@@ -7961,12 +7961,12 @@
           },
           {
             "kind": "folder",
-            "title": "设置",
+            "title": "开始设置",
             "children": [
               {
                 "kind": "link",
                 "slug": "companion/android/get-started",
-                "title": "开始",
+                "title": "开始贡献",
                 "href": "/companion/android/get-started"
               },
               {
@@ -7996,7 +7996,7 @@
               {
                 "kind": "link",
                 "slug": "companion/android/frontend-screen",
-                "title": "前端屏幕",
+                "title": "The frontend screen",
                 "href": "/companion/android/frontend-screen"
               },
               {
@@ -8009,7 +8009,7 @@
           },
           {
             "kind": "folder",
-            "title": "写代码",
+            "title": "编写代码",
             "children": [
               {
                 "kind": "link",
@@ -8075,7 +8075,7 @@
           },
           {
             "kind": "folder",
-            "title": "船",
+            "title": "发布上线",
             "children": [
               {
                 "kind": "link",
@@ -8112,7 +8112,7 @@
           {
             "kind": "link",
             "slug": "companion/apple/get-started",
-            "title": "开始",
+            "title": "开始贡献",
             "href": "/companion/apple/get-started"
           },
           {
@@ -8172,37 +8172,37 @@
           {
             "kind": "link",
             "slug": "companion/mobile-app-api/setup",
-            "title": "连接与注册",
+            "title": "Connect and register",
             "href": "/companion/mobile-app-api/setup"
           },
           {
             "kind": "link",
             "slug": "companion/mobile-app-api/sending-data",
-            "title": "发送数据",
+            "title": "Send data",
             "href": "/companion/mobile-app-api/sending-data"
           },
           {
             "kind": "link",
             "slug": "companion/mobile-app-api/encryption",
-            "title": "加密",
+            "title": "Encryption",
             "href": "/companion/mobile-app-api/encryption"
           },
           {
             "kind": "link",
             "slug": "companion/mobile-app-api/sensors",
-            "title": "传感器",
+            "title": "Sensors",
             "href": "/companion/mobile-app-api/sensors"
           },
           {
             "kind": "link",
             "slug": "companion/mobile-app-api/notifications",
-            "title": "通知",
+            "title": "Notifications",
             "href": "/companion/mobile-app-api/notifications"
           },
           {
             "kind": "link",
             "slug": "companion/mobile-app-api/webview",
-            "title": "WebView",
+            "title": "Web view",
             "href": "/companion/mobile-app-api/webview"
           }
         ]
@@ -8224,7 +8224,7 @@
       {
         "kind": "link",
         "slug": "os/installation-types",
-        "title": "安装类型",
+        "title": "Installation types",
         "href": "/os/installation-types"
       },
       {
@@ -8244,13 +8244,13 @@
               {
                 "kind": "link",
                 "slug": "os/operating-system/build",
-                "title": "构建图像",
+                "title": "Build an image",
                 "href": "/os/operating-system/build"
               },
               {
                 "kind": "link",
                 "slug": "os/operating-system/test",
-                "title": "测试你的构建",
+                "title": "Test your build",
                 "href": "/os/operating-system/test"
               },
               {
@@ -8274,7 +8274,7 @@
               {
                 "kind": "link",
                 "slug": "os/operating-system/releases",
-                "title": "发布与构建",
+                "title": "Releases and builds",
                 "href": "/os/operating-system/releases"
               }
             ]
@@ -8286,37 +8286,37 @@
               {
                 "kind": "link",
                 "slug": "os/operating-system/partitions",
-                "title": "分区",
+                "title": "Partitions",
                 "href": "/os/operating-system/partitions"
               },
               {
                 "kind": "link",
                 "slug": "os/operating-system/update-system",
-                "title": "更新系统",
+                "title": "The update system",
                 "href": "/os/operating-system/update-system"
               },
               {
                 "kind": "link",
                 "slug": "os/operating-system/board-metadata",
-                "title": "板元数据",
+                "title": "Board metadata",
                 "href": "/os/operating-system/board-metadata"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "董事会",
+            "title": "开发板",
             "children": [
               {
                 "kind": "link",
                 "slug": "os/operating-system/boards",
-                "title": "支持的主板",
+                "title": "Supported boards",
                 "href": "/os/operating-system/boards"
               },
               {
                 "kind": "link",
                 "slug": "os/operating-system/raspberry-pi",
-                "title": "树莓派",
+                "title": "Raspberry Pi",
                 "href": "/os/operating-system/raspberry-pi"
               },
               {
@@ -8334,7 +8334,7 @@
               {
                 "kind": "link",
                 "slug": "os/operating-system/virtual-machine",
-                "title": "虚拟机",
+                "title": "Virtual machines",
                 "href": "/os/operating-system/virtual-machine"
               }
             ]
@@ -8353,7 +8353,7 @@
           },
           {
             "kind": "folder",
-            "title": "它是如何运作的",
+            "title": "工作原理",
             "children": [
               {
                 "kind": "link",
@@ -8364,19 +8364,19 @@
               {
                 "kind": "link",
                 "slug": "os/supervisor/jobs",
-                "title": "工作",
+                "title": "Jobs",
                 "href": "/os/supervisor/jobs"
               },
               {
                 "kind": "link",
                 "slug": "os/supervisor/resolution-center",
-                "title": "解析中心",
+                "title": "The resolution center",
                 "href": "/os/supervisor/resolution-center"
               },
               {
                 "kind": "link",
                 "slug": "os/supervisor/plugins",
-                "title": "插件",
+                "title": "Plugins",
                 "href": "/os/supervisor/plugins"
               }
             ]
@@ -8388,19 +8388,19 @@
               {
                 "kind": "link",
                 "slug": "os/supervisor/development",
-                "title": "发展环境",
+                "title": "开发环境",
                 "href": "/os/supervisor/development"
               },
               {
                 "kind": "link",
                 "slug": "os/supervisor/debugging",
-                "title": "调试为解决 Supervisor",
+                "title": "调试 Supervisor",
                 "href": "/os/supervisor/debugging"
               },
               {
                 "kind": "link",
                 "slug": "os/supervisor/core-connection",
-                "title": "连接核心到 Supervisor",
+                "title": "Connect Core to a Supervisor",
                 "href": "/os/supervisor/core-connection"
               }
             ]
@@ -8424,7 +8424,7 @@
       {
         "kind": "link",
         "slug": "design/how-we-design",
-        "title": "我们如何设计",
+        "title": "How we design",
         "href": "/design/how-we-design"
       },
       {
@@ -8441,7 +8441,7 @@
       },
       {
         "kind": "folder",
-        "title": "基金会",
+        "title": "基础",
         "children": [
           {
             "kind": "link",
@@ -8452,37 +8452,37 @@
           {
             "kind": "link",
             "slug": "design/foundations/color",
-            "title": "的结论",
+            "title": "Color",
             "href": "/design/foundations/color"
           },
           {
             "kind": "link",
             "slug": "design/foundations/typography",
-            "title": "类型",
+            "title": "Typography",
             "href": "/design/foundations/typography"
           },
           {
             "kind": "link",
             "slug": "design/foundations/spacing",
-            "title": "间距",
+            "title": "Spacing",
             "href": "/design/foundations/spacing"
           },
           {
             "kind": "link",
             "slug": "design/foundations/layout",
-            "title": "版式",
+            "title": "Layout",
             "href": "/design/foundations/layout"
           },
           {
             "kind": "link",
             "slug": "design/foundations/accessibility",
-            "title": "无障碍",
+            "title": "Accessibility",
             "href": "/design/foundations/accessibility"
           },
           {
             "kind": "link",
             "slug": "design/foundations/motion",
-            "title": "动议",
+            "title": "Motion",
             "href": "/design/foundations/motion"
           }
         ]
@@ -8499,24 +8499,24 @@
           },
           {
             "kind": "folder",
-            "title": "动作",
+            "title": "操作",
             "children": [
               {
                 "kind": "link",
-                "slug": "design/components/dropdown",
-                "title": "下拉菜单",
-                "href": "/design/components/dropdown"
-              },
-              {
-                "kind": "link",
                 "slug": "design/components/button",
-                "title": "按钮",
+                "title": "Button",
                 "href": "/design/components/button"
               },
               {
                 "kind": "link",
+                "slug": "design/components/dropdown",
+                "title": "Dropdown",
+                "href": "/design/components/dropdown"
+              },
+              {
+                "kind": "link",
                 "slug": "design/components/progress-button",
-                "title": "进度按钮",
+                "title": "Progress button",
                 "href": "/design/components/progress-button"
               }
             ]
@@ -8527,80 +8527,80 @@
             "children": [
               {
                 "kind": "link",
-                "slug": "design/components/switch",
-                "title": "开关",
-                "href": "/design/components/switch"
-              },
-              {
-                "kind": "link",
-                "slug": "design/components/textarea",
-                "title": "文本区域",
-                "href": "/design/components/textarea"
-              },
-              {
-                "kind": "link",
-                "slug": "design/components/input",
-                "title": "文本输入",
-                "href": "/design/components/input"
-              },
-              {
-                "kind": "link",
-                "slug": "design/components/slider",
-                "title": "滑块",
-                "href": "/design/components/slider"
+                "slug": "design/components/color-picker",
+                "title": "Color picker",
+                "href": "/design/components/color-picker"
               },
               {
                 "kind": "link",
                 "slug": "design/components/select-box",
-                "title": "选择框",
+                "title": "Select box",
                 "href": "/design/components/select-box"
               },
               {
                 "kind": "link",
-                "slug": "design/components/color-picker",
-                "title": "颜色选择器",
-                "href": "/design/components/color-picker"
+                "slug": "design/components/slider",
+                "title": "Slider",
+                "href": "/design/components/slider"
+              },
+              {
+                "kind": "link",
+                "slug": "design/components/switch",
+                "title": "Switch",
+                "href": "/design/components/switch"
+              },
+              {
+                "kind": "link",
+                "slug": "design/components/input",
+                "title": "Text input",
+                "href": "/design/components/input"
+              },
+              {
+                "kind": "link",
+                "slug": "design/components/textarea",
+                "title": "Textarea",
+                "href": "/design/components/textarea"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "采摘者",
+            "title": "选择器",
             "children": [
               {
                 "kind": "link",
                 "slug": "design/components/area-picker",
-                "title": "区域选择器",
+                "title": "Area picker",
                 "href": "/design/components/area-picker"
               },
               {
                 "kind": "link",
-                "slug": "design/components/entity-picker",
-                "title": "实体选择器",
-                "href": "/design/components/entity-picker"
+                "slug": "design/components/device-picker",
+                "title": "Device picker",
+                "href": "/design/components/device-picker"
               },
               {
                 "kind": "link",
-                "slug": "design/components/device-picker",
-                "title": "设备选择器",
-                "href": "/design/components/device-picker"
+                "slug": "design/components/entity-picker",
+                "title": "Entity picker",
+                "href": "/design/components/entity-picker"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "表格",
+            "title": "表单",
             "children": [
               {
                 "kind": "link",
                 "slug": "design/components/form",
-                "title": "表格",
+                "title": "Form",
                 "href": "/design/components/form"
               },
               {
                 "kind": "link",
                 "slug": "design/components/selector",
-                "title": "选择器",
+                "title": "Selector",
                 "href": "/design/components/selector"
               }
             ]
@@ -8611,122 +8611,122 @@
             "children": [
               {
                 "kind": "link",
-                "slug": "design/components/dialog",
-                "title": "对话",
-                "href": "/design/components/dialog"
-              },
-              {
-                "kind": "link",
-                "slug": "design/components/tip",
-                "title": "小费",
-                "href": "/design/components/tip"
-              },
-              {
-                "kind": "link",
-                "slug": "design/components/state-icon",
-                "title": "州图标",
-                "href": "/design/components/state-icon"
-              },
-              {
-                "kind": "link",
-                "slug": "design/components/tooltip",
-                "title": "工具提示",
-                "href": "/design/components/tooltip"
-              },
-              {
-                "kind": "link",
-                "slug": "design/components/badge",
-                "title": "徽章",
-                "href": "/design/components/badge"
-              },
-              {
-                "kind": "link",
-                "slug": "design/components/spinner",
-                "title": "旋转器",
-                "href": "/design/components/spinner"
-              },
-              {
-                "kind": "link",
-                "slug": "design/components/label-badge",
-                "title": "标签徽章",
-                "href": "/design/components/label-badge"
-              },
-              {
-                "kind": "link",
                 "slug": "design/components/adaptive-dialog",
-                "title": "自适应对话",
+                "title": "Adaptive dialog",
                 "href": "/design/components/adaptive-dialog"
               },
               {
                 "kind": "link",
                 "slug": "design/components/alert",
-                "title": "警报",
+                "title": "Alert",
                 "href": "/design/components/alert"
+              },
+              {
+                "kind": "link",
+                "slug": "design/components/badge",
+                "title": "Badge",
+                "href": "/design/components/badge"
+              },
+              {
+                "kind": "link",
+                "slug": "design/components/dialog",
+                "title": "Dialog",
+                "href": "/design/components/dialog"
+              },
+              {
+                "kind": "link",
+                "slug": "design/components/label-badge",
+                "title": "Label badge",
+                "href": "/design/components/label-badge"
+              },
+              {
+                "kind": "link",
+                "slug": "design/components/spinner",
+                "title": "Spinner",
+                "href": "/design/components/spinner"
+              },
+              {
+                "kind": "link",
+                "slug": "design/components/state-icon",
+                "title": "State icon",
+                "href": "/design/components/state-icon"
+              },
+              {
+                "kind": "link",
+                "slug": "design/components/tip",
+                "title": "Tip",
+                "href": "/design/components/tip"
+              },
+              {
+                "kind": "link",
+                "slug": "design/components/tooltip",
+                "title": "Tooltip",
+                "href": "/design/components/tooltip"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "显示数值",
+            "title": "数值展示",
             "children": [
               {
                 "kind": "link",
-                "slug": "design/components/controls",
-                "title": "控制",
-                "href": "/design/components/controls"
+                "slug": "design/components/bar",
+                "title": "Bar",
+                "href": "/design/components/bar"
               },
               {
                 "kind": "link",
                 "slug": "design/components/control-scrubber",
-                "title": "控制擦洗器",
+                "title": "Control scrubber",
                 "href": "/design/components/control-scrubber"
               },
               {
                 "kind": "link",
                 "slug": "design/components/gauge",
-                "title": "测量仪",
+                "title": "Gauge",
                 "href": "/design/components/gauge"
               },
               {
                 "kind": "link",
                 "slug": "design/components/select-menu",
-                "title": "选择菜单",
+                "title": "Select menu",
                 "href": "/design/components/select-menu"
               },
               {
                 "kind": "link",
-                "slug": "design/components/bar",
-                "title": "酒吧",
-                "href": "/design/components/bar"
+                "slug": "design/components/controls",
+                "title": "控制",
+                "href": "/design/components/controls"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "布局和内容",
+            "title": "布局与内容",
             "children": [
               {
                 "kind": "link",
-                "slug": "design/components/list",
-                "title": "列表",
-                "href": "/design/components/list"
-              },
-              {
-                "kind": "link",
                 "slug": "design/components/expansion-panel",
-                "title": "扩展面板",
+                "title": "Expansion panel",
                 "href": "/design/components/expansion-panel"
               },
               {
                 "kind": "link",
                 "slug": "design/components/faded",
-                "title": "褪色",
+                "title": "Faded",
                 "href": "/design/components/faded"
               },
               {
                 "kind": "link",
+                "slug": "design/components/list",
+                "title": "List",
+                "href": "/design/components/list"
+              },
+              {
+                "kind": "link",
                 "slug": "design/components/marquee-text",
-                "title": "跑马灯文字",
+                "title": "Marquee text",
                 "href": "/design/components/marquee-text"
               }
             ]
@@ -8735,7 +8735,7 @@
       },
       {
         "kind": "folder",
-        "title": "踌咕鹫衲ỡ turkey荚咀玄",
+        "title": "模式",
         "children": [
           {
             "kind": "link",
@@ -8746,31 +8746,31 @@
           {
             "kind": "link",
             "slug": "design/patterns/forms",
-            "title": "形式和鉴定",
+            "title": "Forms and validation",
             "href": "/design/patterns/forms"
           },
           {
             "kind": "link",
             "slug": "design/patterns/loading",
-            "title": "正在装入",
+            "title": "Loading",
             "href": "/design/patterns/loading"
           },
           {
             "kind": "link",
             "slug": "design/patterns/empty-states",
-            "title": "空状态",
+            "title": "Empty states",
             "href": "/design/patterns/empty-states"
           },
           {
             "kind": "link",
             "slug": "design/patterns/errors",
-            "title": "错误和消息",
+            "title": "Errors and messages",
             "href": "/design/patterns/errors"
           },
           {
             "kind": "link",
             "slug": "design/patterns/confirmations",
-            "title": "确认和撤消",
+            "title": "Confirmations and undo",
             "href": "/design/patterns/confirmations"
           }
         ]
@@ -8787,42 +8787,42 @@
           },
           {
             "kind": "folder",
-            "title": "实体卡",
+            "title": "实体卡片",
             "children": [
               {
                 "kind": "link",
-                "slug": "design/dashboards/glance-card",
-                "title": "一览卡",
-                "href": "/design/dashboards/glance-card"
+                "slug": "design/dashboards/button-card",
+                "title": "Button card",
+                "href": "/design/dashboards/button-card"
               },
               {
                 "kind": "link",
                 "slug": "design/dashboards/entities-card",
-                "title": "实体卡",
+                "title": "Entities card",
                 "href": "/design/dashboards/entities-card"
               },
               {
                 "kind": "link",
                 "slug": "design/dashboards/entity-card",
-                "title": "实体卡",
+                "title": "Entity card",
                 "href": "/design/dashboards/entity-card"
               },
               {
                 "kind": "link",
                 "slug": "design/dashboards/entity-filter-card",
-                "title": "实体筛选卡",
+                "title": "Entity filter card",
                 "href": "/design/dashboards/entity-filter-card"
               },
               {
                 "kind": "link",
-                "slug": "design/dashboards/button-card",
-                "title": "按钮卡",
-                "href": "/design/dashboards/button-card"
+                "slug": "design/dashboards/glance-card",
+                "title": "Glance card",
+                "href": "/design/dashboards/glance-card"
               },
               {
                 "kind": "link",
                 "slug": "design/dashboards/tile-card",
-                "title": "纸牌",
+                "title": "Tile card",
                 "href": "/design/dashboards/tile-card"
               }
             ]
@@ -8833,39 +8833,39 @@
             "children": [
               {
                 "kind": "link",
-                "slug": "design/dashboards/humidifier-card",
-                "title": "加湿器卡",
-                "href": "/design/dashboards/humidifier-card"
-              },
-              {
-                "kind": "link",
-                "slug": "design/dashboards/media-control-card",
-                "title": "媒体控制卡",
-                "href": "/design/dashboards/media-control-card"
-              },
-              {
-                "kind": "link",
-                "slug": "design/dashboards/todo-list-card",
-                "title": "待办名片",
-                "href": "/design/dashboards/todo-list-card"
-              },
-              {
-                "kind": "link",
                 "slug": "design/dashboards/alarm-panel-card",
-                "title": "报警面板卡",
+                "title": "Alarm panel card",
                 "href": "/design/dashboards/alarm-panel-card"
               },
               {
                 "kind": "link",
-                "slug": "design/dashboards/thermostat-card",
-                "title": "自动调温卡",
-                "href": "/design/dashboards/thermostat-card"
+                "slug": "design/dashboards/humidifier-card",
+                "title": "Humidifier card",
+                "href": "/design/dashboards/humidifier-card"
               },
               {
                 "kind": "link",
                 "slug": "design/dashboards/light-card",
-                "title": "轻卡",
+                "title": "Light card",
                 "href": "/design/dashboards/light-card"
+              },
+              {
+                "kind": "link",
+                "slug": "design/dashboards/media-control-card",
+                "title": "Media control card",
+                "href": "/design/dashboards/media-control-card"
+              },
+              {
+                "kind": "link",
+                "slug": "design/dashboards/thermostat-card",
+                "title": "Thermostat card",
+                "href": "/design/dashboards/thermostat-card"
+              },
+              {
+                "kind": "link",
+                "slug": "design/dashboards/todo-list-card",
+                "title": "To-do list card",
+                "href": "/design/dashboards/todo-list-card"
               }
             ]
           },
@@ -8875,51 +8875,51 @@
             "children": [
               {
                 "kind": "link",
-                "slug": "design/dashboards/weather-forecast-card",
-                "title": "人种 .",
-                "href": "/design/dashboards/weather-forecast-card"
+                "slug": "design/dashboards/clock-card",
+                "title": "Clock card",
+                "href": "/design/dashboards/clock-card"
               },
               {
                 "kind": "link",
-                "slug": "design/dashboards/sensor-card",
-                "title": "传感器卡",
-                "href": "/design/dashboards/sensor-card"
+                "slug": "design/dashboards/gauge-card",
+                "title": "Gauge card",
+                "href": "/design/dashboards/gauge-card"
               },
               {
                 "kind": "link",
                 "slug": "design/dashboards/history-graph-card",
-                "title": "历史图表卡",
+                "title": "History graph card",
                 "href": "/design/dashboards/history-graph-card"
               },
               {
                 "kind": "link",
                 "slug": "design/dashboards/map-card",
-                "title": "地图卡",
+                "title": "Map card",
                 "href": "/design/dashboards/map-card"
               },
               {
                 "kind": "link",
-                "slug": "design/dashboards/plant-status-card",
-                "title": "工厂状况卡",
-                "href": "/design/dashboards/plant-status-card"
-              },
-              {
-                "kind": "link",
-                "slug": "design/dashboards/clock-card",
-                "title": "打卡卡",
-                "href": "/design/dashboards/clock-card"
-              },
-              {
-                "kind": "link",
                 "slug": "design/dashboards/markdown-card",
-                "title": "标记卡",
+                "title": "Markdown card",
                 "href": "/design/dashboards/markdown-card"
               },
               {
                 "kind": "link",
-                "slug": "design/dashboards/gauge-card",
-                "title": "量规卡",
-                "href": "/design/dashboards/gauge-card"
+                "slug": "design/dashboards/plant-status-card",
+                "title": "Plant status card",
+                "href": "/design/dashboards/plant-status-card"
+              },
+              {
+                "kind": "link",
+                "slug": "design/dashboards/sensor-card",
+                "title": "Sensor card",
+                "href": "/design/dashboards/sensor-card"
+              },
+              {
+                "kind": "link",
+                "slug": "design/dashboards/weather-forecast-card",
+                "title": "Weather forecast card",
+                "href": "/design/dashboards/weather-forecast-card"
               }
             ]
           },
@@ -8930,61 +8930,61 @@
               {
                 "kind": "link",
                 "slug": "design/dashboards/area-card",
-                "title": "区域卡",
+                "title": "Area card",
                 "href": "/design/dashboards/area-card"
               },
               {
                 "kind": "link",
                 "slug": "design/dashboards/conditional-card",
-                "title": "条件卡",
+                "title": "Conditional card",
                 "href": "/design/dashboards/conditional-card"
               },
               {
                 "kind": "link",
-                "slug": "design/dashboards/heading-card",
-                "title": "标题卡",
-                "href": "/design/dashboards/heading-card"
+                "slug": "design/dashboards/grid-card",
+                "title": "Grid and stack cards",
+                "href": "/design/dashboards/grid-card"
               },
               {
                 "kind": "link",
-                "slug": "design/dashboards/grid-card",
-                "title": "网格和堆叠卡片",
-                "href": "/design/dashboards/grid-card"
+                "slug": "design/dashboards/heading-card",
+                "title": "Heading card",
+                "href": "/design/dashboards/heading-card"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "不用 页所提供的就有业已协商 为什么 就是的支持支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援 支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援 支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援支援",
+            "title": "媒体与图片",
             "children": [
               {
                 "kind": "link",
-                "slug": "design/dashboards/picture-elements-card",
-                "title": "图片元素卡",
-                "href": "/design/dashboards/picture-elements-card"
-              },
-              {
-                "kind": "link",
                 "slug": "design/dashboards/picture-card",
-                "title": "图片卡",
+                "title": "Picture card",
                 "href": "/design/dashboards/picture-card"
               },
               {
                 "kind": "link",
+                "slug": "design/dashboards/picture-elements-card",
+                "title": "Picture elements card",
+                "href": "/design/dashboards/picture-elements-card"
+              },
+              {
+                "kind": "link",
                 "slug": "design/dashboards/picture-entity-card",
-                "title": "图片实体卡",
+                "title": "Picture entity card",
                 "href": "/design/dashboards/picture-entity-card"
               },
               {
                 "kind": "link",
                 "slug": "design/dashboards/picture-glance-card",
-                "title": "图片浏览卡",
+                "title": "Picture glance card",
                 "href": "/design/dashboards/picture-glance-card"
               },
               {
                 "kind": "link",
                 "slug": "design/dashboards/iframe-card",
-                "title": "网页卡",
+                "title": "Webpage card",
                 "href": "/design/dashboards/iframe-card"
               }
             ]
@@ -8993,7 +8993,7 @@
       },
       {
         "kind": "folder",
-        "title": "更多信息ppe",
+        "title": "更多信息",
         "children": [
           {
             "kind": "link",
@@ -9003,66 +9003,66 @@
           },
           {
             "kind": "folder",
-            "title": "灯光和气候",
+            "title": "灯光与气候",
             "children": [
               {
                 "kind": "link",
-                "slug": "design/more-info/light",
-                "title": "光线",
-                "href": "/design/more-info/light"
-              },
-              {
-                "kind": "link",
                 "slug": "design/more-info/climate",
-                "title": "气候",
+                "title": "Climate",
                 "href": "/design/more-info/climate"
               },
               {
                 "kind": "link",
+                "slug": "design/more-info/fan",
+                "title": "Fan",
+                "href": "/design/more-info/fan"
+              },
+              {
+                "kind": "link",
                 "slug": "design/more-info/humidifier",
-                "title": "湿度",
+                "title": "Humidifier",
                 "href": "/design/more-info/humidifier"
               },
               {
                 "kind": "link",
-                "slug": "design/more-info/water-heater",
-                "title": "热水器",
-                "href": "/design/more-info/water-heater"
+                "slug": "design/more-info/light",
+                "title": "Light",
+                "href": "/design/more-info/light"
               },
               {
                 "kind": "link",
-                "slug": "design/more-info/fan",
-                "title": "风扇",
-                "href": "/design/more-info/fan"
+                "slug": "design/more-info/water-heater",
+                "title": "Water heater",
+                "href": "/design/more-info/water-heater"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "开幕和安全",
+            "title": "开合与安防",
             "children": [
               {
                 "kind": "link",
-                "slug": "design/more-info/cover",
-                "title": "覆盖",
-                "href": "/design/more-info/cover"
-              },
-              {
-                "kind": "link",
                 "slug": "design/more-info/alarm-control-panel",
-                "title": "警报控制面板",
+                "title": "Alarm control panel",
                 "href": "/design/more-info/alarm-control-panel"
               },
               {
                 "kind": "link",
+                "slug": "design/more-info/cover",
+                "title": "Cover",
+                "href": "/design/more-info/cover"
+              },
+              {
+                "kind": "link",
                 "slug": "design/more-info/lock",
-                "title": "锁定",
+                "title": "Lock",
                 "href": "/design/more-info/lock"
               },
               {
                 "kind": "link",
                 "slug": "design/more-info/valve",
-                "title": "阀门",
+                "title": "Valve",
                 "href": "/design/more-info/valve"
               }
             ]
@@ -9074,74 +9074,74 @@
               {
                 "kind": "link",
                 "slug": "design/more-info/media-player",
-                "title": "媒体播放器",
+                "title": "Media player",
                 "href": "/design/more-info/media-player"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "应用程序",
+            "title": "家电",
             "children": [
               {
                 "kind": "link",
                 "slug": "design/more-info/lawn-mower",
-                "title": "割草机",
+                "title": "Lawn mower",
                 "href": "/design/more-info/lawn-mower"
               },
               {
                 "kind": "link",
                 "slug": "design/more-info/switch",
-                "title": "开关",
+                "title": "Switch",
                 "href": "/design/more-info/switch"
               },
               {
                 "kind": "link",
-                "slug": "design/more-info/vacuum",
-                "title": "真空",
-                "href": "/design/more-info/vacuum"
+                "slug": "design/more-info/update",
+                "title": "Update",
+                "href": "/design/more-info/update"
               },
               {
                 "kind": "link",
-                "slug": "design/more-info/update",
-                "title": "知道了 更新",
-                "href": "/design/more-info/update"
+                "slug": "design/more-info/vacuum",
+                "title": "Vacuum",
+                "href": "/design/more-info/vacuum"
               }
             ]
           },
           {
             "kind": "folder",
-            "title": "帮助者",
+            "title": "助手",
             "children": [
               {
                 "kind": "link",
-                "slug": "design/more-info/scene",
-                "title": "场景",
-                "href": "/design/more-info/scene"
-              },
-              {
-                "kind": "link",
-                "slug": "design/more-info/number",
-                "title": "数目",
-                "href": "/design/more-info/number"
-              },
-              {
-                "kind": "link",
-                "slug": "design/more-info/timer",
-                "title": "计时器",
-                "href": "/design/more-info/timer"
+                "slug": "design/more-info/input-number",
+                "title": "Input number",
+                "href": "/design/more-info/input-number"
               },
               {
                 "kind": "link",
                 "slug": "design/more-info/input-text",
-                "title": "输入文本",
+                "title": "Input text",
                 "href": "/design/more-info/input-text"
               },
               {
                 "kind": "link",
-                "slug": "design/more-info/input-number",
-                "title": "输入编号",
-                "href": "/design/more-info/input-number"
+                "slug": "design/more-info/number",
+                "title": "Number",
+                "href": "/design/more-info/number"
+              },
+              {
+                "kind": "link",
+                "slug": "design/more-info/scene",
+                "title": "Scene",
+                "href": "/design/more-info/scene"
+              },
+              {
+                "kind": "link",
+                "slug": "design/more-info/timer",
+                "title": "Timer",
+                "href": "/design/more-info/timer"
               }
             ]
           },
@@ -9152,20 +9152,20 @@
               {
                 "kind": "link",
                 "slug": "design/more-info/person",
-                "title": "加 进",
+                "title": "Person",
                 "href": "/design/more-info/person"
               },
               {
                 "kind": "link",
-                "slug": "design/more-info/weather",
-                "title": "天气",
-                "href": "/design/more-info/weather"
+                "slug": "design/more-info/sun",
+                "title": "Sun",
+                "href": "/design/more-info/sun"
               },
               {
                 "kind": "link",
-                "slug": "design/more-info/sun",
-                "title": "太阳",
-                "href": "/design/more-info/sun"
+                "slug": "design/more-info/weather",
+                "title": "Weather",
+                "href": "/design/more-info/weather"
               }
             ]
           }
@@ -9173,7 +9173,7 @@
       },
       {
         "kind": "folder",
-        "title": "用户界面文本",
+        "title": "界面文本",
         "children": [
           {
             "kind": "link",
@@ -9184,19 +9184,19 @@
           {
             "kind": "link",
             "slug": "design/ui-text/buttons-and-labels",
-            "title": "按钮和标签",
+            "title": "Buttons and labels",
             "href": "/design/ui-text/buttons-and-labels"
           },
           {
             "kind": "link",
             "slug": "design/ui-text/messages",
-            "title": "信件",
+            "title": "Messages",
             "href": "/design/ui-text/messages"
           },
           {
             "kind": "link",
             "slug": "design/ui-text/remove-delete",
-            "title": "删除、删除、添加或创建",
+            "title": "Remove, delete, add, or create",
             "href": "/design/ui-text/remove-delete"
           }
         ]
@@ -9224,19 +9224,19 @@
       {
         "kind": "link",
         "slug": "brand/personality",
-        "title": "个性",
+        "title": "Personality",
         "href": "/brand/personality"
       },
       {
         "kind": "link",
         "slug": "brand/voice-and-tone",
-        "title": "声音与语气",
+        "title": "Voice and tone",
         "href": "/brand/voice-and-tone"
       },
       {
         "kind": "link",
         "slug": "brand/name-and-logo",
-        "title": "名称和标志",
+        "title": "Name and logo",
         "href": "/brand/name-and-logo"
       }
     ],
@@ -9256,7 +9256,7 @@
       {
         "kind": "link",
         "slug": "writing/how-it-works",
-        "title": "它是如何运作的",
+        "title": "工作原理",
         "href": "/writing/how-it-works"
       },
       {
@@ -9272,25 +9272,25 @@
           {
             "kind": "link",
             "slug": "writing/guides/structure",
-            "title": "结构 a 页",
+            "title": "组织页面结构",
             "href": "/writing/guides/structure"
           },
           {
             "kind": "link",
             "slug": "writing/guides/local-preview",
-            "title": "本地预览网站",
+            "title": "Preview the site locally",
             "href": "/writing/guides/local-preview"
           },
           {
             "kind": "link",
             "slug": "writing/guides/integration",
-            "title": "综合文件",
+            "title": "Document an integration",
             "href": "/writing/guides/integration"
           },
           {
             "kind": "link",
             "slug": "writing/guides/move-or-remove",
-            "title": "移动、重命名或删除页面",
+            "title": "Move, rename, or remove a page",
             "href": "/writing/guides/move-or-remove"
           }
         ]
@@ -9314,20 +9314,20 @@
           {
             "kind": "link",
             "slug": "writing/reference/images",
-            "title": "图像和录像",
+            "title": "Images and videos",
             "href": "/writing/reference/images"
           },
           {
             "kind": "link",
-            "slug": "writing/reference/yaml",
-            "title": "YAML 样式",
-            "href": "/writing/reference/yaml"
+            "slug": "writing/reference/liquid",
+            "title": "Liquid helpers",
+            "href": "/writing/reference/liquid"
           },
           {
             "kind": "link",
-            "slug": "writing/reference/liquid",
-            "title": "目录",
-            "href": "/writing/reference/liquid"
+            "slug": "writing/reference/yaml",
+            "title": "YAML style",
+            "href": "/writing/reference/yaml"
           },
           {
             "kind": "link",
@@ -9338,13 +9338,13 @@
           {
             "kind": "link",
             "slug": "writing/reference/front-matter",
-            "title": "一体化问题。",
+            "title": "集成 front matter",
             "href": "/writing/reference/front-matter"
           },
           {
             "kind": "link",
             "slug": "writing/reference/integration-page",
-            "title": "整合页面结构",
+            "title": "Integration page structure",
             "href": "/writing/reference/integration-page"
           }
         ]
@@ -9372,7 +9372,7 @@
       {
         "kind": "link",
         "slug": "translate/how-it-works",
-        "title": "它是如何运作的",
+        "title": "工作原理",
         "href": "/translate/how-it-works"
       },
       {
@@ -9388,19 +9388,19 @@
           {
             "kind": "link",
             "slug": "translate/guides/placeholders",
-            "title": "占位符和参考文献",
+            "title": "Placeholders and references",
             "href": "/translate/guides/placeholders"
           },
           {
             "kind": "link",
             "slug": "translate/guides/new-language",
-            "title": "请求新语言",
+            "title": "Request a new language",
             "href": "/translate/guides/new-language"
           },
           {
             "kind": "link",
             "slug": "translate/guides/developers",
-            "title": "让你的弦可变",
+            "title": "Make your strings translatable",
             "href": "/translate/guides/developers"
           }
         ]
@@ -9418,20 +9418,20 @@
           {
             "kind": "link",
             "slug": "translate/reference/rules",
-            "title": "翻译规则",
+            "title": "Translation rules",
             "href": "/translate/reference/rules"
           },
           {
             "kind": "link",
             "slug": "translate/reference/languages",
-            "title": "语文准则",
+            "title": "Language guidelines",
             "href": "/translate/reference/languages"
           }
         ]
       },
       {
         "kind": "folder",
-        "title": "声音",
+        "title": "语音",
         "children": [
           {
             "kind": "link",
@@ -9460,19 +9460,19 @@
           {
             "kind": "link",
             "slug": "translate/voice/languages",
-            "title": "支持的语言",
+            "title": "Supported languages",
             "href": "/translate/voice/languages"
           },
           {
             "kind": "link",
             "slug": "translate/voice/language-leaders",
-            "title": "语文领导人",
+            "title": "Language leaders",
             "href": "/translate/voice/language-leaders"
           },
           {
             "kind": "link",
             "slug": "translate/voice/contributing-your-voice",
-            "title": "贡献你的声音",
+            "title": "Contribute your voice",
             "href": "/translate/voice/contributing-your-voice"
           },
           {
@@ -9484,13 +9484,13 @@
           {
             "kind": "link",
             "slug": "translate/voice/test-syntax",
-            "title": "测试语法",
+            "title": "Test syntax",
             "href": "/translate/voice/test-syntax"
           },
           {
             "kind": "link",
             "slug": "translate/voice/intents",
-            "title": "内设意图",
+            "title": "Built-in intents",
             "href": "/translate/voice/intents"
           }
         ]
@@ -9522,31 +9522,31 @@
           {
             "kind": "link",
             "slug": "community/guides/welcome-newcomers",
-            "title": "欢迎新来的人",
+            "title": "Welcome newcomers",
             "href": "/community/guides/welcome-newcomers"
           },
           {
             "kind": "link",
             "slug": "community/guides/moderation",
-            "title": "审核是如何运作的",
+            "title": "How moderation works",
             "href": "/community/guides/moderation"
           },
           {
             "kind": "link",
             "slug": "community/guides/reporting",
-            "title": "报告问题",
+            "title": "Report a problem",
             "href": "/community/guides/reporting"
           },
           {
             "kind": "link",
             "slug": "community/guides/meetups",
-            "title": "举办聚会",
+            "title": "Host a meetup",
             "href": "/community/guides/meetups"
           },
           {
             "kind": "link",
             "slug": "community/guides/social-media",
-            "title": "社交媒体帮助",
+            "title": "Help on social media",
             "href": "/community/guides/social-media"
           }
         ]
@@ -9564,19 +9564,19 @@
           {
             "kind": "link",
             "slug": "community/reference/channels",
-            "title": "社区居住的地方",
+            "title": "Where the community lives",
             "href": "/community/reference/channels"
           },
           {
             "kind": "link",
             "slug": "community/reference/programs",
-            "title": "程序",
+            "title": "Programs",
             "href": "/community/reference/programs"
           },
           {
             "kind": "link",
             "slug": "community/reference/events",
-            "title": "事件与日历",
+            "title": "Events and calendar",
             "href": "/community/reference/events"
           }
         ]
@@ -9598,7 +9598,7 @@
       {
         "kind": "link",
         "slug": "releases/how-it-works",
-        "title": "它是如何运作的",
+        "title": "工作原理",
         "href": "/releases/how-it-works"
       },
       {
@@ -9614,25 +9614,25 @@
           {
             "kind": "link",
             "slug": "releases/guides/release-notes",
-            "title": "发行笔记和发行方",
+            "title": "Release notes and the release party",
             "href": "/releases/guides/release-notes"
           },
           {
             "kind": "link",
             "slug": "releases/guides/backward-incompatible-changes",
-            "title": "记录一个向后兼容的更改",
+            "title": "Document a backward-incompatible change",
             "href": "/releases/guides/backward-incompatible-changes"
           },
           {
             "kind": "link",
             "slug": "releases/guides/deprecations",
-            "title": "贬值的东西",
+            "title": "Deprecate something",
             "href": "/releases/guides/deprecations"
           },
           {
             "kind": "link",
             "slug": "releases/guides/patch-releases",
-            "title": "获得补丁释放",
+            "title": "Get a fix into a patch release",
             "href": "/releases/guides/patch-releases"
           }
         ]
@@ -9650,13 +9650,13 @@
           {
             "kind": "link",
             "slug": "releases/reference/versions",
-            "title": "版本和频道",
+            "title": "Versions and channels",
             "href": "/releases/reference/versions"
           },
           {
             "kind": "link",
             "slug": "releases/reference/roles",
-            "title": "谁做什么?",
+            "title": "Who does what",
             "href": "/releases/reference/roles"
           }
         ]
@@ -9678,7 +9678,7 @@
       {
         "kind": "link",
         "slug": "roadmap/how-it-works",
-        "title": "它是如何运作的",
+        "title": "工作原理",
         "href": "/roadmap/how-it-works"
       }
     ],
@@ -9692,7 +9692,7 @@
       {
         "kind": "link",
         "slug": "architecture/big-picture",
-        "title": "大局",
+        "title": "The big picture",
         "href": "/architecture/big-picture"
       },
       {
@@ -9710,12 +9710,12 @@
       {
         "kind": "link",
         "slug": "architecture/repositories",
-        "title": "仓库",
+        "title": "Repositories",
         "href": "/architecture/repositories"
       },
       {
         "kind": "folder",
-        "title": "内部核心",
+        "title": "核心内部",
         "children": [
           {
             "kind": "link",
@@ -9726,25 +9726,25 @@
           {
             "kind": "link",
             "slug": "architecture/core/startup",
-            "title": "从开始到运行",
+            "title": "From start to running",
             "href": "/architecture/core/startup"
           },
           {
             "kind": "link",
             "slug": "architecture/core/data-updates",
-            "title": "获取数据",
+            "title": "Getting data",
             "href": "/architecture/core/data-updates"
           },
           {
             "kind": "link",
             "slug": "architecture/core/registries",
-            "title": "注册表和存储",
+            "title": "Registries and storage",
             "href": "/architecture/core/registries"
           },
           {
             "kind": "link",
             "slug": "architecture/core/history",
-            "title": "历史与统计",
+            "title": "History and statistics",
             "href": "/architecture/core/history"
           }
         ]
@@ -9752,7 +9752,7 @@
       {
         "kind": "link",
         "slug": "architecture/connections",
-        "title": "这些碎片如何交流",
+        "title": "How the pieces talk",
         "href": "/architecture/connections"
       },
       {
@@ -9775,7 +9775,7 @@
       },
       {
         "kind": "folder",
-        "title": "围绕核心",
+        "title": "核心外围",
         "children": [
           {
             "kind": "link",
@@ -9786,7 +9786,7 @@
           {
             "kind": "link",
             "slug": "architecture/platform/supervisor",
-            "title": "那个 Supervisor",
+            "title": "The Supervisor",
             "href": "/architecture/platform/supervisor"
           },
           {
@@ -9804,7 +9804,7 @@
           {
             "kind": "link",
             "slug": "architecture/platform/voice",
-            "title": "声音",
+            "title": "语音",
             "href": "/architecture/platform/voice"
           }
         ]
@@ -9826,13 +9826,13 @@
       {
         "kind": "link",
         "slug": "security/how-it-works",
-        "title": "它是如何运作的",
+        "title": "工作原理",
         "href": "/security/how-it-works"
       },
       {
         "kind": "link",
         "slug": "security/report-a-vulnerability",
-        "title": "报告脆弱性",
+        "title": "Report a vulnerability",
         "href": "/security/report-a-vulnerability"
       },
       {
@@ -9848,7 +9848,7 @@
           {
             "kind": "link",
             "slug": "security/guides/integrations",
-            "title": "一体化",
+            "title": "集成",
             "href": "/security/guides/integrations"
           },
           {
@@ -9860,7 +9860,7 @@
           {
             "kind": "link",
             "slug": "security/guides/apps",
-            "title": "应用程序",
+            "title": "应用",
             "href": "/security/guides/apps"
           },
           {
@@ -9896,7 +9896,7 @@
           {
             "kind": "link",
             "slug": "security/reference/helpers",
-            "title": "安全阖门",
+            "title": "Security helpers",
             "href": "/security/reference/helpers"
           },
           {
@@ -9908,7 +9908,7 @@
           {
             "kind": "link",
             "slug": "security/reference/advisories",
-            "title": "过去的建议",
+            "title": "Past advisories",
             "href": "/security/reference/advisories"
           }
         ]
@@ -9930,13 +9930,13 @@
       {
         "kind": "link",
         "slug": "data/how-it-works",
-        "title": "它是如何运作的",
+        "title": "工作原理",
         "href": "/data/how-it-works"
       },
       {
         "kind": "link",
         "slug": "data/privacy",
-        "title": "隐私原则",
+        "title": "Privacy principles",
         "href": "/data/privacy"
       },
       {
@@ -9952,25 +9952,25 @@
           {
             "kind": "link",
             "slug": "data/guides/public-data",
-            "title": "使用公共数据",
+            "title": "Use the public data",
             "href": "/data/guides/public-data"
           },
           {
             "kind": "link",
             "slug": "data/guides/explore-your-data",
-            "title": "探索你自己的数据",
+            "title": "Explore your own data",
             "href": "/data/guides/explore-your-data"
           },
           {
             "kind": "link",
             "slug": "data/guides/query-the-database",
-            "title": "查询数据库",
+            "title": "Query the database",
             "href": "/data/guides/query-the-database"
           },
           {
             "kind": "link",
             "slug": "data/guides/integration-analytics",
-            "title": "你集成中的分析",
+            "title": "Analytics in your integration",
             "href": "/data/guides/integration-analytics"
           }
         ]
@@ -9988,25 +9988,25 @@
           {
             "kind": "link",
             "slug": "data/reference/analytics-data",
-            "title": "哪些分析共享",
+            "title": "What analytics shares",
             "href": "/data/reference/analytics-data"
           },
           {
             "kind": "link",
             "slug": "data/reference/data-model",
-            "title": "数据模型",
+            "title": "The data model",
             "href": "/data/reference/data-model"
           },
           {
             "kind": "link",
             "slug": "data/reference/database-schema",
-            "title": "数据库模式",
+            "title": "Database schema",
             "href": "/data/reference/database-schema"
           },
           {
             "kind": "link",
             "slug": "data/reference/statistics",
-            "title": "统计",
+            "title": "Statistics",
             "href": "/data/reference/statistics"
           }
         ]
@@ -10021,8 +10021,32 @@
       },
       {
         "kind": "folder",
-        "title": "捐款",
+        "title": "贡献",
         "children": [
+          {
+            "kind": "link",
+            "slug": "glossary/architecture-decision",
+            "title": "Architecture decision",
+            "href": "/glossary/architecture-decision"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/backward-incompatible-change",
+            "title": "Backward-incompatible change",
+            "href": "/glossary/backward-incompatible-change"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/beta",
+            "title": "Beta",
+            "href": "/glossary/beta"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/branch",
+            "title": "Branch",
+            "href": "/glossary/branch"
+          },
           {
             "kind": "link",
             "slug": "glossary/ci",
@@ -10031,9 +10055,51 @@
           },
           {
             "kind": "link",
+            "slug": "glossary/cla",
+            "title": "CLA",
+            "href": "/glossary/cla"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/commit",
+            "title": "Commit",
+            "href": "/glossary/commit"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/deploy-preview",
+            "title": "Deploy Preview",
+            "href": "/glossary/deploy-preview"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/deprecation",
+            "title": "Deprecation",
+            "href": "/glossary/deprecation"
+          },
+          {
+            "kind": "link",
             "slug": "glossary/dev-branch",
-            "title": "Dev 分支",
+            "title": "Dev branch",
             "href": "/glossary/dev-branch"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/epic",
+            "title": "Epic（史诗）",
+            "href": "/glossary/epic"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/fork",
+            "title": "Fork（复刻）",
+            "href": "/glossary/fork"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/issue",
+            "title": "Issue（议题）",
+            "href": "/glossary/issue"
           },
           {
             "kind": "link",
@@ -10043,159 +10109,135 @@
           },
           {
             "kind": "link",
-            "slug": "glossary/yaml",
-            "title": "也门",
-            "href": "/glossary/yaml"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/repository",
-            "title": "仓库",
-            "href": "/glossary/repository"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/fork",
-            "title": "叉",
-            "href": "/glossary/fork"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/release",
-            "title": "发布",
-            "href": "/glossary/release"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/merge",
-            "title": "合并",
-            "href": "/glossary/merge"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/backward-incompatible-change",
-            "title": "向后兼容的更改",
-            "href": "/glossary/backward-incompatible-change"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/epic",
-            "title": "图片",
-            "href": "/glossary/epic"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/branch",
-            "title": "处",
-            "href": "/glossary/branch"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/review",
-            "title": "审查",
-            "href": "/glossary/review"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/roadmap",
-            "title": "建立起的均已将收到就这些的 但这提供任何的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的和的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的",
-            "href": "/glossary/roadmap"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/deprecation",
-            "title": "折旧",
-            "href": "/glossary/deprecation"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/commit",
-            "title": "提交",
-            "href": "/glossary/commit"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/opportunity",
-            "title": "机会",
-            "href": "/glossary/opportunity"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/markdown",
-            "title": "标记",
-            "href": "/glossary/markdown"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/cla",
-            "title": "洛杉矶",
-            "href": "/glossary/cla"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/feature-request",
-            "title": "特性 với信守 希望你立足于 也许我 说真的",
-            "href": "/glossary/feature-request"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/release-notes",
-            "title": "的一点是",
-            "href": "/glossary/release-notes"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/architecture-decision",
-            "title": "结构决定",
-            "href": "/glossary/architecture-decision"
-          },
-          {
-            "kind": "link",
             "slug": "glossary/maintainer",
-            "title": "维护者",
+            "title": "Maintainer",
             "href": "/glossary/maintainer"
           },
           {
             "kind": "link",
+            "slug": "glossary/markdown",
+            "title": "Markdown",
+            "href": "/glossary/markdown"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/merge",
+            "title": "Merge",
+            "href": "/glossary/merge"
+          },
+          {
+            "kind": "link",
             "slug": "glossary/patch-release",
-            "title": "补丁释放",
+            "title": "Patch release",
             "href": "/glossary/patch-release"
           },
           {
             "kind": "link",
             "slug": "glossary/pull-request",
-            "title": "调用请求",
+            "title": "Pull request",
             "href": "/glossary/pull-request"
           },
           {
             "kind": "link",
-            "slug": "glossary/beta",
-            "title": "贝塔",
-            "href": "/glossary/beta"
+            "slug": "glossary/release",
+            "title": "Release",
+            "href": "/glossary/release"
           },
           {
             "kind": "link",
-            "slug": "glossary/deploy-preview",
-            "title": "部署预览",
-            "href": "/glossary/deploy-preview"
+            "slug": "glossary/release-notes",
+            "title": "Release notes",
+            "href": "/glossary/release-notes"
           },
           {
             "kind": "link",
-            "slug": "glossary/issue",
-            "title": "雌性",
-            "href": "/glossary/issue"
+            "slug": "glossary/repository",
+            "title": "Repository",
+            "href": "/glossary/repository"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/review",
+            "title": "Review",
+            "href": "/glossary/review"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/yaml",
+            "title": "YAML",
+            "href": "/glossary/yaml"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/feature-request",
+            "title": "功能请求",
+            "href": "/glossary/feature-request"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/opportunity",
+            "title": "机会项",
+            "href": "/glossary/opportunity"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/roadmap",
+            "title": "路线图",
+            "href": "/glossary/roadmap"
           }
         ]
       },
       {
         "kind": "folder",
-        "title": "核心和一体化",
+        "title": "核心与集成",
         "children": [
           {
             "kind": "link",
-            "slug": "glossary/websocket-api",
-            "title": "API (韩语)",
-            "href": "/glossary/websocket-api"
+            "slug": "glossary/config-entry",
+            "title": "Config entry",
+            "href": "/glossary/config-entry"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/config-flow",
+            "title": "Config flow",
+            "href": "/glossary/config-flow"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/config-subentry",
+            "title": "Config subentry",
+            "href": "/glossary/config-subentry"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/coordinator",
+            "title": "Coordinator",
+            "href": "/glossary/coordinator"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/custom-integration",
+            "title": "Custom integration",
+            "href": "/glossary/custom-integration"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/diagnostics",
+            "title": "Diagnostics",
+            "href": "/glossary/diagnostics"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/domain",
+            "title": "Domain",
+            "href": "/glossary/domain"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/hassfest",
+            "title": "Hassfest",
+            "href": "/glossary/hassfest"
           },
           {
             "kind": "link",
@@ -10205,27 +10247,87 @@
           },
           {
             "kind": "link",
+            "slug": "glossary/labs",
+            "title": "Home Assistant Labs",
+            "href": "/glossary/labs"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/integration-owner",
+            "title": "Integration owner",
+            "href": "/glossary/integration-owner"
+          },
+          {
+            "kind": "link",
             "slug": "glossary/iot-class",
-            "title": "IOT 类",
+            "title": "IoT class",
             "href": "/glossary/iot-class"
           },
           {
             "kind": "link",
-            "slug": "glossary/integration",
-            "title": "一体化",
-            "href": "/glossary/integration"
+            "slug": "glossary/manifest",
+            "title": "Manifest",
+            "href": "/glossary/manifest"
           },
           {
             "kind": "link",
-            "slug": "glossary/integration-category",
-            "title": "一体化类别",
-            "href": "/glossary/integration-category"
+            "slug": "glossary/options-flow",
+            "title": "Options flow",
+            "href": "/glossary/options-flow"
           },
           {
             "kind": "link",
-            "slug": "glossary/custom-integration",
-            "title": "之一就是自定义集成",
-            "href": "/glossary/custom-integration"
+            "slug": "glossary/platform",
+            "title": "Platform",
+            "href": "/glossary/platform"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/polling",
+            "title": "Polling",
+            "href": "/glossary/polling"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/reauthentication",
+            "title": "Reauthentication",
+            "href": "/glossary/reauthentication"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/reconfigure-flow",
+            "title": "Reconfigure flow",
+            "href": "/glossary/reconfigure-flow"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/repair",
+            "title": "Repair",
+            "href": "/glossary/repair"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/requirement",
+            "title": "Requirement",
+            "href": "/glossary/requirement"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/translation-key",
+            "title": "Translation key",
+            "href": "/glossary/translation-key"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/websocket-api",
+            "title": "WebSocket API",
+            "href": "/glossary/websocket-api"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/hass",
+            "title": "hass 对象",
+            "href": "/glossary/hass"
           },
           {
             "kind": "link",
@@ -10235,232 +10337,154 @@
           },
           {
             "kind": "link",
-            "slug": "glossary/repair",
-            "title": "修理",
-            "href": "/glossary/repair"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/coordinator",
-            "title": "协调员",
-            "href": "/glossary/coordinator"
-          },
-          {
-            "kind": "link",
             "slug": "glossary/discovery",
             "title": "发现",
             "href": "/glossary/discovery"
           },
           {
             "kind": "link",
-            "slug": "glossary/domain",
-            "title": "域名",
-            "href": "/glossary/domain"
+            "slug": "glossary/integration",
+            "title": "集成",
+            "href": "/glossary/integration"
           },
           {
             "kind": "link",
-            "slug": "glossary/manifest",
-            "title": "声明",
-            "href": "/glossary/manifest"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/labs",
-            "title": "实验室",
-            "href": "/glossary/labs"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/platform",
-            "title": "平台",
-            "href": "/glossary/platform"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/polling",
-            "title": "投票",
-            "href": "/glossary/polling"
+            "slug": "glossary/integration-category",
+            "title": "集成类别",
+            "href": "/glossary/integration-category"
           },
           {
             "kind": "link",
             "slug": "glossary/quality-scale",
-            "title": "整合质量尺度",
+            "title": "集成质量等级",
             "href": "/glossary/quality-scale"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/hassfest",
-            "title": "狂欢",
-            "href": "/glossary/hassfest"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/translation-key",
-            "title": "翻译密钥",
-            "href": "/glossary/translation-key"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/integration-owner",
-            "title": "融合拥有者",
-            "href": "/glossary/integration-owner"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/requirement",
-            "title": "要求",
-            "href": "/glossary/requirement"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/diagnostics",
-            "title": "诊断",
-            "href": "/glossary/diagnostics"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/options-flow",
-            "title": "选项流",
-            "href": "/glossary/options-flow"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/config-subentry",
-            "title": "配置子条目",
-            "href": "/glossary/config-subentry"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/config-entry",
-            "title": "配置条目",
-            "href": "/glossary/config-entry"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/config-flow",
-            "title": "配置流量",
-            "href": "/glossary/config-flow"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/reauthentication",
-            "title": "重新校正",
-            "href": "/glossary/reauthentication"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/reconfigure-flow",
-            "title": "重组流量",
-            "href": "/glossary/reconfigure-flow"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/hass",
-            "title": "隐藏对象",
-            "href": "/glossary/hass"
           }
         ]
       },
       {
         "kind": "folder",
-        "title": "实体和装置",
+        "title": "实体与设备",
         "children": [
           {
             "kind": "link",
-            "slug": "glossary/unavailable",
-            "title": "不可用莹",
-            "href": "/glossary/unavailable"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/registry",
-            "title": "书记官处",
-            "href": "/glossary/registry"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/entity",
-            "title": "六方会谈",
-            "href": "/glossary/entity"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/entity-id",
-            "title": "因 有什么所作 好吗 反对 我来 总 我们可以 过来",
-            "href": "/glossary/entity-id"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/state-machine",
-            "title": "国家机器",
-            "href": "/glossary/state-machine"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/state-class",
-            "title": "国家等级",
-            "href": "/glossary/state-class"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/entity-category",
-            "title": "实体类别",
-            "href": "/glossary/entity-category"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/entity-description",
-            "title": "实体说明",
-            "href": "/glossary/entity-description"
-          },
-          {
-            "kind": "link",
             "slug": "glossary/attribute",
-            "title": "属性",
+            "title": "Attribute",
             "href": "/glossary/attribute"
           },
           {
             "kind": "link",
-            "slug": "glossary/supported-features",
-            "title": "支持的特性",
-            "href": "/glossary/supported-features"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/state",
-            "title": "状态",
-            "href": "/glossary/state"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/unique-id",
-            "title": "独一无二的ID",
-            "href": "/glossary/unique-id"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/event",
-            "title": "积极地濑子事件",
-            "href": "/glossary/event"
-          },
-          {
-            "kind": "link",
             "slug": "glossary/device",
-            "title": "设备",
+            "title": "Device",
             "href": "/glossary/device"
           },
           {
             "kind": "link",
             "slug": "glossary/device-class",
-            "title": "设备类",
+            "title": "Device class",
             "href": "/glossary/device-class"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/entity",
+            "title": "Entity",
+            "href": "/glossary/entity"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/entity-id",
+            "title": "Entity ID",
+            "href": "/glossary/entity-id"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/entity-category",
+            "title": "Entity category",
+            "href": "/glossary/entity-category"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/entity-description",
+            "title": "Entity description",
+            "href": "/glossary/entity-description"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/event",
+            "title": "Event",
+            "href": "/glossary/event"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/registry",
+            "title": "Registry",
+            "href": "/glossary/registry"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/state",
+            "title": "State",
+            "href": "/glossary/state"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/state-machine",
+            "title": "State machine",
+            "href": "/glossary/state-machine"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/supported-features",
+            "title": "Supported features",
+            "href": "/glossary/supported-features"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/unavailable",
+            "title": "Unavailable",
+            "href": "/glossary/unavailable"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/unique-id",
+            "title": "Unique ID",
+            "href": "/glossary/unique-id"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/state-class",
+            "title": "状态类别",
+            "href": "/glossary/state-class"
           }
         ]
       },
       {
         "kind": "folder",
-        "title": "自动化和组织",
+        "title": "自动化与组织",
         "children": [
+          {
+            "kind": "link",
+            "slug": "glossary/action",
+            "title": "Action",
+            "href": "/glossary/action"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/area",
+            "title": "Area",
+            "href": "/glossary/area"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/automation",
+            "title": "Automation",
+            "href": "/glossary/automation"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/blueprint",
+            "title": "Blueprint",
+            "href": "/glossary/blueprint"
+          },
           {
             "kind": "link",
             "slug": "glossary/condition",
@@ -10469,93 +10493,69 @@
           },
           {
             "kind": "link",
-            "slug": "glossary/person",
-            "title": "加 进",
-            "href": "/glossary/person"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/zone",
-            "title": "区",
-            "href": "/glossary/zone"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/area",
-            "title": "区域",
-            "href": "/glossary/area"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/scene",
-            "title": "场景",
-            "href": "/glossary/scene"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/helper",
-            "title": "帮助者",
-            "href": "/glossary/helper"
-          },
-          {
-            "kind": "link",
             "slug": "glossary/floor",
-            "title": "我相信, 楼 加的授权 你有问题",
+            "title": "Floor",
             "href": "/glossary/floor"
           },
           {
             "kind": "link",
+            "slug": "glossary/helper",
+            "title": "Helper",
+            "href": "/glossary/helper"
+          },
+          {
+            "kind": "link",
             "slug": "glossary/label",
-            "title": "标签",
+            "title": "Label",
             "href": "/glossary/label"
           },
           {
             "kind": "link",
-            "slug": "glossary/template",
-            "title": "模板",
-            "href": "/glossary/template"
+            "slug": "glossary/person",
+            "title": "Person",
+            "href": "/glossary/person"
           },
           {
             "kind": "link",
-            "slug": "glossary/target",
-            "title": "目标",
-            "href": "/glossary/target"
+            "slug": "glossary/scene",
+            "title": "Scene",
+            "href": "/glossary/scene"
           },
           {
             "kind": "link",
             "slug": "glossary/script",
-            "title": "脚本",
+            "title": "Script",
             "href": "/glossary/script"
           },
           {
             "kind": "link",
-            "slug": "glossary/automation",
-            "title": "自动化",
-            "href": "/glossary/automation"
+            "slug": "glossary/selector",
+            "title": "Selector",
+            "href": "/glossary/selector"
           },
           {
             "kind": "link",
-            "slug": "glossary/blueprint",
-            "title": "蓝图",
-            "href": "/glossary/blueprint"
+            "slug": "glossary/target",
+            "title": "Target",
+            "href": "/glossary/target"
           },
           {
             "kind": "link",
-            "slug": "glossary/action",
-            "title": "行动",
-            "href": "/glossary/action"
+            "slug": "glossary/template",
+            "title": "Template",
+            "href": "/glossary/template"
           },
           {
             "kind": "link",
             "slug": "glossary/trigger",
-            "title": "触发",
+            "title": "Trigger",
             "href": "/glossary/trigger"
           },
           {
             "kind": "link",
-            "slug": "glossary/selector",
-            "title": "选择器",
-            "href": "/glossary/selector"
+            "slug": "glossary/zone",
+            "title": "Zone",
+            "href": "/glossary/zone"
           }
         ]
       },
@@ -10565,87 +10565,87 @@
         "children": [
           {
             "kind": "link",
+            "slug": "glossary/badge",
+            "title": "Badge",
+            "href": "/glossary/badge"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/card",
+            "title": "Card",
+            "href": "/glossary/card"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/card-feature",
+            "title": "Card feature",
+            "href": "/glossary/card-feature"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/custom-card",
+            "title": "Custom card",
+            "href": "/glossary/custom-card"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/dashboard",
+            "title": "Dashboard",
+            "href": "/glossary/dashboard"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/design-token",
+            "title": "Design token",
+            "href": "/glossary/design-token"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/more-info-dialog",
+            "title": "More-info dialog",
+            "href": "/glossary/more-info-dialog"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/my-link",
+            "title": "My link",
+            "href": "/glossary/my-link"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/panel",
+            "title": "Panel",
+            "href": "/glossary/panel"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/strategy",
+            "title": "Strategy",
+            "href": "/glossary/strategy"
+          },
+          {
+            "kind": "link",
             "slug": "glossary/theme",
-            "title": "主题",
+            "title": "Theme",
             "href": "/glossary/theme"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/view",
+            "title": "View",
+            "href": "/glossary/view"
           },
           {
             "kind": "link",
             "slug": "glossary/frontend",
             "title": "前端",
             "href": "/glossary/frontend"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/card-feature",
-            "title": "卡片特性",
-            "href": "/glossary/card-feature"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/panel",
-            "title": "小组讨论会",
-            "href": "/glossary/panel"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/badge",
-            "title": "徽章",
-            "href": "/glossary/badge"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/my-link",
-            "title": "我的连结",
-            "href": "/glossary/my-link"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/strategy",
-            "title": "战略",
-            "href": "/glossary/strategy"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/more-info-dialog",
-            "title": "更多信息对话框",
-            "href": "/glossary/more-info-dialog"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/dashboard",
-            "title": "电线板",
-            "href": "/glossary/dashboard"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/card",
-            "title": "纸牌",
-            "href": "/glossary/card"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/custom-card",
-            "title": "自定义卡",
-            "href": "/glossary/custom-card"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/view",
-            "title": "视图",
-            "href": "/glossary/view"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/design-token",
-            "title": "设计符号",
-            "href": "/glossary/design-token"
           }
         ]
       },
       {
         "kind": "folder",
-        "title": "声音",
+        "title": "语音",
         "children": [
           {
             "kind": "link",
@@ -10655,39 +10655,39 @@
           },
           {
             "kind": "link",
+            "slug": "glossary/assist-pipeline",
+            "title": "Assist pipeline",
+            "href": "/glossary/assist-pipeline"
+          },
+          {
+            "kind": "link",
             "slug": "glossary/assist-satellite",
-            "title": "卫星 Assist",
+            "title": "Assist satellite",
             "href": "/glossary/assist-satellite"
           },
           {
             "kind": "link",
-            "slug": "glossary/wake-word",
-            "title": "唤醒你",
-            "href": "/glossary/wake-word"
-          },
-          {
-            "kind": "link",
             "slug": "glossary/conversation-agent",
-            "title": "对话代理商",
+            "title": "Conversation agent",
             "href": "/glossary/conversation-agent"
           },
           {
             "kind": "link",
             "slug": "glossary/intent",
-            "title": "意图",
+            "title": "Intent",
             "href": "/glossary/intent"
           },
           {
             "kind": "link",
             "slug": "glossary/language-leader",
-            "title": "语言领袖",
+            "title": "Language leader",
             "href": "/glossary/language-leader"
           },
           {
             "kind": "link",
-            "slug": "glossary/assist-pipeline",
-            "title": "输油管",
-            "href": "/glossary/assist-pipeline"
+            "slug": "glossary/wake-word",
+            "title": "Wake word",
+            "href": "/glossary/wake-word"
           }
         ]
       },
@@ -10698,21 +10698,45 @@
           {
             "kind": "link",
             "slug": "glossary/statistics",
-            "title": "B. 长期统计",
+            "title": "Long-term statistics",
             "href": "/glossary/statistics"
           },
           {
             "kind": "link",
             "slug": "glossary/recorder",
-            "title": "录音机",
+            "title": "Recorder",
             "href": "/glossary/recorder"
           }
         ]
       },
       {
         "kind": "folder",
-        "title": "安装和系统",
+        "title": "安装与系统",
         "children": [
+          {
+            "kind": "link",
+            "slug": "glossary/app",
+            "title": "App",
+            "href": "/glossary/app"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/bashio",
+            "title": "Bashio",
+            "href": "/glossary/bashio"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/buildroot",
+            "title": "Buildroot",
+            "href": "/glossary/buildroot"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/companion-app",
+            "title": "Companion app",
+            "href": "/glossary/companion-app"
+          },
           {
             "kind": "link",
             "slug": "glossary/hacs",
@@ -10727,8 +10751,32 @@
           },
           {
             "kind": "link",
+            "slug": "glossary/ingress",
+            "title": "Ingress",
+            "href": "/glossary/ingress"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/installation-type",
+            "title": "Installation type",
+            "href": "/glossary/installation-type"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/rauc",
+            "title": "RAUC",
+            "href": "/glossary/rauc"
+          },
+          {
+            "kind": "link",
+            "slug": "glossary/resolution-center",
+            "title": "Resolution center",
+            "href": "/glossary/resolution-center"
+          },
+          {
+            "kind": "link",
             "slug": "glossary/s6-overlay",
-            "title": "S6 重叠",
+            "title": "S6 overlay",
             "href": "/glossary/s6-overlay"
           },
           {
@@ -10746,62 +10794,14 @@
           {
             "kind": "link",
             "slug": "glossary/supervisor-plugin",
-            "title": "Supervisor 插件",
+            "title": "Supervisor plugin",
             "href": "/glossary/supervisor-plugin"
           },
           {
             "kind": "link",
-            "slug": "glossary/rauc",
-            "title": "乌拉圭",
-            "href": "/glossary/rauc"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/resolution-center",
-            "title": "分辨率中心",
-            "href": "/glossary/resolution-center"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/installation-type",
-            "title": "安装类型",
-            "href": "/glossary/installation-type"
-          },
-          {
-            "kind": "link",
             "slug": "glossary/marketplace",
-            "title": "市场",
+            "title": "应用市场",
             "href": "/glossary/marketplace"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/app",
-            "title": "应用",
-            "href": "/glossary/app"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/ingress",
-            "title": "是",
-            "href": "/glossary/ingress"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/buildroot",
-            "title": "构建根",
-            "href": "/glossary/buildroot"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/bashio",
-            "title": "芭蕉",
-            "href": "/glossary/bashio"
-          },
-          {
-            "kind": "link",
-            "slug": "glossary/companion-app",
-            "title": "辅助应用程序",
-            "href": "/glossary/companion-app"
           }
         ]
       },
@@ -10817,6 +10817,12 @@
           },
           {
             "kind": "link",
+            "slug": "glossary/moderator",
+            "title": "Moderator",
+            "href": "/glossary/moderator"
+          },
+          {
+            "kind": "link",
             "slug": "glossary/nabu-casa",
             "title": "Nabu Casa",
             "href": "/glossary/nabu-casa"
@@ -10829,14 +10835,8 @@
           },
           {
             "kind": "link",
-            "slug": "glossary/moderator",
-            "title": "主持人",
-            "href": "/glossary/moderator"
-          },
-          {
-            "kind": "link",
             "slug": "glossary/works-with-home-assistant",
-            "title": "工作与 Home Assistant",
+            "title": "Works with Home Assistant",
             "href": "/glossary/works-with-home-assistant"
           }
         ]

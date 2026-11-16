@@ -2,6 +2,8 @@
 title: 锁定
 description: 锁的更多信息视图,有大锁开关和单独的确认按钮打开门.
 sidebarGroup: 开幕和安全
+sidebarGroup: 开合与安防
+
 ---
 
 # 锁定 {#lock}

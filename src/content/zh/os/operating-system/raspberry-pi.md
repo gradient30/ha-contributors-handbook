@@ -1,7 +1,7 @@
 ---
 title: 树莓派
 description: 针对 Home Assistant OS 的树莓派详细信息，如串行控制台、I2C 和从 USB 启动。
-sidebarGroup: 董事会
+sidebarGroup: 开发板
 order: 2
 ---
 

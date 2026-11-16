@@ -2,6 +2,8 @@
 title: 实体筛选卡
 description: 实体筛选卡片只显示与筛选条件匹配的列表中的实体，例如已开启的灯。它默认包裹另一个卡片，即实体卡片。
 sidebarGroup: 实体卡
+sidebarGroup: 实体卡片
+
 ---
 
 # 实体筛选卡 {#entity-filter-card}

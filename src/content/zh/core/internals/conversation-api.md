@@ -1,7 +1,7 @@
 ---
 title: 对话 API
 description: 向 REST 或 WebSocket 的对话代理发送文本 API,读读它给回的回复.
-sidebarGroup: 语音和AI
+sidebarGroup: 语音与 AI
 order: 52
 ---
 

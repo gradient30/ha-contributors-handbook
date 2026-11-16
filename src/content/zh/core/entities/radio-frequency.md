@@ -2,7 +2,7 @@
 title: 无线电频率实体
 description: 在集成之间共享RF发射机和接收机,所以一个集成拥有无线电,另一个集成知道一个设备的代码.
 sidebarLabel: 无线电频率
-sidebarGroup: 远程和信号
+sidebarGroup: 遥控与信号
 ---
 
 # 无线电频率实体 {#radio-frequency-entity}

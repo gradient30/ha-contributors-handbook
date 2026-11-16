@@ -2,6 +2,8 @@
 title: 控制
 description: 大而易于触控的控件，用于操作设备，比如更多信息对话框中的切换开关和滑块。
 sidebarGroup: 显示数值
+sidebarGroup: 数值展示
+
 ---
 
 

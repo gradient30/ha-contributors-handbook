@@ -2,7 +2,7 @@
 title: LoRAWAN 设备
 description: 一个连接集成是如何注册一个LoRAWAN网络服务器的,一个设备集成是如何找到并曝光其上的设备的.
 sidebarLabel: 洛拉万语
-sidebarGroup: 你说的
+sidebarGroup: API
 order: 35
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 校验输入
 description: 验证用户在配置 验证、配置流量、动作和YAML中给出的您与 probatio schemas 和帮助者的集成 。
-sidebarGroup: 写代码
+sidebarGroup: 编写代码
 order: 6
 ---
 

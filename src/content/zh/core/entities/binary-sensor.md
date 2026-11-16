@@ -2,7 +2,7 @@
 title: 二进制传感器实体
 description: 报告什么是打开或关闭, 像一个打开的门或被探测到的运动。
 sidebarLabel: 二
-sidebarGroup: 传感器和状态
+sidebarGroup: 传感器与状态
 ---
 
 # 二进制传感器实体 {#binary-sensor-entity}

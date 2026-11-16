@@ -2,6 +2,8 @@
 title: 热水器
 description: 向下加注,在下方加注。
 sidebarGroup: 灯光和气候
+sidebarGroup: 灯光与气候
+
 ---
 
 # 热水器 {#water-heater}

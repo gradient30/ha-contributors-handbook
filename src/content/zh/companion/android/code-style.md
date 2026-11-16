@@ -2,7 +2,7 @@
 title: Android 代码风格和代码检查
 description: 在 Android 应用中使用 KTLint、Detekt、Android linter 和 Yamllint。如何运行它们、抑制问题以及使用基线。
 sidebarLabel: 代码风格和代码检查
-sidebarGroup: 写代码
+sidebarGroup: 编写代码
 order: 3
 ---
 

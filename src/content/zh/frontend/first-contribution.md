@@ -16,7 +16,7 @@ sidebarLabel: 你的第一次贡献
 留下你正在研究的评语,所以没有人同时接听.
 
 > [!TIP]
-> 要不要换张新牌? 这不需要以下任何步骤。 以 [蓓丝卡及更多](/frontend/custom-ui) 开始, 并在 [市场](/marketplace) 中发布 : 这就是项目推荐新牌开始的地方 。
+> 要不要换张新牌? 这不需要以下任何步骤。 以 [自定义卡片及其他](/frontend/custom-ui) 开始, 并在 [市场](/marketplace) 中发布 : 这就是项目推荐新牌开始的地方 。
 
 ## 2.  设置环境 {#2-set-up-the-environment}
 

@@ -1,7 +1,7 @@
 ---
 title: 版本
 description: Home Assistant Core版本是如何建立起来的,从稳定的发行到β,夜客,以及开发版本.
-sidebarGroup: 改变行为
+sidebarGroup: 变更行为
 order: 2
 ---
 
@@ -31,7 +31,7 @@ YYYY.MM.PATCH
 | 稳定释放 | `YYYY.MM.PATCH` | `2026.5.0` |
 | 贝塔 | `YYYY.MM.PATCH` + `b<N>` | `2026.5.0b0` |
 | 夜来 | `YYYY.MM.PATCH` + `.dev<YYYYMMDDHHMM>` | `2026.7.0.dev202607241254` |
-| 联合国 | `YYYY.MM.PATCH` + `.dev<N>` | `2026.7.0.dev0` |
+| 开发 | `YYYY.MM.PATCH` + `.dev<N>` | `2026.7.0.dev0` |
 
 ## 版本所在之处 {#where-the-version-lives}
 

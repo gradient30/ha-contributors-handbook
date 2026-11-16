@@ -19,7 +19,7 @@ order: 4
 
 [辅助应用程序架构](/architecture/platform/companion-apps)有更大的画面。
 
-## 页 次 {#pages}
+## 页面 {#pages}
 
 - [连接和注册](/companion/mobile-app-api/setup):发现,登录,和注册电话。
 - [发送数据 我有](/companion/mobile-app-api/sending-data):webhook,它的URL,请求格式,以及每个请求类型.

@@ -1,7 +1,7 @@
 ---
-title: 整合质量尺度
+title: 集成质量等级
 description: 集成通过遵循代码质量和用户体验的规则而获得的等级:铜,银,金,和白金.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - quality scale
@@ -21,7 +21,7 @@ term:
   - quality scale
 ---
 
-# 整合质量尺度 {#integration-quality-scale}
+# 集成质量等级 {#integration-quality-scale}
 
 - 代码:`quality_scale.yaml`,`"quality_scale" in manifest.json`
 - 另外:质量尺度、IQS、铜、银、金、白金

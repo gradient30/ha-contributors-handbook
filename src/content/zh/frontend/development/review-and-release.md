@@ -1,5 +1,5 @@
 ---
-title: 审查和发布
+title: 审查与发布
 description: 前端 pull request 打开后会发生什么, 合并的改变如何使用 Home Assistant 到达人们。
 order: 8
 ---
@@ -12,7 +12,7 @@ order: 8
 
 当您打开 pull request 对 {H0躬 } 时会自动发生一些事情 :
 
-- ** 模板检查。 ** pull request必须使用[以用用为为的用用为的用为为的用用为的用用为的用用为的用用为的用用用为的用用用的用用用的用用用的用用的用用用的用用用的用用用的用用的用用的用用的用用用用的用用的用用的用用的用用用用的用用用的用的用用的用用的的用用的用用的用的用用用的的的用用的的的用用用用用的的的用用的的的用用用用的的用用的用用的用的用的用用的用用用用的的用的用用的用用用用的用的用的的用用用用的的用用用的用的的用的用的用的用用的用用的用的用用的用的用的用的用用的用的用的的用的用用用的的的的用用的用的的的用用的的用用用的的用用用用的用的的用的的](https://github.com/home-assistant/frontend/blob/dev/.github/PULL_REQUEST_TEMPLATE.md),并保留其** 建议更改**、** 类型更改**和**检查清单**各节,准确检查一个**类型更改**,并在** 提议更改** 下说明更改。 如果没有,则pull request得到`Needs Template`标签和注释,检查失败,直到修复为止. 草稿被跳过, 所以当您在 pull request 标记时检查会运行 。
+- ** 模板检查。 ** pull request必须使用[以用用为为的用用为的用为为的用用为的用用为的用用为的用用为的用用用为的用用用的用用用的用用用的用用的用用用的用用用的用用
 - ** 标签。 ** 一个bot通过它改变的文件来标记pull request,比如`Dashboards`,`Automations`,或`Tests: Unit`. 第二个脚本会在更改触及代码的这些部分时,甚至从文件夹外添加`Companion App`,`Home Assistant Link`,`Labs`和`Supervisor`. 两者在不再匹配时都会再次移除一个标签,同样是手工添加的标签. 规则在[`.github/labeler.yml`](https://github.com/home-assistant/frontend/blob/dev/.github/labeler.yml)和[`.github/scripts/label-content.mts`](https://github.com/home-assistant/frontend/blob/dev/.github/scripts/label-content.mts)中.
 - ** 加州大学。 ** 你第一次缴款时 有个机器人要你签署缴款许可协议
 - 页:1 林特斯,型号检查,以及各单元测试,一个生产建设,每推一次都进行端对端测试. 在您的 pull request 合并之前, 它们需要通过 。

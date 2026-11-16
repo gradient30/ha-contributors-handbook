@@ -2,7 +2,7 @@
 title: 文档排除故障
 description: Gold Rules docs- troubleshooting:文档帮助用户自己解决常见问题.
 sidebarLabel: 文档调试
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 10
 ---
 

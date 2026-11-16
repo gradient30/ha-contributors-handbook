@@ -1,7 +1,7 @@
 ---
 title: 声明
 description: 驸马 `manifest.json` 集成文件:其域名,集成所有者,要求,以及如何发现.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   code:
   - manifest.json

@@ -2,7 +2,7 @@
 title: 语音对文本实体
 description: 为 Assist 建立语音对文本实体,将音频流转换成文本 。
 sidebarLabel: 语音对文本
-sidebarGroup: 语音和AI
+sidebarGroup: 语音与 AI
 ---
 
 # 语音对文本实体 {#speech-to-text-entity}

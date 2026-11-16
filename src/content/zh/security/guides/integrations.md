@@ -1,7 +1,7 @@
 ---
-title: 安全融合
+title: 集成安全
 description: 证书,证书,编辑,只管理权限,webhooks,以及文件路径. 保证融合安全的规律和帮助者.
-sidebarLabel: 一体化
+sidebarLabel: 集成
 order: 1
 ---
 
@@ -196,4 +196,4 @@ if not allowed:
 
 - [安全阖门](/security/reference/helpers):所有帮助者在一页.
 - 世界 [依赖性和供应链](/security/guides/dependencies) : Home Assistant 向库询问您的整合用途 。
-- [4.a(a)的合格后得到过合格后后得到过合格后后得到过过合格后后后得到过过过过过过等等等等等等等等等等等的合格后后才能得到过合格的合格后后后后才能得到过。等等等等等等等等合格后后才能得到合格后后后才能得到合格后后后才能得到过。等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、等等、、、、、、、、、、、、、、、、、、、、、、、、、、、、](/core/internals/auth)和[权限](/core/internals/permissions):用户、组和权限检查。
+- [认证](/core/internals/auth)和[权限](/core/internals/permissions):用户、组和权限检查。

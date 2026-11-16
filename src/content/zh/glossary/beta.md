@@ -1,7 +1,7 @@
 ---
 title: 贝塔
 description: 下一版的测试版,在发布前一周发布,因此人们可以在每个人更新之前发现问题.
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - betas

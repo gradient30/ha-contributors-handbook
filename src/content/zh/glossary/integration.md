@@ -1,7 +1,7 @@
 ---
-title: 一体化
+title: 集成
 description: 将 Home Assistant 连接到设备、 服务或协议, 或者添加自动化等功能的代码包 。
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - integrations

@@ -1,7 +1,7 @@
 ---
 title: 内设的处理器
 description: 意向的处理者 {H0 20.} 住在Core的船舶, 他们如何找到它们的实体, 在哪里查看每一个意向及其槽。
-sidebarGroup: 语音和AI
+sidebarGroup: 语音与 AI
 order: 51
 sidebarLabel: 内设意图
 ---

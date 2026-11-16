@@ -1,7 +1,7 @@
 ---
 title: 意图
 description: 声音命令意味着什么, 就像打开一个地区的灯, 以及这样做所需的细节。
-sidebarGroup: 声音
+sidebarGroup: 语音
 term:
   aliases:
   - intents

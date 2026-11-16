@@ -2,7 +2,7 @@
 title: 当用户需要采取行动时提出修复问题
 description: 黄金规则修补问题:集成对用户能够修补的问题提出了修补问题.
 sidebarLabel: 修理问题
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 20
 ---
 

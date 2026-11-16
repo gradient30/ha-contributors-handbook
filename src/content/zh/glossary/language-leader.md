@@ -1,7 +1,7 @@
 ---
 title: 语言领袖
 description: 一个在意向寄存器中照顾一种语言的母语,并审查对该语言的每一处变化。
-sidebarGroup: 声音
+sidebarGroup: 语音
 term:
   aliases:
   - language leaders

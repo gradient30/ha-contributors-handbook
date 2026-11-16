@@ -1,8 +1,8 @@
 ---
 title: 开始使用 Android
 description: 安装 Android Studio，分叉并克隆仓库，构建应用，并在模拟器或你的手机上运行它。
-sidebarLabel: 开始
-sidebarGroup: 设置
+sidebarLabel: 开始贡献
+sidebarGroup: 开始设置
 order: 1
 source: https://github.com/home-assistant/android/blob/main/.github/workflows/pr.yml
 lastVerified: 2026-11-06

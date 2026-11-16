@@ -1,7 +1,7 @@
 ---
 title: 配置流量
 description: UI中设置集成并创建配置条目的步骤.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - config flows

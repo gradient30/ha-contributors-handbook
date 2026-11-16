@@ -2,7 +2,7 @@
 title: 割草机实体
 description: 为机械割草机建立一个割草机实体,用于割草,暂停,然后返回它的码头.
 sidebarLabel: 割草机
-sidebarGroup: 应用程序
+sidebarGroup: 家电
 ---
 
 # 割草机实体 {#lawn-mower-entity}

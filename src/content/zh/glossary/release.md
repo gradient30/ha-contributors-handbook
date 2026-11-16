@@ -1,7 +1,7 @@
 ---
 title: 发布
 description: Home Assistant的新版本 。 每个月的第一个星期三都出场 中间放出补丁
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - releases

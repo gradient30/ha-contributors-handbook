@@ -2,7 +2,7 @@
 title: 请求重新启动
 description: 告诉 Home Assistant 它需要一个重新启动来应用更改, 而不会引起修复问题 。
 sidebarLabel: 需要重新启动
-sidebarGroup: 融合特征
+sidebarGroup: 集成功能
 order: 6
 ---
 

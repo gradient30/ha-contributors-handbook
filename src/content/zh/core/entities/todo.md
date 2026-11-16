@@ -2,7 +2,7 @@
 title: 待办列表实体
 description: 为购物列表、任务列表或任何其他命令的具有状态的项目列表构建待办列表实体。
 sidebarLabel: 待办事宜列表
-sidebarGroup: 投入和帮助
+sidebarGroup: 输入与助手
 ---
 
 # 待办列表实体 {#to-do-list-entity}

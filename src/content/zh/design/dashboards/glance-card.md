@@ -2,6 +2,8 @@
 title: 一览卡
 description: 一目卡显示多个实体的状态，并排展示，每个实体包括名称、图标和状态。这是一个你一眼就能看懂的概览。
 sidebarGroup: 实体卡
+sidebarGroup: 实体卡片
+
 ---
 
 # 一览卡 {#glance-card}

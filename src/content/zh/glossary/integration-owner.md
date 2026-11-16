@@ -1,7 +1,7 @@
 ---
 title: 融合拥有者
 description: 负责列入清单的整编人员或小组,他们得到有关其问题的通知,并要求审查其pull request。
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - integration owners

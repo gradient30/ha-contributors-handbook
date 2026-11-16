@@ -1,7 +1,7 @@
 ---
 title: 实体类别
 description: 将一个实体标为配置或诊断,因此它不会出现在设备主控在国家和国际一级的旁边.
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   aliases:
   - entity categories

@@ -1,9 +1,8 @@
 ---
 title: 自动添加新设备
-description: '已启动的 " 标码 " : " 标码 " : "标码 " : "标码 " : "标码 " : "标码 " : "标码 " : "标码 "
-  : "标码 " : "标码 " : "标码 " : "标码 " : "标码 " : "标码 " : "标码 "'
+description: "Gold rule dynamic-devices: devices that appear after setup are added without a reload."
 sidebarLabel: 动态设备
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 12
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 乌拉圭
 description: Home Assistant OS的更新系统. 它在运行中的系统旁边安装了整个系统的新版本,因此当更新不起作用时,一个设备可以返回.
-sidebarGroup: 安装和系统
+sidebarGroup: 安装与系统
 term:
   aliases:
   - update bundle

@@ -1,8 +1,8 @@
 ---
 title: 配置子条目
 description: 将一个配置条目分割到部件用户中,像天气服务的位置一样逐个添加.
-sidebarLabel: 子公司
-sidebarGroup: 设置和配置
+sidebarLabel: 子条目
+sidebarGroup: 设置与配置
 order: 5
 ---
 

@@ -2,7 +2,7 @@
 title: 在配置流中测试连接
 description: 青铜规则测试-配置前:配置流在创建条目前测试连接.
 sidebarLabel: 提交的文件 你还好吗?
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 18
 ---
 

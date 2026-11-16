@@ -2,7 +2,7 @@
 title: 使用单位( T)
 description: 青铜规则有-实体-名称:实体设置有 实体 名称为True,并在其设备的上下文中命名.
 sidebarLabel: 有实体名称
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 16
 ---
 

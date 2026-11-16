@@ -2,7 +2,7 @@
 title: 选择实体
 description: 构建一个选择实体,让人们从固定列表中选择一个选项,就像操作模式一样.
 sidebarLabel: 选择
-sidebarGroup: 投入和帮助
+sidebarGroup: 输入与助手
 ---
 
 # 选择实体 {#select-entity}

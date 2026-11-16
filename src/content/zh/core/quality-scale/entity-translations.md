@@ -2,7 +2,7 @@
 title: 翻译实体名称
 description: 黄金规则实体翻译:实体名称来自字符串. json,因此可以翻译.
 sidebarLabel: 实体翻译
-sidebarGroup: 黄金
+sidebarGroup: 金
 order: 16
 ---
 

@@ -2,6 +2,8 @@
 title: 计时器
 description: 一个计时器帮助器的更多信息视图,包含实时倒计时,持续时间字段,以及启动,暂停,取消的按钮.
 sidebarGroup: 帮助者
+sidebarGroup: 助手
+
 ---
 
 # 计时器 {#timer}

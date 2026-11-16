@@ -3,6 +3,8 @@ title: 如何释放工作
 description: Home Assistant的月发布周期,从代码第一行到最后补丁发布.
 order: 2
 sidebarLabel: 它是如何运作的
+sidebarLabel: 工作原理
+
 ---
 
 # 如何释放工作 {#how-releases-work}
@@ -23,13 +25,13 @@ sidebarLabel: 它是如何运作的
 
 具体日期见[事件日历](/community/reference/events).
 
-## 联合国 {#development}
+## 开发 {#development}
 
 所有新工作都进入每个寄存器的`dev`分支,通过pull requests. 该分支上的版本总是指向下一个发布,带有开发标记,如`2026.11.0.dev0`.
 
 每天晚上,从`dev`的分支造出一个建筑,其版本类似`2026.11.0.dev202610100230`. 想要生活在边缘的人可以通过dev通道运行这些建筑. 这是新代码第一次与真正的家庭相遇的地方.
 
-用于新功能的文档同时在 `next` 分支的 home-assistant.io 上编写. 它和释放一起生活 见[写入文件](/writing).
+用于新功能的文档同时在 `next` 分支的 home-assistant.io 上编写. 它和释放一起生活 见[撰写文档](/writing).
 
 ## 贝塔 {#the-beta}
 

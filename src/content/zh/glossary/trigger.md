@@ -1,7 +1,7 @@
 ---
 title: 触发
 description: 箍起一个自动化,比如状态变化,时间,或者事件.
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - triggers

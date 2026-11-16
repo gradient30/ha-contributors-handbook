@@ -2,6 +2,8 @@
 title: 跑马灯文字
 description: 当文字过长而无法完全显示时，跑马灯文本会在一行内缓慢来回滚动。
 sidebarGroup: 布局和内容
+sidebarGroup: 布局与内容
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: 更新状态
 description: 不偏不倚地报告可用性。
 sidebarLabel: 更新状态
-sidebarGroup: 基本情况
+sidebarGroup: 基础
 order: 3
 ---
 

@@ -2,7 +2,7 @@
 title: 在适当的间隔内投票
 description: 青铜规则 适当计票:投票一体化使用与其数据相符的间隔.
 sidebarLabel: 适当定价
-sidebarGroup: 铜
+sidebarGroup: 青铜
 order: 2
 ---
 

@@ -2,7 +2,7 @@
 title: 设备跟踪器实体
 description: 报告设备的位置或是否与网络或信标相连。
 sidebarLabel: 设备跟踪器
-sidebarGroup: 传感器和状态
+sidebarGroup: 传感器与状态
 ---
 
 # 设备跟踪器实体 {#device-tracker-entity}

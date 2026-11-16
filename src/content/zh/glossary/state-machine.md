@@ -1,7 +1,7 @@
 ---
 title: 国家机器
 description: 有利的 Home Assistant Core 中包含每个实体当前状态的部分 。
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   code:
   - hass.states

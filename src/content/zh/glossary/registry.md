@@ -1,7 +1,7 @@
 ---
 title: 书记官处
 description: Where Home Assistant 保存它所知道的关于实体,设备,区域,地板和标签的内容,以及用户对他们的改变.
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   aliases:
   - registries

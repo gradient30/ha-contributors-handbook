@@ -1,7 +1,7 @@
 ---
 title: CI
 description: 持续集成:自动检查,如测试,linters,和类型检查,每 pull request运行一次.
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - continuous integration

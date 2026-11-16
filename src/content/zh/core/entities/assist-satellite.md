@@ -2,7 +2,7 @@
 title: Assist 卫星实体
 description: 构建 Assist 卫星实体, 用于接收语音指令并表达响应的设备 。
 sidebarLabel: 卫星 Assist
-sidebarGroup: 语音和AI
+sidebarGroup: 语音与 AI
 ---
 
 # Assist 卫星实体 {#assist-satellite-entity}

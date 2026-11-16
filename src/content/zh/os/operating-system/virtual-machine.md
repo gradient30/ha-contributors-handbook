@@ -1,7 +1,7 @@
 ---
 title: 虚拟机
 description: ova目标,它构建的虚拟磁盘格式,以及虚拟机需要运行的Home Assistant OS.
-sidebarGroup: 董事会
+sidebarGroup: 开发板
 order: 5
 ---
 

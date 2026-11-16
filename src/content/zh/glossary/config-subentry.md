@@ -1,7 +1,7 @@
 ---
 title: 配置子条目
 description: 用户自行添加和管理的配置条目的一部分,比如连接到AI服务的集成的AI代理.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   aliases:
   - subentry

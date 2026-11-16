@@ -1,7 +1,7 @@
 ---
 title: 因 有什么所作 好吗 反对 我来 总 我们可以 过来
 description: 一个实体的ID:它的域和对象ID,像`light.kitchen`.
-sidebarGroup: 实体和装置
+sidebarGroup: 实体与设备
 term:
   aliases:
   - entity IDs

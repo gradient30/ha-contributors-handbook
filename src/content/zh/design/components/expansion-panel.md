@@ -2,6 +2,8 @@
 title: 扩展面板
 description: 展开面板将一个部分隐藏在标题后面，这样人们可以在需要时打开它。
 sidebarGroup: 布局和内容
+sidebarGroup: 布局与内容
+
 ---
 
 

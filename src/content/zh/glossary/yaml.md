@@ -1,7 +1,7 @@
 ---
 title: 也门
 description: 配置和数据的文本格式,结构缩进。 Home Assistant 用于它的配置文件, 以及更多 。
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   code:
   - configuration.yaml

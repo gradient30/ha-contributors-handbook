@@ -2,7 +2,7 @@
 title: 实体生命周期
 description: 当 Home Assistant 添加并删除一个实体, 以及您用来订阅、 清理和对注册更改作出反应的钩子时会发生什么 。
 sidebarLabel: 生命周期
-sidebarGroup: 基本情况
+sidebarGroup: 基础
 order: 4
 source: https://github.com/home-assistant/core/blob/dev/homeassistant/helpers/entity.py
 lastVerified: 2026-10-21

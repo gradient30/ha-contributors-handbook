@@ -1,7 +1,7 @@
 ---
 title: 处
 description: 一个几句单独的寄存器中的变化,这样你就可以在不触及主版本的情况下进行一些工作.
-sidebarGroup: 捐款
+sidebarGroup: 贡献
 term:
   aliases:
   - branches

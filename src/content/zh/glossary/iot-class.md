@@ -1,7 +1,7 @@
 ---
 title: IOT 类
 description: 集成如何获得其数据:本地或从云,通过投票或推. 设于表里.
-sidebarGroup: 核心和一体化
+sidebarGroup: 核心与集成
 term:
   code:
   - '"iot_class" in manifest.json'

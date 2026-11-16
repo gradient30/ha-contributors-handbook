@@ -1,7 +1,7 @@
 ---
 title: 实体登记册
 description: 查看您在实体注册簿中的整合实体, 当其独特的身份更改时, 移动它们 。
-sidebarGroup: 装置和登记册
+sidebarGroup: 设备与注册表
 order: 2
 ---
 

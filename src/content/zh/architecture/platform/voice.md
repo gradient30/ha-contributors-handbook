@@ -2,7 +2,7 @@
 title: 声音的工作原理
 description: 一句口语如何变成动作：唤醒词、语音转文字、会话代理和文字转语音，以及每个环节运行的位置。
 order: 8
-sidebarLabel: 声音
+sidebarLabel: 语音
 ---
 
 

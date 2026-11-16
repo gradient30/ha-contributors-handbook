@@ -2,7 +2,7 @@
 title: 日期和时间实体
 description: 构建一个日期和时间实体,让人们在设备上设定一个时间点,就像充电会话开始时一样.
 sidebarLabel: 日期和时间
-sidebarGroup: 投入和帮助
+sidebarGroup: 输入与助手
 ---
 
 # 日期和时间实体 {#date-and-time-entity}

@@ -1,7 +1,7 @@
 ---
-title: API (韩语)
+title: WebSocket API
 description: 前端使用的API. 连接是如何工作的,核心命令,错误处理,以及如何从集成中添加你自己的命令.
-sidebarGroup: 你说的
+sidebarGroup: API
 order: 31
 ---
 
@@ -21,7 +21,7 @@ JavaScript 使用 [Home Assistant-js-websocket](https://github.com/home-assistan
 
 每个消息都是带有 `type` 的 JSON 对象 。 在命令阶段,客户端的每条消息也有一个{H在现有资源范围内}:一个随每个命令而增加的数字. 服务器将 `id` 放在它发回的所有信件上, 这样您就可以匹配到命令的答案 。
 
-## 4.a(a)的合格后得到过合格后后得到过合格后后得到过过合格后后后得到过过过过过过等等等等等等等等等等等的合格后后才能得到过合格的合格后后后后才能得到过。等等等等等等等等合格后后才能得到合格后后后才能得到合格后后后才能得到过。等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、等等、、、、、、、、、、、、、、、、、、、、、、、、、、、、 {#authentication}
+## 认证
 
 连接后,服务器发送:
 
@@ -238,7 +238,7 @@ JavaScript 使用 [Home Assistant-js-websocket](https://github.com/home-assistan
 
 ### ing {#ping}
 
-衲子发送 `{"id": 19, "type": "ping"}` 和服务器回答 `{"id": 19, "type": "pong"}`.衲子用作为心跳来检查连接是活的.
+发送 `{"id": 19, "type": "ping"}` 和服务器回答 `{"id": 19, "type": "pong"}`.用作为心跳来检查连接是活的.
 
 ### 校验配置 {#validate-configuration}
 

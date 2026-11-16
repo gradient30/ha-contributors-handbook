@@ -2,7 +2,7 @@
 title: Android 持续集成
 description: Android 应用的 GitHub 操作工作流。在您的 pull request 上运行、合并后运行以及按计划运行。
 sidebarLabel: 持续集成
-sidebarGroup: 船
+sidebarGroup: 发布上线
 order: 2
 source: https://github.com/home-assistant/android/tree/main/.github/workflows
 lastVerified: 2026-10-27

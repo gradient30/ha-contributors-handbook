@@ -1,7 +1,7 @@
 ---
 title: 行动
 description: 有些事情Home Assistant可以做,比如打开灯或者发送通知。 自动化,脚本,和仪表板执行动作.
-sidebarGroup: 自动化和组织
+sidebarGroup: 自动化与组织
 term:
   aliases:
   - actions

@@ -1,7 +1,7 @@
 ---
 title: 配置条目
 description: 配置条目是如何设置、卸载、删除和迁移的,您的整合将保存运行时间数据。
-sidebarGroup: 设置和配置
+sidebarGroup: 设置与配置
 order: 1
 ---
 
