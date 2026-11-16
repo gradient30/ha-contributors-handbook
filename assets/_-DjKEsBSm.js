@@ -1,1 +1,0 @@
-import{d as e}from"./createLucideIcon-BjmfVUNT.js";import{t}from"./DocsShell-F_ytIDxc.js";import{n}from"./index-C6QJ_o99.js";var r=e();function i(){let{_splat:e}=n.useParams(),i=(e??``).replace(/\/$/,``);return(0,r.jsx)(t,{slug:i||`home`})}export{i as component};
