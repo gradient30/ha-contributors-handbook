@@ -1,0 +1,1 @@
+import{d as e}from"./createLucideIcon-BjmfVUNT.js";import{t}from"./DocsShell-DvVQjH2P.js";var n=e();function r(){return(0,n.jsx)(t,{slug:`home`})}export{r as component};
