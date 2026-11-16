@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Link, useRouterState } from "@tanstack/react-router";
 import { ChevronDown, Menu, Search, X } from "lucide-react";
 import { cn } from "@/lib/cn";
@@ -219,13 +219,20 @@ function SearchModal({ open, onClose }: { open: boolean; onClose: () => void }) 
   );
 }
 
-function scrollToHash(raw: string) {
+function scrollToHash(raw: string, scroller?: HTMLElement | null) {
   const id = decodeURIComponent(raw.replace(/^#/, ""));
   if (!id) {
-    window.scrollTo({ top: 0 });
+    (scroller ?? window).scrollTo({ top: 0 });
     return;
   }
-  document.getElementById(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
+  const el = document.getElementById(id);
+  if (!el) return;
+  if (scroller && scroller.contains(el)) {
+    const top = el.getBoundingClientRect().top - scroller.getBoundingClientRect().top + scroller.scrollTop - 8;
+    scroller.scrollTo({ top: Math.max(0, top), behavior: "smooth" });
+    return;
+  }
+  el.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
 export function DocsShell({ slug }: { slug: string }) {
@@ -241,6 +248,7 @@ export function DocsShell({ slug }: { slug: string }) {
   const [drawer, setDrawer] = useState(false);
   const [search, setSearch] = useState(false);
   const [colorful, setColorful] = useState(false);
+  const mainRef = useRef<HTMLElement>(null);
   const hash = useRouterState({ select: (s) => s.location.hash });
   const areaId = areaIdOf(slug);
   const officialUrl = slug === "home" || slug === "blog" ? OFFICIAL_DOCS_SITE + (slug === "blog" ? "/blog/" : "/") : officialUrlFor(slug);
@@ -273,12 +281,12 @@ export function DocsShell({ slug }: { slug: string }) {
   }, [slug]);
 
   useEffect(() => {
-    const t = window.setTimeout(() => scrollToHash(hash || window.location.hash), 40);
+    const t = window.setTimeout(() => scrollToHash(hash || window.location.hash, mainRef.current), 40);
     return () => window.clearTimeout(t);
   }, [slug, hash, md]);
 
   useEffect(() => {
-    const onHash = () => scrollToHash(window.location.hash);
+    const onHash = () => scrollToHash(window.location.hash, mainRef.current);
     window.addEventListener("hashchange", onHash);
     return () => window.removeEventListener("hashchange", onHash);
   }, []);
@@ -292,10 +300,10 @@ export function DocsShell({ slug }: { slug: string }) {
   }, []);
 
   return (
-    <div className="min-h-svh overflow-x-hidden bg-bg text-fg">
+    <div className="flex h-svh flex-col overflow-hidden bg-bg text-fg">
       <header
         className={cn(
-          "sticky top-0 z-40 flex h-12 items-center gap-2 overflow-visible border-b bg-bg/90 px-2 backdrop-blur-md sm:gap-3 sm:px-3 md:px-4",
+          "z-40 flex h-12 shrink-0 items-center gap-2 overflow-visible border-b bg-bg/90 px-2 backdrop-blur-md sm:gap-3 sm:px-3 md:px-4",
           colorful ? "border-accent" : "border-border",
         )}
       >
@@ -335,8 +343,8 @@ export function DocsShell({ slug }: { slug: string }) {
         </div>
       </header>
 
-      <div className="mx-auto flex max-w-[1320px]">
-        <aside className="sticky top-12 hidden h-[calc(100svh-3rem)] w-64 shrink-0 overflow-y-auto border-r border-border px-2 py-5 md:block">
+      <div className="mx-auto flex min-h-0 w-full max-w-[1320px] flex-1">
+        <aside className="hidden h-full w-64 shrink-0 overflow-y-auto overscroll-contain border-r border-border px-2 py-5 md:block">
           <AreaSwitcher currentArea={areaId} />
           <NavList nodes={sidebarNodes} current={slug} />
         </aside>
@@ -357,7 +365,7 @@ export function DocsShell({ slug }: { slug: string }) {
           </div>
         ) : null}
 
-        <main className="min-w-0 flex-1 px-4 py-8 sm:px-8 lg:px-10">
+        <main ref={mainRef} className="min-h-0 min-w-0 flex-1 overflow-y-auto overscroll-contain px-4 py-8 sm:px-8 lg:px-10">
           {page ? <p className="text-xs tracking-wide text-fg-subtle">{page.description}</p> : null}
           {md ? <Markdown source={md} /> : null}
           {slug === "home" ? <HomeBoard /> : null}
@@ -369,7 +377,7 @@ export function DocsShell({ slug }: { slug: string }) {
           </p>
         </main>
 
-        <aside className="sticky top-12 hidden h-[calc(100svh-3rem)] w-52 shrink-0 overflow-y-auto py-8 pr-4 xl:block">
+        <aside className="hidden h-full w-52 shrink-0 overflow-y-auto overscroll-contain py-8 pr-4 xl:block">
           <div className="text-xs font-medium tracking-[0.14em] text-fg-subtle uppercase">本页</div>
           <ul className="mt-3 space-y-1.5">
             {toc.map((t) => (
