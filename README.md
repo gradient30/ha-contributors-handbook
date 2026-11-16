@@ -12,15 +12,20 @@
 - 风格：明 / 暗 / 彩，切换结果保存在浏览器本地
 - 官方博客本期未汉化，本站只提供[指向官网博客的入口](https://contributors.home-assistant.io/blog/)
 
-## 首次启用 Pages（一次性）
+## 发布方式
 
-仓库刚创建时需要在 GitHub 勾选发布源，之后每次推送和 6 小时指纹对照都会自动更新：
+当前线上站点由 **`gh-pages` 分支**静态发布（已启用并可用）：
 
-1. 打开 [Settings → Pages](https://github.com/gradient30/ha-contributors-handbook/settings/pages)
-2. Build and deployment → Source 选择 **GitHub Actions**
-3. 到 [Actions](https://github.com/gradient30/ha-contributors-handbook/actions) 把最近一次 *Deploy GitHub Pages* 点 **Re-run jobs**
+- 站点：https://gradient30.github.io/ha-contributors-handbook/
+- 源码：`main` 分支
+- 构建产物：推送到 `gh-pages`
 
-工作流也会尝试通过 API 启用 Pages（`build_type=workflow`）。如果第一次部署仍停在等待环境授权，按上面三步即可。
+仓库里保留了 Actions 工作流样例 `.github/workflows/pages.yml`（本地未推送）。若要改成 **GitHub Actions** 自动构建：
+
+1. 用带 `workflow` 权限的 token / PAT 把 `.github/workflows/pages.yml` 推到 `main`
+2. 打开 [Settings → Pages](https://github.com/gradient30/ha-contributors-handbook/settings/pages)
+3. Build and deployment → Source 选择 **GitHub Actions**
+4. 到 [Actions](https://github.com/gradient30/ha-contributors-handbook/actions) 运行 *Deploy GitHub Pages*
 
 ## 内容
 
